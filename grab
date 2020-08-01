@@ -1,0 +1,3 @@
+wget -q -O feed.ics https://lists.hyperledger.org/ics/1902217/3131022486068381536/feed.ics
+git add feed.ics
+git commit -a -s -m "Update"
