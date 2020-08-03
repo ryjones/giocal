@@ -5,7 +5,7 @@ METHOD:PUBLISH
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:sMch.1575572291261581579.Xp2I@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
 DTSTART;TZID=America/Belize:20200120T220000
 DTEND;TZID=America/Belize:20200120T230000
@@ -28,7 +28,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:x9Fj.1578945383908050015.raSp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=architecture-wg@lists.hyperledger.org Group:mailto:community
  -architects@hyperledger.org
 DTSTART:20200123
@@ -42,7 +42,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:73MC.1578947282529609276.9hWR@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=fabric@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200123
@@ -56,7 +56,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Q88h.1578945664636627839.Ymw9@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=identity-wg@lists.hyperledger.org Group:mailto:community-arc
  hitects@hyperledger.org
 DTSTART:20200130
@@ -70,7 +70,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:u2l1.1578955515133651015.06aT@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=sawtooth@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200130
@@ -84,7 +84,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:lc0M.1578945964432409937.3bW7@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=perf-and-scale-wg@lists.hyperledger.org Group:mailto:communi
  ty-architects@hyperledger.org
 DTSTART:20200206
@@ -98,7 +98,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:21is.1578956008685467546.G3fi@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=iroha@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200206
@@ -112,7 +112,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:gUYI.1578956224088517745.UzQl@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=indy@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200213
@@ -126,7 +126,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:WXFp.1578946674535670855.omQ4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=smart-contracts-wg@lists.hyperledger.org Group:mailto:commun
  ity-architects@hyperledger.org
 DTSTART:20200220
@@ -140,7 +140,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:AsTR.1578956412314333873.cs5U@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=burrow@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200220
@@ -154,7 +154,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2IgX.1578946867923671764.N5Bw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=learning-materials-development-wg@lists.hyperledger.org Grou
  p:mailto:community-architects@hyperledger.org
 DTSTART:20200227
@@ -168,7 +168,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:y87g.1578956879428199034.111i@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=avalon@lists.hyperledger.org Group:mailto:avalon@lists.hyper
  ledger.org
 DTSTART:20200227
@@ -182,7 +182,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Couj.1578956672943648422.kFUg@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200227
@@ -196,7 +196,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:a0b8.1578957362448261955.PFLt@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=cello@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200305
@@ -209,22 +209,8 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:oQ4w.1578959775724190237.oXpM@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
-ORGANIZER;CN=ursa@lists.hyperledger.org Group:mailto:community-architects
- @hyperledger.org
-DTSTART:20200305
-DTEND:20200306
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1TH
-SUMMARY:[Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-
- project-update
-DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
- s://wiki.hyperledger.org/display/TSC/Project+Status+Updates
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:2Qyl.1578957544404741219.TwGz@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200305
@@ -237,8 +223,22 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:oQ4w.1578959775724190237.oXpM@lists.hyperledger.org
+DTSTAMP:20200803T182801Z
+ORGANIZER;CN=ursa@lists.hyperledger.org Group:mailto:community-architects
+ @hyperledger.org
+DTSTART:20200305
+DTEND:20200306
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1TH
+SUMMARY:[Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-
+ project-update
+DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
+ s://wiki.hyperledger.org/display/TSC/Project+Status+Updates
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:2mcU.1583042806162070515.UFp2@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=David Liu:mailto:david-khala@hotmail.com
 DTSTART;TZID=Asia/Chongqing:20200311T100000
 DTEND;TZID=Asia/Chongqing:20200311T110000
@@ -261,7 +261,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8Pnr.1582224390079532971.1Uw1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=aries@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200312
@@ -275,7 +275,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:jUmT.1578958127299479468.i19z@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=explorer@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200312
@@ -289,7 +289,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9juz.1578958524244289493.guSt@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=grid@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200319
@@ -302,22 +302,8 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:B41u.1578959569516252720.4SOu@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
-ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
- cts@hyperledger.org
-DTSTART:20200326
-DTEND:20200327
-RRULE:FREQ=YEARLY;INTERVAL=1
-SUMMARY:[Hyperledger Caliper] Hyperledger Project Quarterly Update Due #t
- sc-project-update
-DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
- s://wiki.hyperledger.org/display/TSC/Project+Status+Updates
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:q1E0.1578959958039811776.kciL@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200326
@@ -330,8 +316,22 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:B41u.1578959569516252720.4SOu@lists.hyperledger.org
+DTSTAMP:20200803T182801Z
+ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
+ cts@hyperledger.org
+DTSTART:20200326
+DTEND:20200327
+RRULE:FREQ=YEARLY;INTERVAL=1
+SUMMARY:[Hyperledger Caliper] Hyperledger Project Quarterly Update Due #t
+ sc-project-update
+DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
+ s://wiki.hyperledger.org/display/TSC/Project+Status+Updates
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:89bp.1581017253142940279.IdQS@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger India Chapter Community:mailto:community-india-c
  hapter@lists.hyperledger.org
 DTSTART;TZID=Asia/Kolkata:20200402T140000
@@ -358,7 +358,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Lz3Z.1578945479752658533.Okwn@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=architecture-wg@lists.hyperledger.org Group:mailto:community
  -architects@hyperledger.org
 DTSTART:20200409
@@ -372,7 +372,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:872S.1578947280345659952.SIjK@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=fabric@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200409
@@ -386,7 +386,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:JYxR.1578945776277150304.MpCe@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=identity-wg@lists.hyperledger.org Group:mailto:community-arc
  hitects@hyperledger.org
 DTSTART:20200416
@@ -400,7 +400,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:buBe.1578955521257734323.s22d@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=sawtooth@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200416
@@ -414,7 +414,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:eQgD.1578946016030296989.zb56@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=perf-and-scale-wg@lists.hyperledger.org Group:mailto:communi
  ty-architects@hyperledger.org
 DTSTART:20200423
@@ -428,7 +428,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0y26.1578956014545016567.PO73@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=iroha@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200423
@@ -443,7 +443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A2B287C1431CD6010000000000000
  00010000000574FD4FBC10D1D4BB8C30292AF2C34CB
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Atul Patel:mailto:atulp@dlt.sg
 DTSTART;TZID=Asia/Singapore:20200428T153000
 DTEND;TZID=Asia/Singapore:20200428T163000
@@ -462,7 +462,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:csLi.1578956208962630509.a2Ea@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=indy@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200430
@@ -476,7 +476,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:OMOc.1573765382008895961.4zff@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Baohua Yang:mailto:yangbaohua@gmail.com
 DTSTART;TZID=UTC:20200502T020000
 DTEND;TZID=UTC:20200502T030000
@@ -496,7 +496,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:OcxE.1578946671373494575.iq1S@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=smart-contracts-wg@lists.hyperledger.org Group:mailto:commun
  ity-architects@hyperledger.org
 DTSTART:20200507
@@ -510,7 +510,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:lehp.1578956417347249295.ng3V@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=burrow@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200507
@@ -524,7 +524,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RXmy.1578605983532526989.KZak@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=dci-wg@lists.hyperledger.org Group:mailto:dci-wg@lists.hyper
  ledger.org
 DTSTART;TZID=America/Los_Angeles:20200513T090000
@@ -554,7 +554,7 @@ EXDATE:20200805T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:JaH3.1578946870432381685.hrR5@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=learning-materials-development-wg@lists.hyperledger.org Grou
  p:mailto:community-architects@hyperledger.org
 DTSTART:20200514
@@ -568,7 +568,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:DUgx.1578956679063430300.a64U@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200514
@@ -582,7 +582,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tok9.1589402040998735845.toq4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Chicago:20200518T210000
 DTEND;TZID=America/Chicago:20200518T220000
@@ -604,7 +604,7 @@ EXDATE:20200526T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART;TZID=Europe/London:20200520T150000
 DTEND;TZID=Europe/London:20200520T160000
@@ -624,7 +624,7 @@ EXDATE:20200826T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:xeLT.1578957368237618070.0CrH@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=cello@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200521
@@ -638,7 +638,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:f1i7.1578957622918784641.kpQO@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200521
@@ -652,7 +652,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7QiB.1585760208280974373.QYRd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Prajit Datta:mailto:prajitdatta9@gmail.com
 DTSTART;TZID=America/Los_Angeles:20200523T060000
 DTEND;TZID=America/Los_Angeles:20200523T070000
@@ -676,7 +676,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:dzcR.1590702111516775918.5Rng@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=David Boswell:mailto:meetups@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200528T093000
 DTEND;TZID=America/Los_Angeles:20200528T103000
@@ -693,7 +693,7 @@ EXDATE:20200611T163000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6PTp.1578958149658448051.PCm5@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=explorer@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200528
@@ -707,7 +707,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NSD8.1591119430934086488.qObk@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=David Boswell:mailto:meetups@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200602T090000
 DTEND;TZID=America/Los_Angeles:20200602T093000
@@ -722,7 +722,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:VdHv.1581017176054300961.uc4N@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger India Chapter Community:mailto:community-india-c
  hapter@lists.hyperledger.org
 DTSTART;TZID=Asia/Kolkata:20200603T150000
@@ -749,7 +749,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wzYa.1578958530271469011.KtK1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=grid@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200604
@@ -763,7 +763,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:20200304@interledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:quilt@lists.hyperle
  dger.org
 DTSTART;TZID=UTC:20200610T160000
@@ -780,7 +780,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:kFe0.1578959962276940445.xGVP@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200611
@@ -794,7 +794,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:GIsv.1591923966998838550.IdI5@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
  mailto:community-latinoamerica-chapter@lists.hyperledger.org
 DTSTART;TZID=America/Bogota:20200611T183000
@@ -812,7 +812,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART;TZID=Europe/London:20200617T150000
 DTEND;TZID=Europe/London:20200617T160000
@@ -827,7 +827,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:XayV.1578956884367229206.Obj6@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=avalon@lists.hyperledger.org Group:mailto:avalon@lists.hyper
  ledger.org
 DTSTART:20200618
@@ -841,7 +841,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:FHpc.1580078528700220562.IR3A@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Stephen Curran:mailto:swcurran@cloudcompass.ca
 DTSTART;TZID=America/Denver:20200623T090000
 DTEND;TZID=America/Denver:20200623T100000
@@ -862,7 +862,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RoYJ.1592963988972068414.8uf5@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Peter Somogyvari:mailto:cactus@lists.hyperledger.org
 DTSTART;TZID=America/Chicago:20200625T103000
 DTEND;TZID=America/Chicago:20200625T113000
@@ -875,7 +875,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tvMF.1590618281444595341.B8sd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger TSC:mailto:community-architects@hyperledger.org
 DTSTART:20200625
 DTEND:20200626
@@ -888,7 +888,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:GSot.1578959576238451515.folR@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
  cts@hyperledger.org
 DTSTART:20200625
@@ -902,7 +902,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:oWMq.1592964184800346443.HC5Q@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Shingo Fujimoto:mailto:cactus@lists.hyperledger.org
 DTSTART;TZID=UTC:20200702T080000
 DTEND;TZID=UTC:20200702T090000
@@ -915,7 +915,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wVKA.1578945527470213958.GCWG@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=architecture-wg@lists.hyperledger.org Group:mailto:community
  -architects@hyperledger.org
 DTSTART:20200709
@@ -929,7 +929,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fyos.1578947278410025860.cIPT@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=fabric@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200709
@@ -943,7 +943,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:UzSe.1594217955003843395.wk9v@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART;TZID=America/Los_Angeles:20200711T013000
@@ -960,7 +960,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7gPv.1580414229276543888.uXqT@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200714T080000
@@ -986,7 +986,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:gv8C.1578945821955272951.nT1j@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=identity-wg@lists.hyperledger.org Group:mailto:community-arc
  hitects@hyperledger.org
 DTSTART:20200716
@@ -1000,7 +1000,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:rUwz.1578955529984483983.tqKM@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=sawtooth@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200716
@@ -1014,7 +1014,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:crhA.1578946151948455451.6yOs@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=perf-and-scale-wg@lists.hyperledger.org Group:mailto:communi
  ty-architects@hyperledger.org
 DTSTART:20200723
@@ -1028,7 +1028,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:OdDI.1578956019585130307.i9fp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=iroha@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200723
@@ -1042,7 +1042,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:gnCE.1580078586891988355.ToOG@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:iroha@lists.hyperledge
  r.org
 DTSTART;TZID=Europe/Moscow:20200729T143000
@@ -1055,7 +1055,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:HB46.1578956213812731591.lE16@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=indy@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200730
@@ -1069,7 +1069,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:YIIB.1574440022464343337.1M2v@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
 DTSTART;TZID=America/Chicago:20200803T083000
 DTEND;TZID=America/Chicago:20200803T093000
@@ -1093,7 +1093,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:dlkd.1585324827780949208.BaFS@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Deniz Coskun:mailto:denizcoskun.mail@gmail.com
 DTSTART;TZID=America/Los_Angeles:20200803T080000
 DTEND;TZID=America/Los_Angeles:20200803T090000
@@ -1124,7 +1124,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Xl7I.1575896655511218450.t3Kc@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Steven Elliott:mailto:steven.elliott@interactivetec.com
 DTSTART;TZID=America/Los_Angeles:20200803T090000
 DTEND;TZID=America/Los_Angeles:20200803T100000
@@ -1151,7 +1151,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:JTm2.1585563623029261291.OcaM@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Andrea Frostini &amp; Atul Patel:mailto:trade-finance-sig@li
  sts.hyperledger.org
 DTSTART;TZID=Europe/London:20200804T083000
@@ -1174,7 +1174,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:I7oC.1580078587226210341.aO35@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Mark Wagner:mailto:mwagner@redhat.com
 DTSTART;TZID=America/New_York:20200804T090000
 DTEND;TZID=America/New_York:20200804T100000
@@ -1189,7 +1189,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ZOkO.1580078541871612237.UIqv@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:social-impact-sig@list
  s.hyperledger.org
 DTSTART;TZID=America/New_York:20200804T100000
@@ -1204,10 +1204,11 @@ DESCRIPTION:Join Zoom Meeting\nhttps://zoom.us/j/6223336701\n\nOne tap mo
  701\nFind your local number: https://zoom.us/u/bFAkRFwOg
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
+EXDATE:20200804T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:xIPF.1589400361225128196.LVis@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Dave Enyeart:mailto:enyeart@us.ibm.com
 DTSTART;TZID=America/New_York:20200804T100000
 DTEND;TZID=America/New_York:20200804T103000
@@ -1219,7 +1220,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:qgig.1576184568657056893.t1Vq@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:besu@lists.hyperledg
  er.org
 DTSTART;TZID=UTC:20200804T150000
@@ -1238,7 +1239,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:rUeS.1575933571835475884.Jb77@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Marcus Brandenburger:mailto:bur@zurich.ibm.com
 DTSTART;TZID=America/Los_Angeles:20200804T080000
 DTEND;TZID=America/Los_Angeles:20200804T090000
@@ -1261,7 +1262,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:mUmr.1574918943934223893.8skU@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=David Fuelling:mailto:quilt@lists.hyperledger.org
 DTSTART;TZID=America/Denver:20200804T100000
 DTEND;TZID=America/Denver:20200804T110000
@@ -1284,10 +1285,11 @@ DESCRIPTION:Let's sync-up to discuss Hyperledger Quilt\, the Java ILP imp
  &ust=1567260346072000&usg=AOvVaw1YOC6hW0PeLgYmcA4QPBZL )
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
+EXDATE:20200804T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ip9L.1580848371576570462.eJxS@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Dave Enyeart:mailto:enyeart@us.ibm.com
 DTSTART;TZID=America/New_York:20200805T090000
 DTEND;TZID=America/New_York:20200805T100000
@@ -1299,21 +1301,8 @@ LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:Q79r.1576076955904633818.IZkJ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
-ORGANIZER;CN=Hart Montgomery:mailto:hmontgomery@us.fujitsu.com
-DTSTART;TZID=America/Los_Angeles:20200805T070000
-DTEND;TZID=America/Los_Angeles:20200805T080000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
-SUMMARY:[Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
-DESCRIPTION:This is the regular biweekly Ursa meeting.\n\nhttps://zoom.us
- /my/hyperledger.community.backup
-LOCATION:Zoom:  https://zoom.us/my/hyperledger.community.backup
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:uZhE.1588008425894183709.q8Av@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART;TZID=Europe/London:20200805T150000
 DTEND;TZID=Europe/London:20200805T160000
@@ -1330,8 +1319,21 @@ LOCATION:Register in advance for this webinar: https://zoom.us/webinar/re
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:Q79r.1576076955904633818.IZkJ@lists.hyperledger.org
+DTSTAMP:20200803T182801Z
+ORGANIZER;CN=Hart Montgomery:mailto:hmontgomery@us.fujitsu.com
+DTSTART;TZID=America/Los_Angeles:20200805T070000
+DTEND;TZID=America/Los_Angeles:20200805T080000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
+SUMMARY:[Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
+DESCRIPTION:This is the regular biweekly Ursa meeting.\n\nhttps://zoom.us
+ /my/hyperledger.community.backup
+LOCATION:Zoom:  https://zoom.us/my/hyperledger.community.backup
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:kNp2.1580078587103437529.azjr@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Attila Klenik:mailto:caliper@lists.hyperledger.org
 DTSTART;TZID=UTC:20200805T150000
 DTEND;TZID=UTC:20200805T160000
@@ -1349,25 +1351,8 @@ LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:20200122@interledger.org
-DTSTAMP:20200803T162800Z
-ORGANIZER;CN=Adrian Hope-Bailie:mailto:adrian@hopebailie.com
-DTSTART;TZID=UTC:20200805T160000
-DTEND;TZID=UTC:20200805T170000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE;UNTIL=20201002T065959Z
-SUMMARY:[Hyperledger Quilt] Interledger Community Call
-DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android: https://zoom.us/
- s/377506344\n\nOr iPhone one-tap:\n    US: +14086380968\,\,377506344# or 
- +16468769923\,\,377506344#\n\nOr Telephone:\n    Dial(for higher quality\
- , dial a number based on your current location): \n    US: +1 408 638 096
- 8 or +1 646 876 9923 or +1 669 900 6833 \n    Meeting ID: 377 506 344\n  
-   International numbers available: https://zoom.us/u/cbrUAzE3W
-LOCATION:https://zoom.us/s/377506344
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:OQpW.1580078543204559586.srHe@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Vipin Bharathan:mailto:identity-wg@lists.hyperledger.org
 DTSTART;TZID=America/New_York:20200805T120000
 DTEND;TZID=America/New_York:20200805T130000
@@ -1387,8 +1372,25 @@ LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:20200122@interledger.org
+DTSTAMP:20200803T182801Z
+ORGANIZER;CN=Adrian Hope-Bailie:mailto:adrian@hopebailie.com
+DTSTART;TZID=UTC:20200805T160000
+DTEND;TZID=UTC:20200805T170000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE;UNTIL=20201002T065959Z
+SUMMARY:[Hyperledger Quilt] Interledger Community Call
+DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android: https://zoom.us/
+ s/377506344\n\nOr iPhone one-tap:\n    US: +14086380968\,\,377506344# or 
+ +16468769923\,\,377506344#\n\nOr Telephone:\n    Dial(for higher quality\
+ , dial a number based on your current location): \n    US: +1 408 638 096
+ 8 or +1 646 876 9923 or +1 669 900 6833 \n    Meeting ID: 377 506 344\n  
+   International numbers available: https://zoom.us/u/cbrUAzE3W
+LOCATION:https://zoom.us/s/377506344
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:2Mlm.1578956356692884030.lTpw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Stephen Curran:mailto:swcurran@cloudcompass.ca
 DTSTART;TZID=America/Los_Angeles:20200805T110000
 DTEND;TZID=America/Los_Angeles:20200805T120000
@@ -1407,7 +1409,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Sjxz.1575574554510497267.JX9w@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Sam Curren:mailto:telegramsam@gmail.com
 DTSTART;TZID=America/Denver:20200805T130000
 DTEND;TZID=America/Denver:20200805T143000
@@ -1430,7 +1432,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:iSwI.1580078554526254896.02EX@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:fabric@lists.hyperledg
  er.org
 DTSTART;TZID=UTC:20200806T090000
@@ -1452,7 +1454,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:B9y4.1580078602552729090.whTP@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:fabric@lists.hyperledg
  er.org
 DTSTART;TZID=America/New_York:20200806T090000
@@ -1472,7 +1474,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Dp9p.1573761635292055179.bRYc@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Technical Steering Committee (TSC):mailto:community-architec
  ts@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200806T070000
@@ -1496,7 +1498,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1aWR.1580078602750152106.QYqY@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Marco Carvalho:mailto:Marco.Carvalho@rsmus.com
 DTSTART;TZID=America/New_York:20200806T120000
 DTEND;TZID=America/New_York:20200806T130000
@@ -1516,7 +1518,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:woGD.1578946668339167504.Mjgp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=smart-contracts-wg@lists.hyperledger.org Group:mailto:commun
  ity-architects@hyperledger.org
 DTSTART:20200806
@@ -1530,7 +1532,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wh70.1578956421571841665.4fhL@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=burrow@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20200806
@@ -1544,7 +1546,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uFTd.1578604760869553562.36ND@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Fabric SDK Python Team:mailto:fabric@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200806T210000
 DTEND;TZID=America/Los_Angeles:20200806T220000
@@ -1559,7 +1561,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:djuK.1575909313425074418.CfM1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Anthony O&#39;Dowd:mailto:a_o-dowd@uk.ibm.com
 DTSTART;TZID=Europe/London:20200807T060000
 DTEND;TZID=Europe/London:20200807T070000
@@ -1574,7 +1576,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:c5gA.1592596698230435957.q1Fm@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Ajay Jadhav:mailto:ajay@ayanworks.com
 DTSTART;TZID=Asia/Kolkata:20200807T160000
 DTEND;TZID=Asia/Kolkata:20200807T170000
@@ -1597,7 +1599,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:W9DC.1580078192020489285.VvfF@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Rich Bloch:mailto:healthcare-sig@lists.hyperledger.org
 DTSTART;TZID=America/Denver:20200807T080000
 DTEND;TZID=America/Denver:20200807T090000
@@ -1616,7 +1618,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:4Eor.1575655334541130099.K6bY@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Anthony O&#39;Dowd:mailto:a_o-dowd@uk.ibm.com
 DTSTART;TZID=Europe/London:20200807T160000
 DTEND;TZID=Europe/London:20200807T170000
@@ -1631,7 +1633,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:pU0I.1576725691036786702.Qx1Q@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=learning-materials-development-wg@lists.hyperledger.org Grou
  p:mailto:learning-materials-development-wg@lists.hyperledger.org
 DTSTART;TZID=America/New_York:20200810T130000
@@ -1665,7 +1667,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ASP1.1575574716020039265.ckuN@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Richard Esplin:mailto:richard.esplin@evernym.com
 DTSTART;TZID=America/Denver:20200812T080000
 DTEND;TZID=America/Denver:20200812T090000
@@ -1685,7 +1687,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0ziO.1580078662143876700.F9Ce@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Vipin Bharathan:mailto:vip@dlt.nyc
 DTSTART;TZID=America/New_York:20200812T100000
 DTEND;TZID=America/New_York:20200812T110000
@@ -1712,7 +1714,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6yQF.1574181517770819510.yWZ7@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Ram Jagadeesan:mailto:ram.jagadeesan@gmail.com
 DTSTART;TZID=America/Los_Angeles:20200812T090000
 DTEND;TZID=America/Los_Angeles:20200812T100000
@@ -1724,7 +1726,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:adbr.1584549097249112229.AFof@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Marketing Committee:mailto:marketing@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200812T090000
 DTEND;TZID=America/Los_Angeles:20200812T100000
@@ -1749,7 +1751,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:S9P9.1575576037820555792.eHMF@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Steve McCown:mailto:smccown@anonyome.com
 DTSTART;TZID=America/Denver:20200813T090000
 DTEND;TZID=America/Denver:20200813T100000
@@ -1772,7 +1774,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:y6UG.1575582487141500421.EOR0@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=telecom-sig@lists.hyperledger.org Group:mailto:telecom-sig@l
  ists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20200813T090000
@@ -1795,7 +1797,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:lifz.1578946871292505044.WB5D@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=learning-materials-development-wg@lists.hyperledger.org Grou
  p:mailto:community-architects@hyperledger.org
 DTSTART:20200813
@@ -1809,7 +1811,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:iWZG.1578956685668453070.9AtI@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200813
@@ -1824,7 +1826,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000F02249E4FE9DD5010000000000000
  0001000000009BA6AFA7CA0014EA8610CE051FE0067
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=&#34;Sriharsha\, Mysore Subbakrishna&#34;:mailto:mysore.subb
  akrishna.sriharsha@intel.com
 DTSTART;TZID=Pacific/Midway:20200813T200000
@@ -1848,7 +1850,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:as8q.1575900429623016481.8JJp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Public Sector SIG:mailto:public-sector-sig@lists.hyperledger
  .org
 DTSTART;TZID=Europe/London:20200814T150000
@@ -1867,7 +1869,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:QvgW.1580078587524305325.wWGU@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Raveesh Dewer:mailto:healthcare-sig@lists.hyperledger.org
 DTSTART;TZID=America/New_York:20200814T130000
 DTEND;TZID=America/New_York:20200814T140000
@@ -1887,7 +1889,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cEaF.1576184756480570128.Gr8a@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:besu@lists.hyperledg
  er.org
 DTSTART;TZID=UTC:20200818T010000
@@ -1906,7 +1908,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wmpK.1578957373593628980.dUL3@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=cello@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200820
@@ -1920,7 +1922,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:R0ux.1578957632324970963.KP6l@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20200820
@@ -1934,7 +1936,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:WZMX.1579874448136660090.vu7e@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
 DTSTART;TZID=America/Chicago:20200827T103000
 DTEND;TZID=America/Chicago:20200827T113000
@@ -1960,7 +1962,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:hjLB.1578958160202936268.sgnw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=explorer@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20200827
@@ -1974,7 +1976,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:d4IX.1578958535619448257.rjAu@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=grid@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200903
@@ -1988,7 +1990,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:IWyk.1578959965775592409.Lw9l@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20200910
@@ -2002,7 +2004,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wA5f.1578956888615526337.EYeU@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=avalon@lists.hyperledger.org Group:mailto:avalon@lists.hyper
  ledger.org
 DTSTART:20200917
@@ -2016,7 +2018,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:v8gm.1578959597461822542.EKhM@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
  cts@hyperledger.org
 DTSTART:20200924
@@ -2030,7 +2032,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:FRuj.1578945575607975043.uyTt@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=architecture-wg@lists.hyperledger.org Group:mailto:community
  -architects@hyperledger.org
 DTSTART:20201008
@@ -2044,7 +2046,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:hydQ.1578947274987795928.2Q7W@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=fabric@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20201008
@@ -2058,7 +2060,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:AiyU.1578945865311389040.G7iP@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=identity-wg@lists.hyperledger.org Group:mailto:community-arc
  hitects@hyperledger.org
 DTSTART:20201015
@@ -2072,7 +2074,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wsby.1578955535625233912.tQqh@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=sawtooth@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20201015
@@ -2086,7 +2088,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:VLUS.1578946158189537106.f3KP@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=perf-and-scale-wg@lists.hyperledger.org Group:mailto:communi
  ty-architects@hyperledger.org
 DTSTART:20201022
@@ -2100,7 +2102,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Mmna.1578956024846181707.BllG@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=iroha@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20201022
@@ -2114,7 +2116,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uumg.1578956219148288557.ON8a@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=indy@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20201029
@@ -2128,7 +2130,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RijI.1578946664522247314.qb2z@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=smart-contracts-wg@lists.hyperledger.org Group:mailto:commun
  ity-architects@hyperledger.org
 DTSTART:20201105
@@ -2142,7 +2144,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:X4EK.1578956426318886520.X4Uw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=burrow@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20201105
@@ -2156,7 +2158,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uarC.1578946871972768219.HoHG@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=learning-materials-development-wg@lists.hyperledger.org Grou
  p:mailto:community-architects@hyperledger.org
 DTSTART:20201112
@@ -2170,7 +2172,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Hnbh.1578956690507998353.geyi@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20201112
@@ -2184,7 +2186,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:feCA.1578957378511166680.ZrXl@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=cello@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20201119
@@ -2198,7 +2200,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:rDee.1578957639235825764.xZn8@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20201119
@@ -2212,7 +2214,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:unT1.1578958168561729437.nvW1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=explorer@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20201126
@@ -2226,7 +2228,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:XO4W.1578958540218120117.Eapy@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=grid@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20201203
@@ -2240,7 +2242,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wLOC.1578959970872236789.4OVP@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20201210
@@ -2254,7 +2256,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:KN0A.1580078298431629019.GIwv@groups.io
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=SIG-Chairs@lists.hyperledger.org Group:mailto:SIG-Chairs@lis
  ts.hyperledger.org
 DTSTART:20201216
@@ -2286,7 +2288,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:rjLL.1578956893378268652.6vR3@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=avalon@lists.hyperledger.org Group:mailto:avalon@lists.hyper
  ledger.org
 DTSTART:20201217
@@ -2300,7 +2302,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:V3KM.1578959592589739786.CSbx@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
  cts@hyperledger.org
 DTSTART:20201217
@@ -2314,7 +2316,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200415T140000Z
 DTEND:20200415T150000Z
@@ -2340,7 +2342,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200506T140000Z
 DTEND:20200506T150000Z
@@ -2366,7 +2368,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7QiB.1585760208280974373.QYRd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Prajit Datta:mailto:prajitdatta9@gmail.com
 DTSTART:20200509T140000Z
 DTEND:20200509T150000Z
@@ -2389,7 +2391,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7QiB.1585760208280974373.QYRd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Prajit Datta:mailto:prajitdatta9@gmail.com
 DTSTART:20200516T130000Z
 DTEND:20200516T140000Z
@@ -2413,7 +2415,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200520T140000Z
 DTEND:20200520T150000Z
@@ -2441,7 +2443,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RXmy.1578605983532526989.KZak@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=dci-wg@lists.hyperledger.org Group:mailto:dci-wg@lists.hyper
  ledger.org
 DTSTART:20200520T160000Z
@@ -2468,7 +2470,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200603T140000Z
 DTEND:20200603T150000Z
@@ -2493,7 +2495,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RXmy.1578605983532526989.KZak@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=dci-wg@lists.hyperledger.org Group:mailto:dci-wg@lists.hyper
  ledger.org
 DTSTART:20200610T170000Z
@@ -2520,7 +2522,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:WZMX.1579874448136660090.vu7e@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
 DTSTART:20200611T150000Z
 DTEND:20200611T160000Z
@@ -2546,7 +2548,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200617T140000Z
 DTEND:20200617T150000Z
@@ -2574,7 +2576,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200701T140000Z
 DTEND:20200701T150000Z
@@ -2606,7 +2608,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NF32.1586871277673659011.aDwC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200715T140000Z
 DTEND:20200715T150000Z
@@ -2630,7 +2632,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uZhE.1588008425894183709.q8Av@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200805T140000Z
 DTEND:20200805T150000Z
@@ -2648,7 +2650,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200819T140000Z
 DTEND:20200819T150000Z
@@ -2675,7 +2677,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uZhE.1588008425894183709.q8Av@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200902T140000Z
 DTEND:20200902T150000Z
@@ -2693,7 +2695,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20200916T140000Z
 DTEND:20200916T150000Z
@@ -2709,7 +2711,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uZhE.1588008425894183709.q8Av@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20201014T140000Z
 DTEND:20201014T150000Z
@@ -2730,7 +2732,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART:20201021T140000Z
 DTEND:20201021T150000Z
@@ -2762,7 +2764,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:BV8O.1579803607518333337.bfuB@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=dci-wg@lists.hyperledger.org Group:mailto:dci-wg@lists.hyper
  ledger.org
 DTSTART:20200129T180000Z
@@ -2788,7 +2790,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:F73AF074-86F3-4EE6-BCA3-82229487B3E7
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200211T160000Z
@@ -2801,7 +2803,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:DC8A874B-8F6F-41E4-AFE0-E87C0B509CA7
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200225T160000Z
@@ -2816,7 +2818,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:36A9FEE7-F777-4ABB-BE73-AE42C257109F
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200310T150000Z
@@ -2829,7 +2831,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:NeZ0.1584049125140996621.DeqF@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Dong Huang:mailto:godblesscliff@gmail.com
 DTSTART:20200320T080000Z
 DTEND:20200320T100000Z
@@ -2850,7 +2852,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7755420D-F38C-4D1B-A056-47C362E547DC
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200324T150000Z
@@ -2865,7 +2867,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uIFO.1583959116715461285.M4lY@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Ahmad Manzoor:mailto:ahmad@pakistanblockchaininstitute.org
 DTSTART:20200326T130000Z
 DTEND:20200326T150000Z
@@ -2886,7 +2888,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:w3LM.1585342286427840704.KZm4@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Keyur Patel:mailto:keyur8662patel@gmail.com
 DTSTART:20200328T073000Z
 DTEND:20200328T103000Z
@@ -2905,7 +2907,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:ZPrM.1585342363704622767.4lSn@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Keyur Patel:mailto:keyur8662patel@gmail.com
 DTSTART:20200329T073000Z
 DTEND:20200329T103000Z
@@ -2924,7 +2926,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:UDeR.1585639772383047611.v8hT@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Kamlesh Nagware:mailto:community-india-chapter@lists.hyperle
  dger.org
 DTSTART:20200402T133000Z
@@ -2951,7 +2953,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:v52Y.1585166283250788106.m5Pu@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Prajit Datta:mailto:prajitdatta9@gmail.com
 DTSTART:20200402T160000Z
 DTEND:20200402T170000Z
@@ -2972,7 +2974,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:zGqb.1585342439340674776.WpXi@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Keyur Patel:mailto:keyur8662patel@gmail.com
 DTSTART:20200405T063000Z
 DTEND:20200405T073000Z
@@ -2991,7 +2993,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:hbrm.1585926848578847194.fuQs@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Laura Spinaci:mailto:lauraspinaci.biz@hotmail.com
 DTSTART:20200409T150000Z
 DTEND:20200409T170000Z
@@ -3010,7 +3012,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:lsLn.1585350872746782608.Gpoq@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=John Carpenter:mailto:john@globalblockchainsummit.com
 DTSTART:20200409T190000Z
 DTEND:20200409T210000Z
@@ -3028,7 +3030,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:CkFO.1585599623096277063.asC1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Moolshanker Kothari:mailto:moolkothari@hotmail.com
 DTSTART:20200413T140000Z
 DTEND:20200413T160000Z
@@ -3047,7 +3049,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:R4Ex.1585941697600437072.tB3w@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Javier Salomón:mailto:javiersalomon@outlook.com
 DTSTART:20200415
 DTEND:20200416
@@ -3066,7 +3068,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:hVNM.1586530338889633900.73Bz@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Laura Spinaci:mailto:lauraspinaci.biz@hotmail.com
 DTSTART:20200416T180000Z
 DTEND:20200416T200000Z
@@ -3088,7 +3090,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:HfvT.1586893117029886436.Aes0@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Rudolf van Ee:mailto:rudolf@rec4it.com
 DTSTART:20200421T140000Z
 DTEND:20200421T160000Z
@@ -3109,7 +3111,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:UrUs.1586444749838226208.rjcs@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Cliff Huang:mailto:godblesscliff@gmail.com
 DTSTART:20200422T080000Z
 DTEND:20200422T093000Z
@@ -3128,7 +3130,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:sHVD.1586818677593384155.u0OQ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Abdulellah Alnahdi:mailto:a.alnahdi@limar-tech.com
 DTSTART:20200422T160000Z
 DTEND:20200422T180000Z
@@ -3148,7 +3150,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:wvnI.1586290769707189633.EJNg@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Alberto Varignana:mailto:alberto.varignana@gmail.com
 DTSTART:20200423T170000Z
 DTEND:20200423T180000Z
@@ -3167,7 +3169,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:xIO2.1586808704179606450.5ZWp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Monica Jones:mailto:monica.jones@hempchain.us
 DTSTART:20200429T220000Z
 DTEND:20200430T000000Z
@@ -3187,7 +3189,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:GxPi.1587074897182347539.mcHd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Oumar Fall:mailto:oumarfall@hotmail.fr
 DTSTART:20200430T140000Z
 DTEND:20200430T153000Z
@@ -3209,7 +3211,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:xar3.1587480854826878128.48Ib@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=David Boswell:mailto:dboswell@linuxfoundation.org
 DTSTART:20200501T160000Z
 DTEND:20200501T170000Z
@@ -3230,7 +3232,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:0e1ieso8aasb9qhhe87dnnjak0@google.com
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200505T150000Z
@@ -3261,7 +3263,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cuHI.1587063648823985291.VdNo@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Prajit Datta:mailto:prajitdatta9@gmail.com
 DTSTART:20200505T160000Z
 DTEND:20200505T180000Z
@@ -3285,7 +3287,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:qofG.1588872557283240111.e6aL@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Lauren Fournier:mailto:meetups@lists.hyperledger.org
 DTSTART:20200512T163000Z
 DTEND:20200512T173000Z
@@ -3299,7 +3301,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:TOUU.1588606070985702578.fM7v@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Encarnacion:mailto:jonathan.encarnacion@gmail.com
 DTSTART:20200513T180000Z
 DTEND:20200513T193000Z
@@ -3320,7 +3322,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:YFLE.1588103750172324515.4xd6@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Dong HUANG:mailto:godblesscliff@gmail.com
 DTSTART:20200514T090000Z
 DTEND:20200514T103000Z
@@ -3340,7 +3342,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:FokV.1590445074951988515.tZPt@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Brazil Chapter:mailto:community-brazil-chapter@lists.hyperle
  dger.org
 DTSTART:20200527T210000Z
@@ -3363,7 +3365,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:AwK6.1589486785736869991.DVU2@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Paulo Simoes:mailto:me@paulosimoes.dev
 DTSTART:20200527T210000Z
 DTEND:20200527T223000Z
@@ -3384,7 +3386,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3IaG.1589564356057182497.AdCL@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Carlo Ferrarini:mailto:meetups@lists.hyperledger.org
 DTSTART:20200528T183000Z
 DTEND:20200528T203000Z
@@ -3398,7 +3400,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:qgWN.1590158075144361693.KVLQ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Arun S. M.:mailto:arun.s.m.cse@gmail.com
 DTSTART:20200530T043000Z
 DTEND:20200530T063000Z
@@ -3415,7 +3417,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:C8E0D00D-2A89-4EBA-88ED-3E499146D110
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART:20200602T150000Z
@@ -3429,7 +3431,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:YJho.1591021973984512578.bIRw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Arun S. M.:mailto:arun.s.m.cse@gmail.com
 DTSTART:20200606T043000Z
 DTEND:20200606T063000Z
@@ -3446,7 +3448,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:6BAa.1589565141762524347.VaEj@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Encarnacion:mailto:jonathan.encarnacion@gmail.com
 DTSTART:20200609T220000Z
 DTEND:20200609T233000Z
@@ -3466,7 +3468,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:URf1.1590176569555353077.yJzp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Raj Devasigamani:mailto:raj@cilicademy.com
 DTSTART:20200609T230000Z
 DTEND:20200610T010000Z
@@ -3487,7 +3489,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Zrl1.1591380210024318688.w47G@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Shon G Joseph:mailto:meetups@lists.hyperledger.org
 DTSTART:20200610T123000Z
 DTEND:20200610T143000Z
@@ -3503,7 +3505,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:2amB.1589911270672593024.buAZ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=John Carpenter:mailto:john@globalblockchainsummit.com
 DTSTART:20200610T180000Z
 DTEND:20200610T190000Z
@@ -3525,7 +3527,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:fgIL.1590695473281692685.tDYQ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Tokyo:mailto:meetups@lists.hyperledger.org
 DTSTART:20200611T093000Z
 DTEND:20200611T110000Z
@@ -3540,7 +3542,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:xzqC.1591110279234677153.TqUM@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Gerhard Dinhof:mailto:meetups@lists.hyperledger.org
 DTSTART:20200611T160000Z
 DTEND:20200611T173000Z
@@ -3555,7 +3557,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:AhIs.1589910924579043596.iEOt@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Cliff Huang:mailto:godblesscliff@gmail.com
 DTSTART:20200613T090000Z
 DTEND:20200613T103000Z
@@ -3575,7 +3577,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:qAnE.1591370563657658946.P6Ka@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Moolshanker Kothari:mailto:meetups@lists.hyperledger.org
 DTSTART:20200613T150000Z
 DTEND:20200613T163000Z
@@ -3590,7 +3592,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:9PS0.1589994626341865871.WjgD@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
  mailto:community-latinoamerica-chapter@lists.hyperledger.org
 DTSTART:20200617T220000Z
@@ -3601,7 +3603,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:3qCB.1591126939480543872.3dTv@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Ricardo Ruano:mailto:meetups@lists.hyperledger.org
 DTSTART:20200617T220000Z
 DTEND:20200617T233000Z
@@ -3618,7 +3620,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:BomD.1592248220162446539.mXnp@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200618T160000Z
@@ -3634,7 +3636,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Y1Ht.1592248393752969913.eFKE@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200620T043000Z
@@ -3655,7 +3657,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:H7fJ.1592236295504819135.WhQP@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200620T060000Z
@@ -3670,7 +3672,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:m60H.1592324259045485910.Neg0@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=PRANJAL BHARDWAJ:mailto:meetups@lists.hyperledger.org
 DTSTART:20200621T063000Z
 DTEND:20200621T080000Z
@@ -3690,7 +3692,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:iajH.1592337394773585502.ivV2@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Monica Jones:mailto:meetups@lists.hyperledger.org
 DTSTART:20200622T230000Z
 DTEND:20200623T010000Z
@@ -3708,7 +3710,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:uFY2.1592502345306222623.klLu@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200624T210000Z
@@ -3723,7 +3725,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:BV5J.1591221342954639901.YfsO@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Guillermo Diaz:mailto:meetups@lists.hyperledger.org
 DTSTART:20200624T220000Z
 DTEND:20200624T233000Z
@@ -3738,7 +3740,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:09ri.1593024974843227052.KOdI@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger India Chapter:mailto:community-india-chapter@lis
  ts.hyperledger.org
 DTSTART:20200627T043000Z
@@ -3753,7 +3755,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:VgCa.1591221515967351628.qu8z@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Jonathan Encarnacion:mailto:meetups@lists.hyperledger.org
 DTSTART:20200630T220000Z
 DTEND:20200630T230000Z
@@ -3768,7 +3770,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1h8x.1592874210575725027.LM95@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Latinoamerica:mailto:community-latinoamerica-cha
  pter@lists.hyperledger.org
 DTSTART:20200701T220000Z
@@ -3788,7 +3790,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:M6r5.1593184599169506256.HYq8@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200701T220000Z
@@ -3807,7 +3809,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:EXGv.1593700460563323228.FnnT@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Anshu Jain:mailto:climate-sig@lists.hyperledger.org
 DTSTART:20200703T150000Z
 DTEND:20200703T163000Z
@@ -3825,7 +3827,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:jH0y.1593442033020041871.J4ny@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Moolshanker Kothari:mailto:meetups@lists.hyperledger.org
 DTSTART:20200704T153000Z
 DTEND:20200704T170000Z
@@ -3841,7 +3843,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:cdxP.1589995259618351800.GDLk@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Latinoamerica:mailto:community-latinoamerica-cha
  pter@lists.hyperledger.org
 DTSTART:20200708T220000Z
@@ -3866,7 +3868,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:GM3z.1591735227167909284.YZho@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Guillermo Diaz Granados:mailto:meetups@lists.hyperledger.org
 DTSTART:20200708T220000Z
 DTEND:20200708T233000Z
@@ -3880,7 +3882,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:FtFh.1594051111956975108.mrGZ@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200708T220000Z
@@ -3904,7 +3906,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Ikhj.1592328921927983855.VXn1@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=John Carpenter:mailto:meetups@lists.hyperledger.org
 DTSTART:20200709T150000Z
 DTEND:20200709T163000Z
@@ -3920,7 +3922,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Sb0B.1594234391492590687.PX52@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Sawtooth Community:mailto:sawtooth@lists.hyperle
  dger.org
 DTSTART:20200710T150000Z
@@ -3942,7 +3944,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:RaWR.1594741264281785139.mAkU@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Raj Devasigamani:mailto:meetups@lists.hyperledger.org
 DTSTART:20200714T230000Z
 DTEND:20200715T003000Z
@@ -3958,7 +3960,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:Dbuk.1594751600547149131.ddOw@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200718T130000Z
@@ -3973,7 +3975,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1liM.1593787545343102256.oB66@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Maria Nieto:mailto:meetups@lists.hyperledger.org
 DTSTART:20200720T160000Z
 DTEND:20200720T173000Z
@@ -3987,7 +3989,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:40SR.1594741576890072270.sgCl@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200722T090000Z
@@ -4004,7 +4006,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:8QEt.1594740951752960761.lGQC@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Gilles Gravier:mailto:meetups@lists.hyperledger.org
 DTSTART:20200722T150000Z
 DTEND:20200722T163000Z
@@ -4019,7 +4021,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:HPm7.1594741430528543327.Lcpa@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200722T220000Z
@@ -4039,7 +4041,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:1kKU.1593989580376470838.lgId@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Hyperledger Latinoamerica:mailto:community-latinoamerica-cha
  pter@lists.hyperledger.org
 DTSTART:20200722T220000Z
@@ -4057,7 +4059,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:PZKW.1595256171123847288.cikU@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200728T210000Z
@@ -4073,7 +4075,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:tPKT.1595867802257080317.8lkr@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200729T210000Z
@@ -4090,7 +4092,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:PBGm.1595869382605563365.3gMz@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200729T220000Z
@@ -4110,7 +4112,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:k96C.1595860382567794204.KVzd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
  mailto:community-latinoamerica-chapter@lists.hyperledger.org
 DTSTART:20200729T220000Z
@@ -4129,7 +4131,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:kktA.1594846768945510855.Cp02@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200730T150000Z
@@ -4149,7 +4151,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:N8KY.1596037785784723958.PRZ8@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Adulu Miller:mailto:meetups@lists.hyperledger.org
 DTSTART:20200801T130000Z
 DTEND:20200801T143000Z
@@ -4164,7 +4166,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:lLPB.1595969627587496852.WKyc@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=Satomi Tsujita:mailto:satomi.t.sora@gmail.com
 DTSTART:20200804T040000Z
 DTEND:20200804T060000Z
@@ -4177,7 +4179,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:KtHD.1595860451632909548.eYpd@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
  mailto:community-latinoamerica-chapter@lists.hyperledger.org
 DTSTART:20200805T220000Z
@@ -4194,7 +4196,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:eM1i.1595020499240476703.4bic@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200806T180000Z
@@ -4210,7 +4212,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:75Ff.1596216910143585579.xjLh@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200811T160000Z
@@ -4226,7 +4228,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:qDdX.1595516662397036246.Rj1E@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20200813T110000Z
@@ -4244,7 +4246,7 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:7xWW.1595002280866147870.JrwY@lists.hyperledger.org
-DTSTAMP:20200803T162800Z
+DTSTAMP:20200803T182801Z
 ORGANIZER;CN=webinars@lists.hyperledger.org Group:mailto:membership@hyper
  ledger.org
 DTSTART:20200930
