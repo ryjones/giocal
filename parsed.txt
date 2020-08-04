@@ -1,5 +1,3 @@
-2020-08-04 09:00:00-07:00 - [Hyperledger Meetups] Monthly Meetup Organizer Planning Call
-2020-08-04 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-08-05 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-08-05 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-08-05 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
@@ -606,3 +604,4 @@
 2020-12-02 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-12-02 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-12-02 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2020-12-02 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
