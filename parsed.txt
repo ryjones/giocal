@@ -607,3 +607,4 @@
 2020-12-01 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-12-02 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-12-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-12-02 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Weekly Community Meeting
