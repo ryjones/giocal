@@ -2,8 +2,8 @@
 2020-08-04 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-08-04 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-08-04 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-08-04 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-08-04 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-08-04 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-08-04 09:00:00-07:00 - [Hyperledger Meetups] Monthly Meetup Organizer Planning Call
 2020-08-04 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-08-05 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
@@ -156,8 +156,8 @@
 2020-09-01 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-09-01 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-09-01 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-09-01 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-01 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-09-01 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-01 09:00:00-07:00 - [Hyperledger Meetups] Monthly Meetup Organizer Planning Call
 2020-09-01 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-09-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
@@ -297,8 +297,8 @@
 2020-09-29 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-09-29 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-09-29 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-30 00:00:00+00:00 - [webinars] Hyperledger Webinar Series - Hyperledger Umbra
 2020-09-30 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-30 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
@@ -440,8 +440,8 @@
 2020-10-27 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-10-27 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-10-27 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-10-27 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-10-27 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-10-27 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-10-28 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-28 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-10-28 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -573,8 +573,8 @@
 2020-11-24 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-11-24 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-11-24 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-11-24 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-25 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-11-25 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -606,3 +606,4 @@
 2020-12-01 09:00:00-07:00 - [Hyperledger Meetups] Monthly Meetup Organizer Planning Call
 2020-12-01 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-12-02 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
+2020-12-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
