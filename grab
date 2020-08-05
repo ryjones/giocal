@@ -8,7 +8,7 @@ RC=`/usr/local/bin/git diff HEAD parsed.txt | /usr/bin/wc -l | /usr/bin/awk '{pr
 if [ "$RC" != "0" ]
 then
   /usr/local/bin/git add feed.ics parsed.txt
-  /usr/local/bin/git commit -a -s -m "Update: $RC changes"
+  /usr/local/bin/git diff --compact-summary HEAD~ | /usr/local/bin/git commit -a -s -F - 
   /usr/local/bin/git push origin default
 else
   echo No Updates.
