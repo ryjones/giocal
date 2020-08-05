@@ -1,9 +1,5 @@
-2020-08-05 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-08-05 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
-2020-08-05 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-08-05 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-05 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-08-05 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-05 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso empresariales con Hyperledger: Foodchain
 2020-08-05 22:00:00+00:00 - [community-latinoamerica-chapter] Casos de Uso Empresariales con Hyperledger: Foodchain
 2020-08-06 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -619,3 +615,4 @@
 2020-12-03 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-12-03 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-12-03 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
+2020-12-03 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
