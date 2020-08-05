@@ -2,8 +2,6 @@
 2020-08-05 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-08-05 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-08-05 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-05 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Hyperledger Besu
-2020-08-05 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-08-05 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-05 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-05 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso empresariales con Hyperledger: Foodchain
@@ -620,3 +618,4 @@
 2020-12-03 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-12-03 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-12-03 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
+2020-12-03 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
