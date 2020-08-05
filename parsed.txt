@@ -618,3 +618,5 @@
 2020-12-02 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-02 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-12-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-12-03 00:00:00+00:00 - [Hyperledger Grid] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
