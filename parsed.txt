@@ -1,5 +1,4 @@
 2020-08-05 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
-2020-08-05 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-08-05 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-08-05 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-08-05 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
@@ -621,3 +620,4 @@
 2020-12-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-12-03 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-12-03 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
+2020-12-03 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
