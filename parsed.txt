@@ -3,7 +3,6 @@
 2020-08-06 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-06 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-06 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-08-06 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-06 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-08-06 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-08-06 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Virtual Meetup with Hyperledger Avalon and Chainlink
@@ -37,7 +36,6 @@
 2020-08-13 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-13 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-08-13 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-08-13 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-13 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-08-13 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-08-13 11:00:00+00:00 - [Hyperledger Meetups] Hyperledger Hong Kong hosts: Deploy production grade Blockchain networks using BAF
@@ -77,7 +75,6 @@
 2020-08-20 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-20 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-20 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-08-20 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-20 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-08-20 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-08-20 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -108,7 +105,6 @@
 2020-08-27 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-27 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-08-27 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-08-27 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-27 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-08-27 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-08-27 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
@@ -150,7 +146,6 @@
 2020-09-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-03 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-03 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-09-03 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-03 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-03 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-03 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -182,7 +177,6 @@
 2020-09-10 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-10 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-09-10 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-09-10 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-10 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-10 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-09-10 20:00:00-11:00 - [avalon] Hyperledger Avalon Developers Forum
@@ -218,7 +212,6 @@
 2020-09-17 00:00:00+00:00 - [avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-09-17 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-17 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-17 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -248,7 +241,6 @@
 2020-09-24 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-24 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-09-24 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-09-24 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-24 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-24 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-09-24 20:00:00-11:00 - [avalon] Hyperledger Avalon Developers Forum
@@ -283,7 +275,6 @@
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
 2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-01 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-10-01 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-01 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-01 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-10-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -317,7 +308,6 @@
 2020-10-08 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-08 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-10-08 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-10-08 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-08 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-10-08 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-10-08 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
@@ -356,7 +346,6 @@
 2020-10-15 00:00:00+00:00 - [Hyperledger Sawtooth] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-15 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-15 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-10-15 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-15 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-15 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-10-15 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -387,7 +376,6 @@
 2020-10-22 00:00:00+00:00 - [Hyperledger Performance and Scale WG] Hyperledger Quarterly Update Due #tsc-wg-update
 2020-10-22 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-10-22 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-10-22 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-22 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-10-22 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-10-22 20:00:00-11:00 - [avalon] Hyperledger Avalon Developers Forum
@@ -419,7 +407,6 @@
 2020-10-28 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-29 00:00:00+00:00 - [Hyperledger Indy] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-29 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-10-29 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-29 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-29 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-10-29 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -450,7 +437,6 @@
 2020-11-05 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-05 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-11-05 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-11-05 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-11-05 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-11-05 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-11-05 20:00:00-11:00 - [avalon] Hyperledger Avalon Developers Forum
@@ -484,7 +470,6 @@
 2020-11-12 00:00:00+00:00 - [Hyperledger Learning Materials Development WG] Hyperledger Quarterly Update Due #tsc-wg-update
 2020-11-12 00:00:00+00:00 - [Hyperledger Transact] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-12 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-11-12 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-11-12 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-11-12 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-11-12 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -514,7 +499,6 @@
 2020-11-19 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-19 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-11-19 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-11-19 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-11-19 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-11-19 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-11-19 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
@@ -547,7 +531,6 @@
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-26 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-26 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-11-26 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-11-26 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-11-26 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-11-26 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
@@ -579,6 +562,5 @@
 2020-12-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-12-03 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-12-03 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-12-03 09:00:00+00:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-12-03 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-12-03 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
