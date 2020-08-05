@@ -7,8 +7,6 @@
 2020-08-06 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-06 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-08-06 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-08-06 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
-2020-08-06 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-08-06 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Virtual Meetup with Hyperledger Avalon and Chainlink
 2020-08-06 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-06 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -77,7 +75,6 @@
 2020-08-19 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-08-19 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-20 00:00:00+00:00 - [Hyperledger Cello] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-20 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-20 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -86,7 +83,6 @@
 2020-08-20 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-08-20 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-08-20 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-08-20 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-08-20 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-08-20 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-20 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -154,7 +150,6 @@
 2020-09-02 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-09-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-02 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-02 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-03 00:00:00+00:00 - [Hyperledger Grid] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-03 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -163,7 +158,6 @@
 2020-09-03 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-03 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-03 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-09-03 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-03 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-03 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-09-03 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -227,7 +221,6 @@
 2020-09-16 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-09-16 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-17 00:00:00+00:00 - [avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -235,7 +228,6 @@
 2020-09-17 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-09-17 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-17 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-17 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-09-17 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -296,7 +288,6 @@
 2020-09-30 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-30 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-30 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-30 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
 2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-01 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -304,7 +295,6 @@
 2020-10-01 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-01 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-01 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-10-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-01 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-10-01 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -381,7 +371,6 @@
 2020-10-15 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-15 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-10-15 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
-2020-10-15 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-15 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-10-15 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-10-16 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -446,7 +435,6 @@
 2020-10-29 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-10-29 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-29 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-10-29 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-29 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-29 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-10-29 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -515,7 +503,6 @@
 2020-11-12 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-11-12 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-11-12 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
-2020-11-12 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-11-12 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-12 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-11-13 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -580,7 +567,6 @@
 2020-11-26 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric Interoperability Discussion
 2020-11-26 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-11-26 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-11-26 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-11-26 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-11-26 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-26 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
