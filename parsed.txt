@@ -1,5 +1,4 @@
 2020-08-05 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso empresariales con Hyperledger: Foodchain
-2020-08-05 22:00:00+00:00 - [community-latinoamerica-chapter] Casos de Uso Empresariales con Hyperledger: Foodchain
 2020-08-06 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-06 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-06 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
