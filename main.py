@@ -8,7 +8,7 @@ with urllib.request.urlopen(url) as response:
    ics_string = response.read()
 
 window_start = datetime.now(timezone.utc)
-window_end = datetime.now(timezone.utc) + timedelta(days=120)
+window_end = window_start + timedelta(days=150)
 
 events = get_events_from_ics(ics_string, window_start, window_end)
 
