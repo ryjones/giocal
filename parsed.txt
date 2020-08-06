@@ -1,4 +1,3 @@
-2020-08-06 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-06 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-06 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-08-06 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
