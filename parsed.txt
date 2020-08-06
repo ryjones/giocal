@@ -1,5 +1,4 @@
 2020-08-06 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
-2020-08-06 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-08-06 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Virtual Meetup with Hyperledger Avalon and Chainlink
 2020-08-06 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-06 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
