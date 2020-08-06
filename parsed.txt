@@ -1,6 +1,5 @@
 2020-08-06 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-08-06 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-08-06 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-08-06 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Virtual Meetup with Hyperledger Avalon and Chainlink
 2020-08-06 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-06 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -444,4 +443,5 @@
 2020-11-05 20:00:00-11:00 - [avalon] Hyperledger Avalon Developers Forum
 2020-11-06 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-11-06 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
+2020-11-06 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-06 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
