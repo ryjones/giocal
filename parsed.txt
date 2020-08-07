@@ -442,3 +442,4 @@
 2020-11-06 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
 2020-11-06 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-06 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
+2020-11-07 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
