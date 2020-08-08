@@ -1,5 +1,4 @@
 2020-08-08 01:30:00-07:00 - [Hyperledger Meetups] Hyperledger India Chapter hosts "Asia Pacific Online Certification Study Circle"
-2020-08-08 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-08-10 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-08-10 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-08-11 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
