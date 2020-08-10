@@ -15,6 +15,7 @@
 2020-08-12 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-08-12 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-08-12 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-08-12 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Austin hosts "Discussion with President/CEO of the Blockchain Chamber of Commerce, Linda Goetze"
 2020-08-13 00:00:00+00:00 - [Hyperledger Learning Materials Development WG] Hyperledger Quarterly Update Due #tsc-wg-update
 2020-08-13 00:00:00+00:00 - [Hyperledger Transact] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-13 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
