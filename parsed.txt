@@ -439,3 +439,4 @@
 2020-11-09 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-11-09 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-11-09 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-11-10 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
