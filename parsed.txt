@@ -441,8 +441,10 @@
 2020-11-09 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-11-09 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-10 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
+2020-11-10 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-11-10 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-11-10 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
+2020-11-10 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-11-10 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-11-10 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-11-10 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
