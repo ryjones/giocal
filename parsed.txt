@@ -448,5 +448,6 @@
 2020-11-11 09:00:00-07:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-11-11 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-11-11 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
+2020-11-11 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-11 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-11 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
