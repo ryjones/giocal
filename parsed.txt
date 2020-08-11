@@ -445,5 +445,8 @@
 2020-11-10 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
 2020-11-11 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-11-11 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2020-11-11 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
+2020-11-11 09:00:00-07:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
+2020-11-11 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-11-11 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-11 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
