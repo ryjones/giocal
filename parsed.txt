@@ -3,7 +3,6 @@
 2020-08-12 09:00:00-07:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-08-12 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-08-12 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-12 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-08-12 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-08-12 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-08-12 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Austin hosts "Discussion with President/CEO of the Blockchain Chamber of Commerce, Linda Goetze"
