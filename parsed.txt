@@ -29,6 +29,7 @@
 2020-08-18 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-08-18 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-08-18 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
+2020-08-18 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-08-19 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-08-19 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-08-19 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -180,6 +181,7 @@
 2020-09-16 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-09-16 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
+2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-09-17 00:00:00+00:00 - [avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -445,6 +447,7 @@
 2020-11-12 00:00:00+00:00 - [Hyperledger Learning Materials Development WG] Hyperledger Quarterly Update Due #tsc-wg-update
 2020-11-12 00:00:00+00:00 - [Hyperledger Transact] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-12 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-11-12 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-11-12 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-11-12 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-11-12 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
