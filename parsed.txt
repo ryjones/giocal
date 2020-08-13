@@ -448,3 +448,4 @@
 2020-11-12 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-11-12 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-11-12 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-11-12 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
