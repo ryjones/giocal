@@ -1,5 +1,3 @@
-2020-08-13 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
-2020-08-13 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-08-13 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-08-13 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-08-13 20:00:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
@@ -448,4 +446,5 @@
 2020-11-12 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-12 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-11-13 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2020-11-13 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-11-13 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
