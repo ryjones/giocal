@@ -443,3 +443,4 @@
 2020-11-13 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-11-13 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-13 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
+2020-11-14 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
