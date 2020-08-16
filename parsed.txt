@@ -440,3 +440,4 @@
 2020-11-13 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-13 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-11-14 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-11-16 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
