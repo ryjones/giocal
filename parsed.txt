@@ -442,3 +442,4 @@
 2020-11-14 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-11-16 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-11-16 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
+2020-11-17 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
