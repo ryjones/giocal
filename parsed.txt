@@ -1,6 +1,5 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
 2020-08-17 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-08-17 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-08-17 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-08-17 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-08-18 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
@@ -443,3 +442,4 @@
 2020-11-16 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-11-16 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-17 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
+2020-11-17 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
