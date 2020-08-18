@@ -167,6 +167,7 @@
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-09-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-09-17 06:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer Contributors Meeting
 2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-09-17 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
