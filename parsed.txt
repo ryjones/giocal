@@ -1,11 +1,9 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
 2020-08-18 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-08-18 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-08-18 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-08-18 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-08-18 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-08-18 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-08-18 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
 2020-08-18 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-08-18 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-19 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
