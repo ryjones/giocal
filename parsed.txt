@@ -446,4 +446,5 @@
 2020-11-17 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-11-17 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-11-18 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
+2020-11-18 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-11-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
