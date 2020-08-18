@@ -1,6 +1,4 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-18 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-08-18 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-08-18 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-08-18 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-08-19 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -446,5 +444,6 @@
 2020-11-18 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-11-18 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-11-18 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
+2020-11-18 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-18 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-11-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
