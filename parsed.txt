@@ -3,8 +3,6 @@
 2020-08-19 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-08-19 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-08-19 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-19 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Donald Thibeau
-2020-08-19 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-19 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso institucionales: Ciudadanía Digital en Bolivia con AGETIC
@@ -455,3 +453,5 @@
 2020-11-19 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-19 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-11-19 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
+2020-11-19 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
+2020-11-19 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
