@@ -1,6 +1,5 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
 2020-08-19 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
-2020-08-19 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-08-19 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-08-19 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-08-19 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
