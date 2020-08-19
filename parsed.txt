@@ -1,5 +1,4 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-19 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-08-19 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-08-19 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso institucionales: Ciudadanía Digital en Bolivia con AGETIC
 2020-08-19 22:00:00+00:00 - [community-latinoamerica-chapter] Casos de uso institucionales: Ciudadanía Digital en Bolivia con AGETIC
