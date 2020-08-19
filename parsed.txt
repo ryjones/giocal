@@ -457,3 +457,4 @@
 2020-11-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-19 00:00:00+00:00 - [Hyperledger Cello] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-19 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-11-19 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
