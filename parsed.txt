@@ -1,10 +1,6 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-19 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-08-19 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
-2020-08-19 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-08-19 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-08-19 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-08-19 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts: Casos de uso institucionales: Ciudadanía Digital en Bolivia con AGETIC
 2020-08-19 22:00:00+00:00 - [community-latinoamerica-chapter] Casos de uso institucionales: Ciudadanía Digital en Bolivia con AGETIC
 2020-08-20 00:00:00+00:00 - [Hyperledger Cello] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -455,3 +451,5 @@
 2020-11-19 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-11-19 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-11-19 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
+2020-11-19 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
+2020-11-19 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
