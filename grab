@@ -2,12 +2,13 @@
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
 cd /Users/ry/W/giocal
 /usr/local/bin/wget -q -O feed.ics https://lists.hyperledger.org/ics/1902217/3131022486068381536/feed.ics
+/usr/local/bin/wget -q -O ry-feed.ics https://user.fm/calendar/v1-d81bf855d24721c6975d8c053f09c6a1/feed.ics
 /usr/local/bin/python3 main.py | /usr/bin/sort > parsed.txt
 
 RC=`/usr/local/bin/git diff HEAD parsed.txt | /usr/bin/wc -l | /usr/bin/awk '{print $1}'`
 if [ "$RC" != "0" ]
 then
-  /usr/local/bin/git add feed.ics parsed.txt
+  /usr/local/bin/git add ry-feed.ics feed.ics parsed.txt
   /usr/local/bin/git diff --compact-summary HEAD~ | /usr/local/bin/git commit -a -s -F - 
   /usr/local/bin/git push origin default
 else
