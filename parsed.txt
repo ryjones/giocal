@@ -1,9 +1,7 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-24 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-08-24 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-08-25 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2020-08-25 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-08-25 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-08-25 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-08-26 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-08-26 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
