@@ -1,7 +1,4 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-25 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
-2020-08-25 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-08-25 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-08-26 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-08-26 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2020-08-26 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
@@ -28,6 +25,7 @@
 2020-08-29 01:30:00-07:00 - [Hyperledger Meetups] Hyperledger India Chapter hosts "Asia Pacific Online Certification Study Circle"
 2020-08-29 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-08-29 10:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-08-29 13:00:00+00:00 - [Hyperledger Meetups] Hyperledger Sweden Study Circle hosts: Hyperledger Ordering Services
 2020-08-29 15:00:00+00:00 - [Hyperledger Meetups] HyperLedger Libya Meetup Launch Event
 2020-08-30 00:00:00+00:00 - [Hyperledger Election] Open Up Nominations
 2020-08-31 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
@@ -122,7 +120,7 @@
 2020-09-16 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-09-16 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-09-16 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-16 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Aaron Klein and Jason Ruckman
+2020-09-16 14:00:00+00:00 - [webinars] Hyperledger Project Webinar: HYPERLEDGER CELLO - Introduction to Fabric Kubernetes Operator
 2020-09-16 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-16 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-09-16 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
@@ -223,6 +221,7 @@
 2020-10-07 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-10-07 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-10-07 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
+2020-10-07 14:00:00+00:00 - [webinars] Hyperledger Webinar Series
 2020-10-07 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-10-07 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-10-07 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
@@ -262,7 +261,7 @@
 2020-10-14 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-10-14 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-10-14 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-10-14 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Hyperledger Cello
+2020-10-14 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Optimizing supplier onboarding assessment processes through SSI, Luigi Riva
 2020-10-14 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-10-14 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-15 00:00:00+00:00 - [Hyperledger Sawtooth] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -443,3 +442,7 @@
 2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-11-24 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
 2020-11-24 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-11-25 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
+2020-11-25 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
