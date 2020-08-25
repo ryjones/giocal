@@ -86,6 +86,7 @@
 2020-09-09 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-09 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
 2020-09-09 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-09-09 16:00:00+00:00 - [Hyperledger Meetups] Hyperledger Boston hosts: Indicio.tech - Identity Blockchain leveraging Indy, Aries
 2020-09-10 00:00:00+00:00 - [Hyperledger Aries] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-10 00:00:00+00:00 - [Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-10 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -444,5 +445,8 @@
 2020-11-24 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-25 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-11-25 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2020-11-25 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
+2020-11-25 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
+2020-11-25 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
