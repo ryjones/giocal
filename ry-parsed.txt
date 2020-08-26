@@ -1,7 +1,6 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
 2020-08-26 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-08-26 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-08-26 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-08-26 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-08-26 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-08-26 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
