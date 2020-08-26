@@ -6,7 +6,7 @@
 2020-08-26 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-08-26 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-08-26 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-08-26 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-08-26 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-08-26 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-08-27 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-27 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -16,7 +16,7 @@
 2020-08-27 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-08-27 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-08-27 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
-2020-08-27 18:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-08-27 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-08-28 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-08-28 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-08-28 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
@@ -24,7 +24,7 @@
 2020-08-28 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-08-29 01:30:00-07:00 - [Hyperledger Meetups] Hyperledger India Chapter hosts "Asia Pacific Online Certification Study Circle"
 2020-08-29 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
-2020-08-29 10:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-08-29 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-08-29 13:00:00+00:00 - [Hyperledger Meetups] Hyperledger Sweden Study Circle hosts: Hyperledger Ordering Services
 2020-08-29 15:00:00+00:00 - [Hyperledger Meetups] HyperLedger Libya Meetup Launch Event
 2020-08-30 00:00:00+00:00 - [Hyperledger Election] Open Up Nominations
@@ -42,7 +42,7 @@
 2020-09-01 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
 2020-09-01 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-01 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-09-01 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-09-01 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-09-02 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-09-02 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-09-02 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -50,8 +50,8 @@
 2020-09-02 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-09-02 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-02 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-09-02 15:00:00+00:00 - [webinars] Hyperledger Webinar Series - Gal Hochberg
-2020-09-02 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-09-02 15:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Gal Hochberg
+2020-09-02 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-09-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-02 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-03 00:00:00+00:00 - [Hyperledger Grid] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -62,14 +62,14 @@
 2020-09-03 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-03 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-03 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
-2020-09-03 18:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-03 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-03 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-09-04 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-04 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-09-04 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-09-04 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-05 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
-2020-09-05 10:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-05 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-07 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-09-07 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-08 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
@@ -84,7 +84,7 @@
 2020-09-09 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-09 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-09-09 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-09-09 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-09-09 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-09-09 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-09 16:00:00+00:00 - [Hyperledger Meetups] Hyperledger Boston hosts: Indicio.tech - Identity Blockchain leveraging Indy, Aries
 2020-09-10 00:00:00+00:00 - [Hyperledger Aries] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -95,14 +95,14 @@
 2020-09-10 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-09-10 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-10 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2020-09-10 18:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-10 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-11 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-11 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-09-11 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
 2020-09-11 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-09-11 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-12 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
-2020-09-12 10:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-12 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-14 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-09-14 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-14 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
@@ -114,7 +114,7 @@
 2020-09-15 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-09-15 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-09-15 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-09-15 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-09-15 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-09-16 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-09-16 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-09-16 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -122,8 +122,8 @@
 2020-09-16 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-09-16 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-16 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-09-16 15:00:00+00:00 - [webinars] Hyperledger Project Webinar: HYPERLEDGER CELLO - Introduction to Fabric Kubernetes Operator
-2020-09-16 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-09-16 15:00:00+00:00 - [Hyperledger Webinars] Hyperledger Project Webinar: HYPERLEDGER CELLO - Introduction to Fabric Kubernetes Operator
+2020-09-16 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-09-16 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
@@ -135,7 +135,7 @@
 2020-09-17 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-17 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
-2020-09-17 18:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-17 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-17 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-09-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-18 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
@@ -143,7 +143,7 @@
 2020-09-18 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-09-18 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-19 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
-2020-09-19 10:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-19 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-21 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-09-21 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-22 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
@@ -166,7 +166,7 @@
 2020-09-24 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-09-24 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-24 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2020-09-24 18:00:00-05:00 - [community-latinoamerica-chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-24 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-25 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-09-25 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
@@ -184,8 +184,8 @@
 2020-09-29 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-09-29 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-09-29 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
-2020-09-30 00:00:00+00:00 - [webinars] Hyperledger Webinar Series - Hyperledger Umbra
+2020-09-29 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-09-30 00:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Hyperledger Umbra
 2020-09-30 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-09-30 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-09-30 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -222,10 +222,10 @@
 2020-10-07 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-10-07 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-10-07 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-10-07 14:00:00+00:00 - [webinars] Hyperledger Webinar Series
+2020-10-07 14:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-10-07 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-10-07 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-10-07 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-10-07 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-10-07 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-08 00:00:00+00:00 - [Hyperledger Fabric] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-08 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -254,7 +254,7 @@
 2020-10-13 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-10-13 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-10-13 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-10-13 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-10-13 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-10-14 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-10-14 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-10-14 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -262,7 +262,7 @@
 2020-10-14 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-10-14 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-10-14 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-10-14 14:00:00+00:00 - [webinars] Hyperledger Webinar Series - Optimizing supplier onboarding assessment processes through SSI, Luigi Riva
+2020-10-14 14:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Optimizing supplier onboarding assessment processes through SSI, Luigi Riva
 2020-10-14 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-10-14 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-15 00:00:00+00:00 - [Hyperledger Sawtooth] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -292,8 +292,8 @@
 2020-10-21 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-10-21 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-10-21 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-10-21 15:00:00+00:00 - [webinars] Hyperledger Webinar Series -  Tech Mahindra
-2020-10-21 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-10-21 15:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series -  Tech Mahindra
+2020-10-21 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-10-21 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-10-22 00:00:00+00:00 - [Hyperledger Iroha] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-22 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -318,7 +318,7 @@
 2020-10-27 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-10-27 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-10-27 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-10-27 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-10-27 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-10-28 00:00:00+00:00 - [Hyperledger Indy] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-28 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-10-28 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
@@ -354,7 +354,7 @@
 2020-11-04 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-04 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-11-04 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-11-04 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-11-04 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-11-04 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-05 00:00:00+00:00 - [Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-05 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -379,7 +379,7 @@
 2020-11-10 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-11-10 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-11-10 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-11-10 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-11-10 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-11 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-11-11 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-11-11 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -415,7 +415,7 @@
 2020-11-18 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-18 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-11-18 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-11-18 15:00:00+01:00 - [webinars] Hyperledger Webinar Series
+2020-11-18 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-11-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-19 00:00:00+00:00 - [Hyperledger Cello] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-19 00:00:00+00:00 - [Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -442,11 +442,13 @@
 2020-11-24 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 2020-11-24 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
-2020-11-24 18:30:00-05:00 - [community-latinoamerica-chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
+2020-11-24 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-11-25 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-11-25 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-11-25 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-11-25 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-11-25 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
+2020-11-25 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-11-26 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
