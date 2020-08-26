@@ -1,12 +1,6 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-26 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-08-26 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-08-26 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-08-26 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-26 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
-2020-08-26 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-08-26 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
-2020-08-26 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-08-27 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-27 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-27 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -27,8 +21,8 @@
 2020-08-29 13:00:00+00:00 - [Hyperledger Meetups] Hyperledger Sweden Study Circle hosts: Hyperledger Ordering Services
 2020-08-29 15:00:00+00:00 - [Hyperledger Meetups] HyperLedger Libya Meetup Launch Event
 2020-08-30 00:00:00+00:00 - [Hyperledger Election] Open Up Nominations
+2020-08-31 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-08-31 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-08-31 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-08-31 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-08-31 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-08-31 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
@@ -60,6 +54,7 @@
 2020-09-03 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-03 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-03 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
+2020-09-03 15:30:00+00:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
 2020-09-03 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-09-03 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-03 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
@@ -102,8 +97,8 @@
 2020-09-11 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-12 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-09-12 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-14 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-14 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-09-14 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-14 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-09-14 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-15 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
@@ -172,8 +167,8 @@
 2020-09-25 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-09-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-09-28 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-28 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-09-28 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-28 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-09-28 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -242,8 +237,8 @@
 2020-10-10 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-10-11 00:00:00+00:00 - [Hyperledger Election] New TSC Elects Chairperson
 2020-10-11 00:00:00+00:00 - [Hyperledger Election] Publish TSC Election Results
+2020-10-12 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-10-12 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-10-12 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-10-12 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-10-12 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-10-13 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
@@ -306,8 +301,8 @@
 2020-10-23 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-10-23 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-10-24 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-10-26 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-10-26 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-10-26 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-10-26 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-10-26 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-10-27 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -367,8 +362,8 @@
 2020-11-06 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-06 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-11-07 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-11-09 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-11-09 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-11-09 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-11-09 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-11-09 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-10 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
@@ -430,8 +425,8 @@
 2020-11-20 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-20 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-11-21 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-11-23 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-11-23 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-11-23 08:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-11-23 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-11-23 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-24 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -451,3 +446,5 @@
 2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-26 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-11-26 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-11-26 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call

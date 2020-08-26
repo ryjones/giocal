@@ -1,12 +1,6 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-26 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-08-26 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-08-26 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-08-26 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-08-26 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
-2020-08-26 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-08-26 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
-2020-08-26 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-08-27 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-27 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-27 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -451,3 +445,5 @@
 2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-11-26 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-11-26 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-11-26 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
