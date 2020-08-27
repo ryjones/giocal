@@ -1,5 +1,4 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
-2020-08-27 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-08-27 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-08-27 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-08-27 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
