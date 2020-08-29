@@ -1,6 +1,5 @@
 2020-08-16 00:00:00+00:00 - [Hyperledger Election] Eligiblity Scripts Run Daily
 2020-08-29 01:30:00-07:00 - [Hyperledger Meetups] Hyperledger India Chapter hosts "Asia Pacific Online Certification Study Circle"
-2020-08-29 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-08-29 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-08-29 13:00:00+00:00 - [Hyperledger Meetups] Hyperledger Sweden Study Circle hosts: Hyperledger Ordering Services
 2020-08-29 15:00:00+00:00 - [Hyperledger Meetups] HyperLedger Libya Meetup Launch Event
