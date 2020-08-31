@@ -1,5 +1,3 @@
-2020-08-31 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
-2020-08-31 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-08-31 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-01 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-01 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
@@ -76,6 +74,7 @@
 2020-09-14 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-14 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-09-14 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-09-14 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-09-14 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-15 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-09-15 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -438,4 +437,6 @@
 2020-12-01 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2020-12-01 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-12-01 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
+2020-12-01 09:00:00-07:00 - [Hyperledger Meetups] Monthly Meetup Organizer Planning Call
 2020-12-01 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
+2020-12-01 10:00:00-06:00 - [Hyperledger Quilt] Hyperledger Quilt Community Call
