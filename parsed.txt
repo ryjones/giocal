@@ -1,13 +1,8 @@
-2020-09-02 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
-2020-09-02 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-09-02 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-09-02 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-09-02 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-09-02 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-02 14:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Gal Hochberg
-2020-09-02 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
-2020-09-02 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
-2020-09-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-09-02 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-02 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-02 16:30:00+00:00 - [Hyperledger Community Latinoamerica Chapter] Casos de uso blockchain empresariales: Revolucionando la cadena de suministro con Telefónica
 2020-09-03 00:00:00+00:00 - [Hyperledger Grid] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -84,6 +79,7 @@
 2020-09-16 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-09-16 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
+2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-09-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-17 06:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer Contributors Meeting
@@ -152,6 +148,7 @@
 2020-09-30 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-30 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-30 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-09-30 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-30 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
 2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -223,6 +220,7 @@
 2020-10-14 14:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Optimizing supplier onboarding assessment processes through SSI, Luigi Riva
 2020-10-14 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-10-14 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-10-14 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-10-15 00:00:00+00:00 - [Hyperledger Sawtooth] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-10-15 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-15 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -286,6 +284,7 @@
 2020-10-28 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-10-28 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-10-28 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-10-28 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-10-29 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-10-29 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-29 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
@@ -347,6 +346,7 @@
 2020-11-11 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-11 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-11 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-11-11 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-11-12 00:00:00+00:00 - [Hyperledger Transact] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-12 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-11-12 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
@@ -409,6 +409,7 @@
 2020-11-25 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-11-25 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-11-25 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-11-25 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-11-26 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-11-26 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-11-26 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
@@ -440,3 +441,7 @@
 2020-12-02 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-03 00:00:00+00:00 - [Hyperledger Grid] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-12-03 00:00:00+00:00 - [Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-03 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-12-03 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
+2020-12-03 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
+2020-12-03 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
