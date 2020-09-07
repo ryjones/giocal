@@ -38,6 +38,7 @@
 2020-09-14 16:00:00+00:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-09-14 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger San Francisco hosts: Hyperledger Performance Improvements (Demos, Discussion, and Debate)
 2020-09-14 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
+2020-09-15 00:00:00+00:00 - [Hyperledger Meetups] Discussion with meetup organizers in French speaking countries
 2020-09-15 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-09-15 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-15 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
@@ -440,3 +441,9 @@
 2020-12-07 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-12-07 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-12-08 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
+2020-12-08 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-12-08 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
+2020-12-08 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
+2020-12-08 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
+2020-12-08 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
+2020-12-08 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
