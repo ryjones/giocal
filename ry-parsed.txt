@@ -95,6 +95,7 @@
 2020-09-24 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-24 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-09-24 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-25 01:00:00+00:00 - [Hyperledger Meetups] Hyperledger Eugene hosts: Hyperledger Fabric, Java and Performance
 2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-25 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-09-25 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
@@ -444,5 +445,11 @@
 2020-12-08 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-12-09 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-12-09 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2020-12-09 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
+2020-12-09 09:00:00-07:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
+2020-12-09 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
+2020-12-09 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
+2020-12-09 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-12-09 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-09 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-12-09 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
