@@ -1,7 +1,6 @@
 2020-09-09 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-09-09 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2020-09-09 09:00:00-07:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
-2020-09-09 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-09-09 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-09-09 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-09 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
@@ -453,3 +452,5 @@
 2020-12-09 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-09 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-09 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
+2020-12-10 00:00:00+00:00 - [Hyperledger Aries] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-10 00:00:00+00:00 - [Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-project-update
