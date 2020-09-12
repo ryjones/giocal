@@ -130,11 +130,11 @@ DESCRIPTION:Trade Finance SIG  Webinar\n3:30pm to 4:30pm SG/ HK time\nSinga
  Join Zoom Meeting\nhttps://zoom.us/j/6223336701\nMeeting ID: 622 333 6701\
  nFind your local number: https://zoom.us/u/bFAkRFwOg
 DTEND;TZID=Asia/Singapore:20200428T163000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Singapore:20200428T153000
 LOCATION:https://zoom.us/my/hyperledger.community.backup  (Meeting ID : 622
  3336701)
-RRULE:FREQ=WEEKLY;UNTIL=20201222T222959Z;INTERVAL=2;BYDAY=TU
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU;UNTIL=20201222T222959Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Trade Finance SIG] Trade Finance SIG webinar
 TRANSP:OPAQUE
@@ -147,7 +147,7 @@ DESCRIPTION:Register for the Hyperledger APAC presenting Blockchain Stories
  he Part 5 will be last of the series.\nLink https://zoom.us/webinar/regist
  er/WN_QGT45_ZiQEO4nQ9k8j7tNg
 DTEND:20200627T073000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200627T043000Z
 LOCATION:https://zoom.us/webinar/register/WN_QGT45_ZiQEO4nQ9k8j7tNg
 SEQUENCE:0
@@ -175,7 +175,7 @@ DESCRIPTION:The Climate Action and Accounting SIG calls are open to everyon
  /www.google.com/url?q=https://zoom.us/u/bAaJoyznp&amp\;sa=D&amp\;ust=15759
  34785645000&amp\;usg=AOvVaw0BiTWrjxxWd_w8P3qXBwzl</a> )
 DTEND:20200505T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200505T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -186,7 +186,7 @@ UID:1346696i-0e1ieso8aasb9qhhe87dnnjak0@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20201011
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201004
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] TSC Election Voting via Condorcet
@@ -198,7 +198,7 @@ DESCRIPTION:A virtual meetup in Spanish hosted by Hyperledger Madrid focuse
  d on the new TrustID lab project from Telefonica.  More details are at:\n\
  nhttps://www.meetup.com/Hyperledger-Madrid/
 DTEND:20200720T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200720T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -209,7 +209,7 @@ UID:1346696i-1liM.1593787545343102256.oB66@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20201019
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201011
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] New TSC Elects Chairperson
@@ -226,7 +226,7 @@ DESCRIPTION:The Aries Cloud Agent Python (ACA-Py) Users Group (ACA-Pug) mee
  epeats every other week.\n(If you copy the meeting to your calendar\, you 
  should confirm that the appointment repetition is correct.)
 DTEND;TZID=America/Los_Angeles:20200805T120000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200805T110000
 LOCATION:https://zoom.us/j/900111661
 RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2
@@ -248,7 +248,7 @@ DESCRIPTION:Hyperledger Denver hosts a virtual meetup featuring Zach Danker
  ree) Meeting ID: 5184947650 International numbers available: https://zoom.
  us/u/bAaJoyznp
 DTEND:20200610T190000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200610T180000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -269,9 +269,9 @@ DESCRIPTION:Welcome to join the next meeting using zoom.\n\nWe *strongly re
  onference?m=mTUdEBuT33gjEcR54Rqsi1KmFyNgSLYP ). E.g.\, 400 669 9381 or 010
  -87833177 (Premium Toll) for China area\, code is 248676399.
 DTEND;TZID=Asia/Shanghai:20200311T110000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Shanghai:20200311T100000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
+RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Technical WG China] Hyperledger Technical WG China Mee
  ting
@@ -283,7 +283,7 @@ DESCRIPTION:From computer: https://zoom.us/my/hyperledger.community\nFrom p
  hone: +1(855)880-1246 (toll free US number) or view International numbers\
  nMeeting ID: 403 498 3298
 DTEND:20200310T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200310T150000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Climate SIG] HL Climate SIG - Meeting #3
@@ -296,7 +296,7 @@ DESCRIPTION:A virtual Hyperledger meetup hosted by Hyperledger Milan.  A go
  genda are at:\n\nhttps://www.meetup.com/Hyperledger-Milano/events/26870920
  3/
 DTEND:20200528T203000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200528T183000Z
 LOCATION:https://ibm.webex.com/meet/carlo_ferrarini
 SEQUENCE:0
@@ -311,7 +311,7 @@ DESCRIPTION:Únete al evento de Lanzamiento del Capitulo Hyperledger Latinoa
  tecnología y su impacto en la región.\n\nhttps://zoom.us/meeting/register/
  tJwuf-GqqzsqG9V1CiJsJ0XqP3QvaFLnzfjW
 DTEND:20200617T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200617T220000Z
 LOCATION:https://zoom.us/meeting/register/tJwuf-GqqzsqG9V1CiJsJ0XqP3QvaFLnz
  fjW
@@ -326,7 +326,7 @@ DESCRIPTION:7/22オンライン開催 #Hyperledger Tokyo「Hyperledger Community
  たもの～機能提案とメンテナ活動」@FujitsuAU 「Hyperledgerマルチブロックチェーン基盤戦略構想」@Hitachi_Japan にぜ
  ひご参加ください！参加登録 : https://bit.ly/2W26K4f #HyperledgerFabric #HyperledgerBesu
 DTEND:20200722T103000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200722T090000Z
 LOCATION:https://zoom.us/webinar/register/WN_HfS6Yc28RbKsmelt1SBYrg
 SEQUENCE:0
@@ -346,7 +346,7 @@ DESCRIPTION:A virtual Hyperledger meetup hosted by Hyperledger Toronto feat
  77 369 0926 (Toll Free) Meeting ID: 5184947650 International numbers avail
  able: https://zoom.us/u/bAaJoyznp
 DTEND:20200609T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200609T220000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Meetups] Hyperledger meetup: Hyperledger Fabric for Sp
@@ -359,7 +359,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Boston featuring Tong Li
  \, talking about Minifabric -- a Hyperledger Fabric Quick Start Tool.\n\nM
  ore about the event is at:\n\nhttps://www.meetup.com/Hyperledger-Boston/
 DTEND:20200811T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200811T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -375,7 +375,7 @@ DESCRIPTION:Time:\n\nMarch 10\, 2020 at 8 AM Pacific\nDial-In Information:\
  6 (toll free US number) or view International numbers\nMeeting ID: 403 498
   3298
 DTEND:20200324T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200324T150000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Climate SIG] HL Climate SIG meeting
@@ -396,7 +396,7 @@ DESCRIPTION:This is a weekly time set up for people who want to collaborati
  26 (Toll Free) Meeting ID: 6223336701 International numbers available: htt
  ps://zoom.us/u/bAaJoyznp
 DTEND;TZID=America/Los_Angeles:20200523T070000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200523T060000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20200803T065959Z
@@ -419,7 +419,7 @@ DESCRIPTION:This is a weekly time set up for people who want to collaborati
  e) or +1 877 369 0926 (Toll Free) Meeting ID: 6223336701 International num
  bers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200509T080000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200509T070000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RECURRENCE-ID;TZID=America/Los_Angeles:20200509T070000
@@ -443,7 +443,7 @@ DESCRIPTION:This is a weekly time set up for people who want to collaborati
  26 (Toll Free) Meeting ID: 6223336701 International numbers available: htt
  ps://zoom.us/u/bAaJoyznp
 DTEND:20200516T140000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200516T130000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RECURRENCE-ID;TZID=America/Los_Angeles:20200516T070000
@@ -468,7 +468,7 @@ DESCRIPTION:The Climate Action and Accounting SIG calls are open to everyon
  s://www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=157593478564
  5000&usg=AOvVaw0BiTWrjxxWd_w8P3qXBwzl )
 DTEND;TZID=America/Los_Angeles:20200714T093000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200714T080000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
@@ -494,10 +494,10 @@ DESCRIPTION:Hyperledger India Chapter hosts a developer forum to get expert
  www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=1575934785645000
  &usg=AOvVaw0BiTWrjxxWd_w8P3qXBwzl )
 DTEND;TZID=Asia/Kolkata:20200402T150000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Kolkata:20200402T140000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20200521T205959Z
+RRULE:FREQ=WEEKLY;UNTIL=20200521T205959Z;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger India Chapter] Hyperledger India Chapter Developer For
  um
@@ -508,9 +508,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200313
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200312
-RRULE:FREQ=MONTHLY;BYDAY=2TH;INTERVAL=3
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=2TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Aries] Hyperledger Project Quarterly Update Due #tsc-p
  roject-update
@@ -524,7 +524,7 @@ DESCRIPTION:A peer programming session for people interested in collaborati
  iki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Work
  ing+Group
 DTEND:20200831T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200831T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -539,7 +539,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Geneve featuring Telefon
  come.  More about the event is at:\n\nhttps://www.meetup.com/Hyperledger-G
  eneve/events/271915693/
 DTEND:20200722T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200722T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -559,10 +559,10 @@ DESCRIPTION:Please join us for a rousing conversation about all things Arie
   to your calendar\, you should confirm that the appointment repetition is 
  correct.)
 DTEND;TZID=America/Denver:20200812T090000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200812T080000
 LOCATION:https://zoom.us/j/244779296
-RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
 SEQUENCE:0
 SUMMARY:[Hyperledger Aries] Aries WG A Call
 TRANSP:OPAQUE
@@ -579,7 +579,7 @@ DESCRIPTION:Hyperledger Sydney is hosting a virtual meetup and all are welc
   (Toll Free) or +1 877 369 0926 (Toll Free) Meeting ID: 5184947650 Interna
  tional numbers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200613T103000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200613T090000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -599,7 +599,7 @@ DESCRIPTION:A virtual meetup hosted by Sao Paulo to support the Hyperledger
  +1 855 880 1246 (Toll Free) or +1 877 369 0926 (Toll Free) Meeting ID: 518
  4947650 International numbers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200527T223000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200527T210000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -613,7 +613,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Mexico city featuring sp
  eakers from IBM and more.  For more event details\, visit the Hyperledger 
  Mexico City group at:\n\nhttps://www.meetup.com/Hyperledger-Mexico-City/
 DTEND:20200624T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200624T220000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -638,7 +638,7 @@ DESCRIPTION:This meeting is specifically focused on DCIWG activities at Glo
  /zoom.us/u/bAaJoyznp ( https://www.google.com/url?q=https://zoom.us/u/bAaJ
  oyznp&sa=D&ust=1579026771835000&usg=AOvVaw3NjpstX4hfcJdM-2HNYf_Z )
 DTEND:20200129T190000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200129T180000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -651,7 +651,7 @@ DESCRIPTION:A virtual meetup hosted by the Hyperledger Africa community.  P
  lease register at:\n\nhttps://zoom.us/meeting/register/tJwlcO2uqz0iGdMnFfO
  JWUJrFuQuxXoSKySI
 DTEND:20200618T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200618T160000Z
 LOCATION:https://zoom.us/meeting/register/tJwlcO2uqz0iGdMnFfOJWUJrFuQuxXoSK
  ySI
@@ -666,7 +666,7 @@ DESCRIPTION:From computer: https://zoom.us/my/hyperledger.community\nFrom p
  hone: +1(855)880-1246 (toll free US number) or view International numbers\
  nMeeting ID: 403 498 3298
 DTEND:20200602T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200602T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -684,7 +684,7 @@ DESCRIPTION:A virtual meetup on preventing fraud in telecom that all are we
  0926 (Toll Free) Meeting ID: 5184947650 International numbers available: h
  ttps://zoom.us/u/bAaJoyznp
 DTEND:20200413T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200413T140000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -699,7 +699,7 @@ DESCRIPTION:Dial-In Information:\n\nYou can join either from your computer
  nity\nFrom phone: +1(855)880-1246 (toll free US number) or view Internatio
  nal numbers\nMeeting ID: 403 498 3298
 DTEND:20200225T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200225T160000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Climate SIG] HL Climate Action & Accounting - Meeting 
@@ -712,7 +712,7 @@ DESCRIPTION:The Hyperledger Nairobi meetup group is hosting a virtual meetu
  p and all are welcome.  More about the event is at:\n\nhttps://www.meetup.
  com/Hyperledger-Nairobi/events/271864092/
 DTEND:20200718T143000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200718T130000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -734,7 +734,7 @@ DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android: https://zoom.us/my
  ogle.com/url?q=https://zoom.us/zoomconference?m%3DBYDz1WGXJTTJ_s4_zumD9hqK
  jJv-Whgs&sa=D&ust=1574031484255000&usg=AOvVaw1D4JVAAriPP31Ey4bNiOs0 )
 DTEND;TZID=America/Los_Angeles:20200806T080000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200806T070000
 EXDATE;TZID=America/Los_Angeles:20200806T070000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
@@ -753,7 +753,7 @@ DESCRIPTION:Hi All\,\n\nAgenda : here ( https://collabathon-docs.openclimat
  ing contribution and look forward to our next discussion.  Feel free to fo
  rward the invite to new interest.\n\nBest\n\nAnshu
 DTEND:20200703T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200703T150000Z
 LOCATION:https://yale.zoom.us/j/99824115721
 SEQUENCE:0
@@ -765,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Log in at: \nhttps://zoom.us/my/hyperledger.community
 DTEND:20200211T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200211T160000Z
 LOCATION:Zoom
 SEQUENCE:0
@@ -786,10 +786,10 @@ DESCRIPTION:The Indy Contributors call provides an opportunity to get an up
   other week.\n(If you copy the meeting to your calendar\, you should confi
  rm that the appointment repetition is correct.)
 DTEND;TZID=America/Denver:20200818T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200818T090000
 LOCATION:https://zoom.us/j/244779296
-RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
 SEQUENCE:0
 SUMMARY:[Hyperledger Indy] Indy Contributors Call
 TRANSP:OPAQUE
@@ -807,7 +807,7 @@ DESCRIPTION:⚠️⚠️⚠️ INSCRIÇÕES -> https://www.meetup.com/Hyperledge
  o Evento de São Paulo\nSe inscrevam no Grupo e no Evento:\n\n⚠️⚠️\nhttps:/
  /www.meetup.com/Hyperledger-Sao-Paulo/events/270650331/\n⚠️⚠️
 DTEND:20200527T220000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200527T210000Z
 LOCATION:Online
 SEQUENCE:0
@@ -818,10 +818,10 @@ UID:1346696i-FokV.1590445074951988515.tZPt@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Chicago:20200821T110000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200821T100000
 LOCATION:Zoom - https://us02web.zoom.us/j/86725415937
-RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=4
+RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=FR
 SEQUENCE:0
 SUMMARY:[Hyperledger Grid] Grid Community Meeting
 TRANSP:OPAQUE
@@ -840,7 +840,7 @@ DESCRIPTION:Únete al evento en el que revisaremos los casos de uso de Hyper
   en productos blockchain.\n\nRegístrate\n\nhttps://us02web.zoom.us/webinar
  /register/WN_K1F_eJfVS8ONsvfmxX_-OA
 DTEND:20200708T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200708T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_K1F_eJfVS8ONsvfmxX_-OA
 SEQUENCE:0
@@ -854,7 +854,7 @@ DESCRIPTION:Hyperledger Mexico virtual meetup: Conversatorio sobre Criptomo
  nedas presentada por Nancy Salazar\n\nhttps://www.meetup.com/Hyperledger-M
  exico-City/
 DTEND:20200708T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200708T220000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -877,7 +877,7 @@ DESCRIPTION:A virtual meetup hosted by the organizers of the Hyperledger me
  np\n\nIf there is anything else that I can help you with\, please let me k
  now.
 DTEND:20200430T153000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200430T140000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -891,7 +891,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Kochi featuring an Intro
  bout the event is at: https://www.meetup.com/Hyperledger-Kochi/events/2712
  71869/
 DTEND:20200620T073000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200620T060000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Meetups] Hyperledger Kochi hosts "Introduction to Hype
@@ -903,7 +903,7 @@ BEGIN:VEVENT
 DESCRIPTION:Standing TSC meeting agenda item to give election annoucements/
  updates.
 DTEND;TZID=America/Los_Angeles:20200806T080000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200806T070000
 RRULE:FREQ=WEEKLY;UNTIL=20201016T065959Z;BYDAY=TH
 SEQUENCE:0
@@ -920,7 +920,7 @@ DESCRIPTION:Cambiando paradigmas y transformando la banca a través de block
  ablo Ramirez lideres Blockchain Bancolombia\n\nhttps://us02web.zoom.us/web
  inar/register/WN_UpaujjTBSaayMIJ9F28OLg
 DTEND:20200722T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200722T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_UpaujjTBSaayMIJ9F28OLg
 SEQUENCE:0
@@ -942,7 +942,7 @@ DESCRIPTION:A virtual event hosted by Hyperledger Netherlands featuring spe
  ting ID: 4336690939 International numbers available: https://zoom.us/u/bAa
  Joyznp
 DTEND:20200421T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200421T140000Z
 LOCATION:https://zoom.us/j/4336690939
 SEQUENCE:0
@@ -955,7 +955,7 @@ DESCRIPTION:The event will be marking the launch of Hyperledger meetups in
  Libya\n\nAgenda:\n. Meetup group purpose and plans\n. Presentation on Hype
  rledger Ecosystem\n. Open Discussions
 DTEND:20200829T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200829T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -967,9 +967,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200911
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200910
-RRULE:FREQ=MONTHLY;BYDAY=2TH;INTERVAL=3
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=2TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-pr
  oject-update
@@ -982,7 +982,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Denver about DLT Securit
   The Depository Trust and Clearing Corporation (DTCC).\n\nMore about the e
  vent is at: https://www.meetup.com/Hyperledger-Denver/events/271321426/
 DTEND:20200709T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200709T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1003,10 +1003,10 @@ DESCRIPTION:Trade Finance SIG\nWhen:\nEvery Second Tuesday\n2:00pm to 3:00p
   0926 US Toll-free\n\n+1 855 880 1246 US Toll-free\n\nMeeting ID: 622 333 
  6701\n\nFind your local number: https://zoom.us/u/bFAkRFwOg\n\nCA
 DTEND;TZID=Europe/London:20200804T093000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200804T083000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Trade Finance SIG] Trade Finance SIG
 TRANSP:OPAQUE
@@ -1035,7 +1035,7 @@ DESCRIPTION:This note is to remind all Hyperledger Special Interest Group C
  tes/public-sector-wg-2018-aug\n\nThanks\,\n\nDavid Boswell\n\nDirector of 
  Ecosystem
 DTEND;VALUE=DATE:20201217
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201216
 RRULE:FREQ=MONTHLY;INTERVAL=6;BYMONTHDAY=16
 SEQUENCE:0
@@ -1051,7 +1051,7 @@ DESCRIPTION:El próximo miércoles 01 de Julio 2020 5:00 PM Panamá\, te invit
  ad de Hyperledger Latinoamérica.\n\nCurva o evolución de adopción de Hyper
  ledger.
 DTEND:20200701T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200701T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_QsdCLPMcQ1el3iuvtBNWrg
 SEQUENCE:0
@@ -1064,9 +1064,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20201023
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201022
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
+RRULE:FREQ=MONTHLY;BYDAY=4TH;INTERVAL=3
 SEQUENCE:0
 SUMMARY:[Hyperledger Iroha] Hyperledger Project Quarterly Update Due #tsc-p
  roject-update
@@ -1079,7 +1079,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Nairobi focused on getti
  .\n\nMore details about the event are at: https://www.meetup.com/Hyperledg
  er-Nairobi/events/272203143/
 DTEND:20200801T143000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200801T130000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1094,7 +1094,7 @@ DESCRIPTION:A monthly planning call for Hyperledger meetup organizers and f
  all is at:\n\nhttps://wiki.hyperledger.org/display/events/Monthly+Organize
  r+Meetings
 DTEND;TZID=America/Los_Angeles:20200602T093000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200602T090000
 LOCATION:https://zoom.us/j/4336690939
 RRULE:FREQ=MONTHLY;BYDAY=1TU
@@ -1116,7 +1116,7 @@ DESCRIPTION:This is an online meetup being run by the Hyperledger Sydney co
  m.us/u/bAaJoyznp&sa=D&ust=1575934785645000&usg=AOvVaw0BiTWrjxxWd_w8P3qXBwz
  l )
 DTEND:20200320T100000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200320T080000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1126,7 +1126,7 @@ UID:1346696i-NeZ0.1584049125140996621.DeqF@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20201002
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201001
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] Announce TSC Election Candidates
@@ -1142,7 +1142,7 @@ DESCRIPTION:Abrimos este espacio de interacción con la audiencia para defin
  erritorio común.\n\nhttps://us02web.zoom.us/webinar/register/WN_xSGQFRfITL
  aFWkg8ZG2GOA
 DTEND:20200729T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200729T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_xSGQFRfITLaFWkg8ZG2GOA
 SEQUENCE:0
@@ -1157,7 +1157,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Toronto featuring Diógen
  n.  All are welcome.\n\nMore about the event is at:\n\nhttps://www.meetup.
  com/Hyperledger-Toronto/events/272008944/
 DTEND:20200728T223000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200728T210000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 DESCRIPTION:This is the regular biweekly Ursa meeting.\n\nhttps://zoom.us/m
  y/hyperledger.community.backup
 DTEND;TZID=America/Los_Angeles:20200819T080000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200819T070000
 LOCATION:Zoom:  https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
@@ -1185,7 +1185,7 @@ DESCRIPTION:----------\n\njeeva sang is inviting you to a scheduled Zoom me
  lVK3hPQUxlUjFBdlNKeEc0MytUZz09 )\n\nMeeting ID: 786 026 56521\nPassword: 4
  071788576\n\n----------
 DTEND:20200917T070000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200917T060000Z
 LOCATION:https://us04web.zoom.us/j/78602656521?pwd=Q0lVK3hPQUxlUjFBdlNKeEc0
  MytUZz09
@@ -1203,7 +1203,7 @@ DESCRIPTION:Contact: Raveesh Dewer\nJoin from PC\, Mac\, Linux\, iOS or And
  0 1246 (Toll Free) or +1 877 369 0926 (Toll Free)\n    Meeting ID: 403 498
   3298\n    International numbers available: https://zoom.us/u/bAaJoyznp
 DTEND;TZID=America/New_York:20200814T140000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200814T130000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=2
@@ -1217,9 +1217,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200821
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200820
-RRULE:FREQ=MONTHLY;BYDAY=3TH;INTERVAL=3
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=3TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Quilt] Hyperledger Project Quarterly Update Due #tsc-p
  roject-update
@@ -1237,7 +1237,7 @@ DESCRIPTION:A virtual meetup organized by the Hyperledger Argentina meetup
  Free) Meeting ID: 5184947650 International numbers available: https://zoom
  .us/u/bAaJoyznp
 DTEND;VALUE=DATE:20200416
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200415
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1262,7 +1262,7 @@ DESCRIPTION:All are welcome to join our regular Diversity Civility and Incl
   ( https://www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=15790
  26771835000&usg=AOvVaw3NjpstX4hfcJdM-2HNYf_Z )
 DTEND;TZID=America/Los_Angeles:20200513T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200513T090000
 EXDATE;TZID=America/Los_Angeles:20200513T090000
 EXDATE;TZID=America/Los_Angeles:20200610T090000
@@ -1292,7 +1292,7 @@ DESCRIPTION:All are welcome to join our regular Diversity Civility and Incl
   ( https://www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=15790
  26771835000&usg=AOvVaw3NjpstX4hfcJdM-2HNYf_Z )
 DTEND:20200520T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200520T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RECURRENCE-ID;TZID=America/Los_Angeles:20200527T090000
@@ -1318,7 +1318,7 @@ DESCRIPTION:All are welcome to join our regular Diversity Civility and Incl
   ( https://www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=15790
  26771835000&usg=AOvVaw3NjpstX4hfcJdM-2HNYf_Z )
 DTEND:20200610T110000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200610T100000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RECURRENCE-ID;TZID=America/Los_Angeles:20200610T100000
@@ -1334,7 +1334,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Dallas featuring speaker
  g mechanism with blockchain.  All are welcome\,\n\nMore about the event is
   at: https://www.meetup.com/Hyperledger-Dallas/events/271801904/
 DTEND:20200715T003000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200714T230000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -1357,10 +1357,10 @@ DESCRIPTION:The Hyperledger Identity WG Implementers call coordinates statu
   you copy the meeting to your calendar\, you should confirm that the appoi
  ntment repetition is correct.)
 DTEND;TZID=America/Denver:20200813T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200813T090000
 LOCATION:https://zoom.us/j/244779296
-RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Identity WG] Identity WG Implementers Call
 TRANSP:OPAQUE
@@ -1380,7 +1380,7 @@ DESCRIPTION:Please join us for a rousing conversation about all things Arie
  eeting repeats every week.\n(If you copy the meeting to your calendar\, yo
  u should confirm that the appointment repetition is correct.)
 DTEND;TZID=America/Denver:20200805T143000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200805T130000
 LOCATION:https://zoom.us/j/856588081
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -1401,7 +1401,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Toronto featuring Duncan
  246 (Toll Free) or +1 877 369 0926 (Toll Free) Meeting ID: 5184947650 Inte
  rnational numbers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200513T193000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200513T180000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1426,7 +1426,7 @@ DESCRIPTION:Hi All\,\n\nHedera Hashgraph released its Hedera consensus serv
  md ( https://github.com/hashgraph/fabric-samples-hcs/blob/feature/hcs/firs
  t-network/README_hcs.md )\n\nThanks\nKamlesh Nagware
 DTEND:20200402T143000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200402T133000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3﻿
 SEQUENCE:0
@@ -1447,7 +1447,7 @@ DESCRIPTION:a virtual meetup hosted by Hyperledger Dallas that will focus o
  ree) or +1 877 369 0926 (Toll Free) Meeting ID: 6223336701 International n
  umbers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200610T010000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200609T230000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -1467,7 +1467,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Sydney.  All are welcome
  +1 877 369 0926 (Toll Free) Meeting ID: 5184947650 International numbers a
  vailable: https://zoom.us/u/bAaJoyznp
 DTEND:20200422T093000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200422T080000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1481,7 +1481,7 @@ DESCRIPTION:A virtual meetup hosted by the Hyperledger Toronto group featur
  d Aires.  More about the event is at:\n\nhttps://www.meetup.com/Hyperledge
  r-Toronto/events/271056817/
 DTEND:20200630T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200630T220000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1492,7 +1492,7 @@ UID:1346696i-VgCa.1591221515967351628.qu8z@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20201012
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201011
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] Publish TSC Election Results
@@ -1509,7 +1509,7 @@ DESCRIPTION:Contact: Rich Bloch\nTopic: Hyperledger Healthcare SIG\n\nJoin
  oll Free)\n    Meeting ID: 403 498 3298\n    International numbers availab
  le: https://zoom.us/u/bAaJoyznp
 DTEND;TZID=America/Denver:20200807T090000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200807T080000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=2
@@ -1525,7 +1525,7 @@ DESCRIPTION:The community architects will be running the eligibility script
   contributors and updating the eligibility check site ( https://hyperledge
  r-labs.github.io/voters/ ).
 DTEND;VALUE=DATE:20200831
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200816
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] Eligiblity Scripts Run Daily
@@ -1549,10 +1549,10 @@ DESCRIPTION:HIS is focused on how clinical artifacts can be stored on a blo
  hcare+Interoperability+Subgroup#HC-SIG-HealthcareInteroperabilitySubgroup-
  meetingagendas ).
 DTEND;TZID=America/Los_Angeles:20200803T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200803T090000
 LOCATION:https://zoom.us/my/hyperledger.community.3
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO
+RRULE:FREQ=WEEKLY;BYDAY=MO;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperabilit
  y Subgroup
@@ -1570,7 +1570,7 @@ DESCRIPTION:Here are glimpse of what you can expect in Hyperledger India Ch
  logy can provide improved business solution from Patricia A. \, Project Ma
  nager Nanyang Technological University
 DTEND:20200620T060000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200620T043000Z
 LOCATION:https://zoom.us/webinar/register/WN_QGT45_ZiQEO4nQ9k8j7tNg
 SEQUENCE:0
@@ -1585,7 +1585,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Austin featuring the Pre
  bout the event and information about how to dial-in is at: https://www.mee
  tup.com/Hyperledger-Austin/events/267193551/
 DTEND:20200812T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200812T220000Z
 LOCATION:https://www.meetup.com/Hyperledger-Austin/events/267193551/
 SEQUENCE:0
@@ -1605,7 +1605,7 @@ DESCRIPTION:Únete al evento en el que revisaremos los casos de uso de Hyper
   de aprobación y notificación.\n\n• Presentador: Erick Poppe Yañez - Profe
  sional de Investigación en Gestión de Datos e Información
 DTEND:20200819T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200819T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_cPEK7YWiTs-NBGq_RhvHLg
 SEQUENCE:0
@@ -1625,7 +1625,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Sydney featuring Honggan
   +1 877 369 0926 (Toll Free) Meeting ID: 5184947650 International numbers 
  available: https://zoom.us/u/bAaJoyznp
 DTEND:20200514T103000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200514T090000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1642,7 +1642,7 @@ DESCRIPTION:Hyperledger Bangalore hosts a virtual meetup that focuses on ho
  hain? And more...\n\nMore details about the event are at: https://zoom.us/
  webinar/register/WN_QGT45_ZiQEO4nQ9k8j7tNg
 DTEND:20200606T063000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200606T043000Z
 LOCATION:https://zoom.us/webinar/register/WN_QGT45_ZiQEO4nQ9k8j7tNg
 SEQUENCE:0
@@ -1659,12 +1659,12 @@ DESCRIPTION:Join Zoom Meeting\nhttps://zoom.us/j/6223336701\n\nOne tap mobi
  ll-free\n        +1 855 880 1246 US Toll-free\nMeeting ID: 622 333 6701\nF
  ind your local number: https://zoom.us/u/bFAkRFwOg
 DTEND;TZID=America/New_York:20200804T110000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200804T100000
 EXDATE;TZID=America/New_York:20200804T100000
 EXDATE;TZID=America/New_York:20200818T100000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
 TRANSP:OPAQUE
@@ -1681,7 +1681,7 @@ DESCRIPTION:A virtual meetup that all are welcome to attend.\n\nFor the Zoo
   369 0926 (Toll Free) Meeting ID: 5184947650 International numbers availab
  le: https://zoom.us/u/bAaJoyznp
 DTEND:20200329T103000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200329T073000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -1696,7 +1696,7 @@ DESCRIPTION:Hyperledger Kerala hosts a virtual Hyperledger meetup in Malaya
   other topics.  More details about the event can be found at:\n\nhttps://w
  ww.meetup.com/Hyperledger-Kerala/
 DTEND:20200610T143000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200610T123000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -1721,7 +1721,7 @@ DESCRIPTION:https://zoom.us/j/982600073 ( https://www.google.com/url?q=http
  n (Sr. Manager of Marketing Communications) Alissa Worley (Hyperledger MC 
  chair) Duncan Johnston-Watt (Hyperledger MC vice chair)
 DTEND;TZID=America/Los_Angeles:20200812T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200812T090000
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 SEQUENCE:0
@@ -1745,7 +1745,7 @@ DESCRIPTION:https://zoom.us/j/982600073 ( https://www.google.com/url?q=http
  n (Sr. Manager of Marketing Communications) Alissa Worley (Hyperledger MC 
  chair) Duncan Johnston-Watt (Hyperledger MC vice chair)
 DTEND:20200916T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200916T160000Z
 RECURRENCE-ID;TZID=America/Los_Angeles:20200909T090000
 SEQUENCE:0
@@ -1762,7 +1762,7 @@ DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android:\nhttps://zoom.us/m
   (Toll Free) or +1 877 369 0926 (Toll Free)\n\nMeeting ID: 403 498 3298\n\
  nInternational numbers available: https://zoom.us/u/bAaJoyznp
 DTEND;TZID=Europe/London:20200814T160000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200814T150000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=2
@@ -1780,7 +1780,7 @@ DESCRIPTION:Topic: Besu Contributor Call (APAC/AMER times)\n\nJoin Zoom Mee
  1246 US Toll-free\nMeeting ID: 524 697 595\nFind your local number: https:
  //consensys.zoom.us/u/acePGA0VVe
 DTEND:20200818T020000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200818T010000Z
 LOCATION:https://consensys.zoom.us/j/524697595
 RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=TU;COUNT=12
@@ -1796,7 +1796,7 @@ DESCRIPTION:A peer programming session for people interested in collaborati
  iki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Work
  ing+Group
 DTEND:20200818T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200818T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -1819,7 +1819,7 @@ DESCRIPTION:A virtual meetup focused on Hyperledger trainings and certifica
   (Toll Free) Meeting ID: 6223336701 International numbers available: https
  ://zoom.us/u/bAaJoyznp
 DTEND:20200505T180000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200505T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -1833,7 +1833,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200904
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200903
 RRULE:FREQ=MONTHLY;BYDAY=1TH;INTERVAL=3
 SEQUENCE:0
@@ -1863,10 +1863,10 @@ DESCRIPTION:The mission of this group is to focus on problems related to he
  rter ( https://docs.google.com/document/d/1GYV6H5_qYpYaYhyqX8pFbr5WTzw8PRH
  _1Ww4VILrHr8/edit?ts=5c7887a1 ).
 DTEND;TZID=America/Los_Angeles:20200803T090000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200803T080000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO
+RRULE:FREQ=WEEKLY;BYDAY=MO;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Pa
  tient Subgroup Meeting
@@ -1880,11 +1880,11 @@ DESCRIPTION:A meeting to work through how to improve the information and re
   group are at:\n\nhttps://wiki.hyperledger.org/display/events/Meetup+Impro
  vement+Sub-Group
 DTEND;TZID=America/Los_Angeles:20200528T103000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200528T093000
 EXDATE;TZID=America/Los_Angeles:20200611T093000
 LOCATION:https://zoom.us/j/4336690939
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
+RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 TRANSP:OPAQUE
@@ -1896,7 +1896,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Denver featuring discuss
  are at:\n\nhttps://www.meetup.com/Hyperledger-Denver/events/271972162/edit
  /
 DTEND:20200806T180000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200806T170000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -1911,7 +1911,7 @@ DESCRIPTION:Te invitamos a nuestro próximo webinar  "Transformando el Agro
  os cómo éste proyecto busca volver más eficientes y justos los mercados de
   alimentos en la región y el mundo.
 DTEND:20200805T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200805T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_ZteR3Ag1QraewT23GBuR9Q
 SEQUENCE:0
@@ -1926,7 +1926,7 @@ DESCRIPTION:A virtual Hyperledger meetup organized by the Hyperledger Tokyo
  ails can be found on the event page at:\n\nhttps://www.meetup.com/Hyperled
  ger-Tokyo/events/270917783/
 DTEND:20200611T110000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200611T093000Z
 LOCATION:https://www.meetup.com/Hyperledger-Tokyo/events/270917783/
 SEQUENCE:0
@@ -1938,10 +1938,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://zoom.us/my/hyperledger.community.3
 DTEND;TZID=Europe/Moscow:20200812T153000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/Moscow:20200812T143000
 LOCATION:https://zoom.us/my/hyperledger.community.3
-RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
 SEQUENCE:0
 SUMMARY:[Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 TRANSP:OPAQUE
@@ -1961,7 +1961,7 @@ DESCRIPTION:Hyperledger Barcelona hosts a virtual meetup on "Hyperledger Be
  eeting ID: 6223336701 International numbers available: https://zoom.us/u/b
  AaJoyznp
 DTEND:20200416T200000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200416T180000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -1973,7 +1973,7 @@ BEGIN:VEVENT
 DESCRIPTION:Publish the email template for submitting nominations and open 
  the call for nominees.
 DTEND;VALUE=DATE:20200831
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200830
 SEQUENCE:0
 SUMMARY:[Hyperledger Election] Open Up Nominations
@@ -1991,7 +1991,7 @@ DESCRIPTION:A virtual meetup run by Hyperledger Barcelona and all are welco
  or +1 877 369 0926 (Toll Free) Meeting ID: 6223336701 International number
  s available: https://zoom.us/u/bAaJoyznp
 DTEND:20200409T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200409T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2003,7 +2003,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200828
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200827
 RRULE:FREQ=MONTHLY;BYDAY=4TH;INTERVAL=3
 SEQUENCE:0
@@ -2016,7 +2016,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20201009
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201008
 RRULE:FREQ=MONTHLY;BYDAY=2TH;INTERVAL=3
 SEQUENCE:0
@@ -2029,9 +2029,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200814
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200813
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=2TH
+RRULE:FREQ=MONTHLY;BYDAY=2TH;INTERVAL=3
 SEQUENCE:0
 SUMMARY:[Hyperledger Transact] Hyperledger Project Quarterly Update Due #ts
  c-project-update
@@ -2045,7 +2045,7 @@ DESCRIPTION:A virtual meetup hosted by the Hyperledger Austin group featuri
   case related with traceability in the Fashion Chain.\n\nMore about the ev
  ent is at: https://www.meetup.com/Hyperledger-Austin/events/271237562/
 DTEND:20200623T010000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200622T230000Z
 LOCATION:https://capitalfactory.webex.com/m/1146eede-d473-4b2c-b2ac-88ea289
  350f6
@@ -2059,7 +2059,7 @@ BEGIN:VEVENT
 DESCRIPTION:For meeting agendas\, recordings\, and more details\, see https
  ://wiki.hyperledger.org/display/fabric/Contributor+Meetings
 DTEND;TZID=America/New_York:20200805T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200805T090000
 LOCATION:https://zoom.us/my/hyperledger.community.3
 RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2
@@ -2075,7 +2075,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Dubai and Abu Dhabi feat
  r blockchain network.\n\nMore information about the event can be found at:
  \n\nhttps://www.meetup.com/Hyperledger-Dubai/events/271588669/
 DTEND:20200704T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200704T153000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2094,7 +2094,7 @@ DESCRIPTION:Contact: Attila Klenik (RC: @klenik)\n\nJoin from PC\, Mac\, Li
  ting ID: 403 498 3298\n    International numbers available: https://zoom.u
  s/u/bAaJoyznp
 DTEND:20200805T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200805T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -2113,7 +2113,7 @@ DESCRIPTION:Peter Somogyvari\, Technology Architect for Accenture Products
  n\nMore about the event is at: https://www.meetup.com/Hyperledger-London/e
  vents/271943315/
 DTEND:20200730T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200730T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2127,7 +2127,7 @@ DESCRIPTION:----------\n\nHyperledger Community is inviting you to a schedu
  led Zoom meeting.\n\nJoin Zoom Meeting ( https://zoom.us/j/4034983298 )\n\
  nMeeting ID: 403 498 3298\nPassword:\n\n----------
 DTEND:20200804T060000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200804T040000Z
 LOCATION:https://zoom.us/j/4034983298
 SEQUENCE:0
@@ -2139,9 +2139,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200807
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200806
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1TH
+RRULE:FREQ=MONTHLY;BYDAY=1TH;INTERVAL=3
 SEQUENCE:0
 SUMMARY:[Hyperledger Burrow] Hyperledger Project Quarterly Update Due #tsc-
  project-update
@@ -2158,7 +2158,7 @@ DESCRIPTION:A virtual meetup run by the Hyperledger Denver group that all a
   369 0926 (Toll Free) Meeting ID: 5184947650 International numbers availab
  le: https://zoom.us/u/bAaJoyznp
 DTEND:20200409T210000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200409T190000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2177,7 +2177,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Tamil Nadu.  This meetup
  dule a zoom meeting for us and share the account details for the time I me
  ntioned above?
 DTEND:20200621T080000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200621T063000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2203,7 +2203,7 @@ DESCRIPTION:Let's sync-up to discuss Hyperledger Quilt\, the Java ILP imple
  tps://www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=1567260346
  072000&usg=AOvVaw1YOC6hW0PeLgYmcA4QPBZL )
 DTEND;TZID=America/Denver:20200804T110000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Denver:20200804T100000
 EXDATE;TZID=America/Denver:20200804T100000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
@@ -2217,9 +2217,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\nhttps://
  wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200904
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200903
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1TH
+RRULE:FREQ=MONTHLY;BYDAY=1TH;INTERVAL=3
 SEQUENCE:0
 SUMMARY:[Hyperledger Ursa] Hyperledger Project Quarterly Update Due #tsc-pr
  oject-update
@@ -2230,10 +2230,10 @@ BEGIN:VEVENT
 DESCRIPTION:Fortnightly open forum for Cactus Contributors at Eastern Hemis
  phere friendly time.
 DTEND:20200702T090000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200702T080000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
-RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 TRANSP:OPAQUE
@@ -2245,7 +2245,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Dubai and Abu Dhabi focu
  e event are at:\n\nhttps://www.meetup.com/Hyperledger-Abu-Dhabi/events/271
  053797/
 DTEND:20200613T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200613T150000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2262,7 +2262,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Hong Kong about how to q
  latforms to cloud infrastructure.\n\nMore about the event is at: https://w
  ww.meetup.com/Hyperledger-HK/events/272015252/
 DTEND:20200813T123000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200813T110000Z
 LOCATION:https://zoom.us/webinar/register/WN_8-r8-GkiSRu-PCanyXWbxw
 SEQUENCE:0
@@ -2279,7 +2279,7 @@ DESCRIPTION:Hyperledger Bangalore hosts a virtual meetup that focuses on ho
  hain? And more...\n\nMore details about the event are at: https://zoom.us/
  webinar/register/WN_hZza-mXlSXudJ8eJ7j7ZXA
 DTEND:20200530T063000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200530T043000Z
 LOCATION:https://zoom.us/webinar/register/WN_hZza-mXlSXudJ8eJ7j7ZXA
 SEQUENCE:0
@@ -2297,10 +2297,10 @@ DESCRIPTION:Topic: Besu Contributor Call (APAC/AMER times)\n\nJoin Zoom Mee
  5257 US Toll-free\nMeeting ID: 199 741 148\nFind your local number: https:
  //consensys.zoom.us/u/acePGA0VVe
 DTEND:20200804T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200804T150000Z
 LOCATION:https://consensys.zoom.us/j/199741148
-RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=4;COUNT=12
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=TU;INTERVAL=4
 SEQUENCE:0
 SUMMARY:[Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
 TRANSP:OPAQUE
@@ -2311,7 +2311,7 @@ DESCRIPTION:Join us for a virtual Hyperledger meetup hosted by Hyperledger
  Kansas City.  More details about the event and how to dial-in are at:\n\nh
  ttps://www.meetup.com/Hyperledger-Kansas-City/events/270359537/
 DTEND:20200512T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200512T163000Z
 LOCATION:https://www.meetup.com/Hyperledger-Kansas-City/events/270359537/
 SEQUENCE:0
@@ -2334,7 +2334,7 @@ DESCRIPTION:Two of the Hyperleger Labs projects (private data objects and p
  Fac5Ucp2nJy&sa=D&ust=1576364948776000&usg=AFQjCNFPz4HayZr_2zZTGT20ceL1_PX8
  lQ )
 DTEND;TZID=America/Los_Angeles:20200804T090000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200804T080000
 LOCATION:https://zoom.us/j/5184947650
 RRULE:FREQ=WEEKLY;BYDAY=TU
@@ -2354,7 +2354,7 @@ DESCRIPTION:A virtual Hyperledger Saudi Arabia meetup featuring Executive D
  (Toll Free) or +1 877 369 0926 (Toll Free) Meeting ID: 6223336701 Internat
  ional numbers available: https://zoom.us/u/bAaJoyznp
 DTEND:20200422T180000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200422T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2370,7 +2370,7 @@ DESCRIPTION:Pessoal\, tem # meetup ( https://twitter.com/search?q=%23meetup
  ain ) é uma boa pedida. 18h com Glauco Reis e Chaim Finizola.\n\nhttps://w
  ww.meetup.com/Hyperledger-Sao-Paulo/events/272086246/
 DTEND:20200729T223000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200729T210000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2391,7 +2391,7 @@ DESCRIPTION:Review and organization of roadmap and project issues:\nhttps:/
  ogle.com/url?q=https%3A%2F%2Fzoom.us%2Fu%2FbAaJoyznp&sa=D&ust=155131658174
  7000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2Esg )
 DTEND;TZID=America/Chicago:20200810T220000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200810T210000
 LOCATION:https://zoom.us/my/hyperledger.community.3﻿
 RRULE:FREQ=WEEKLY;BYDAY=MO
@@ -2404,7 +2404,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/TSC+Project+Updates
 DTEND;VALUE=DATE:20200925
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200924
 RRULE:FREQ=MONTHLY;BYDAY=4TH;INTERVAL=3
 SEQUENCE:0
@@ -2418,7 +2418,7 @@ DESCRIPTION:Junte-se ao Capítulo Hyperledger Brasil no próximo dia 24/Jun p
  ara uma conversa sobre Identidade Soberana e #HyperledgerAries https://www
  .meetup.com/pt-BR/Hyperledger-Sao-Paulo/events/271332575/
 DTEND:20200624T223000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200624T210000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2440,7 +2440,7 @@ DESCRIPTION:This is an online meetup being run by the Hyperledger Pakistan
  /zoom.us/u/bAaJoyznp&sa=D&ust=1575934785645000&usg=AOvVaw0BiTWrjxxWd_w8P3q
  XBwzl )
 DTEND:20200326T150000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200326T130000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2452,7 +2452,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20201029
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201028
 RRULE:FREQ=MONTHLY;BYDAY=4WE;INTERVAL=3
 SEQUENCE:0
@@ -2474,7 +2474,7 @@ DESCRIPTION:The Hyperledger Sweden meetup group is holding a virtual meetup
  \nIf there is anything else with the webinar that I can help you with\, pl
  ease let me know.
 DTEND:20200402T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200402T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2486,9 +2486,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200925
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200924
-RRULE:FREQ=MONTHLY;BYDAY=4TH;INTERVAL=3
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Caliper] Hyperledger Project Quarterly Update Due #tsc
  -project-update
@@ -2506,7 +2506,7 @@ DESCRIPTION:A virtual meetup that everyone is welcome to attend.\n\nFor the
   877 369 0926 (Toll Free) Meeting ID: 5184947650 International numbers ava
  ilable: https://zoom.us/u/bAaJoyznp
 DTEND:20200328T103000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200328T073000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2518,7 +2518,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200918
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200917
 RRULE:FREQ=MONTHLY;BYDAY=3TH;INTERVAL=3
 SEQUENCE:0
@@ -2531,7 +2531,7 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20200821
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200820
 RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=3TH
 SEQUENCE:0
@@ -2544,9 +2544,9 @@ BEGIN:VEVENT
 DESCRIPTION:Please file a project status report for the TSC here:\n\nhttps:
  //wiki.hyperledger.org/display/TSC/Project+Status+Updates
 DTEND;VALUE=DATE:20201016
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20201015
-RRULE:FREQ=MONTHLY;BYDAY=3TH;INTERVAL=3
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=3TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Sawtooth] Hyperledger Project Quarterly Update Due #ts
  c-project-update
@@ -2564,7 +2564,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Bologna that is open to
  or +1 877 369 0926 (Toll Free) Meeting ID: 5184947650 International number
  s available: https://zoom.us/u/bAaJoyznp
 DTEND:20200423T180000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200423T170000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2584,7 +2584,7 @@ DESCRIPTION:A virtual event hosted by the Hyperledger Austin meetup group a
   ID: 6223336701 International numbers available: https://zoom.us/u/bAaJoyz
  np
 DTEND:20200430T000000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200429T220000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2595,7 +2595,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://zoom.us/my/hyperledger.community.3
 DTEND;TZID=America/New_York:20200804T103000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200804T100000
 LOCATION:https://zoom.us/my/hyperledger.community.3
 RRULE:FREQ=WEEKLY;BYDAY=TU
@@ -2616,7 +2616,7 @@ DESCRIPTION:A monthly meeting for any existing Hyperledger meetup organizer
  877 369 0926 (Toll Free) Meeting ID: 4336690939 International numbers avai
  lable: https://zoom.us/u/bAaJoyznp
 DTEND:20200501T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200501T160000Z
 LOCATION:https://zoom.us/j/4336690939
 SEQUENCE:0
@@ -2630,7 +2630,7 @@ DESCRIPTION:A virtual meetup hosted by the Hyperledger Africa community on
  he event are at:\n\nhttps://wiki.hyperledger.org/pages/viewpage.action?pag
  eId=31199317
 DTEND:20200611T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200611T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2652,10 +2652,10 @@ DESCRIPTION:Meeting agendas can be found at: https://wiki.hyperledger.org/d
  .us/u/bAaJoyznp ( https://www.google.com/url?q=https://zoom.us/u/bAaJoyznp
  &sa=D&ust=1575934785645000&usg=AOvVaw0BiTWrjxxWd_w8P3qXBwzl )
 DTEND;TZID=America/Los_Angeles:20200813T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200813T090000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Telecom SIG] Telecom SIG main meeting
 TRANSP:OPAQUE
@@ -2672,7 +2672,7 @@ DESCRIPTION:A virtual meetup that all are welcome to attend.\n\nFor the Zoo
   369 0926 (Toll Free) Meeting ID: 5184947650 International numbers availab
  le: https://zoom.us/u/bAaJoyznp
 DTEND:20200405T073000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200405T063000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -2689,7 +2689,7 @@ DESCRIPTION:Hyperledger Korea User Group( https://www.facebook.com/groups/h
  .com/hlkug/meetup/tree/master/201910\n\n* 사전 질문 또는 밋업 제안\n- https://app.sl
  i.do/event/y2qgqpay
 DTEND:20200820T113000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200820T100000Z
 LOCATION:https://www.meetup.com/Hyperledger-Korea/events/272550536/
 SEQUENCE:0
@@ -2700,7 +2700,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bi-weekly Architecture WG meeting
 DTEND;TZID=America/Los_Angeles:20200826T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200826T090000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
@@ -2723,7 +2723,7 @@ DESCRIPTION:The Aries Framework JavaScript (Aries JS) team meets weekly on
  to your calendar\, you should confirm that the appointment repetition is c
  orrect.)
 DTEND;TZID=Asia/Kolkata:20200821T170000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Kolkata:20200821T160000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -2742,7 +2742,7 @@ DESCRIPTION:Join from PC/Phone:\n\n* US/EU/India: https://zoom.us/my/hyperl
  nda: https://wiki.hyperledger.org/display/cello/Weekly+Meeting\nProject re
  po: https://github.com/hyperledger/cello
 DTEND:20200822T030000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200822T020000Z
 LOCATION:https://zoom.us/my/hyperledger.community http://zoomus.cn/webclien
  t/4034983298/join
@@ -2768,7 +2768,7 @@ DESCRIPTION:Contact: Vipin Bharathan vip@dlt.nyc\n\nTopic: Hyperledger Capi
  opy to my calendar"\, click on that link and it will open a separate windo
  w or download the invite.
 DTEND;TZID=America/New_York:20200812T110000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200812T100000
 EXDATE;TZID=America/New_York:20200826T100000
 LOCATION:https://zoom.us/my/hyperledger.community.backup (https://zoom.us/j
@@ -2784,10 +2784,10 @@ DESCRIPTION:Contact: Mark Wagner (mwagner at redhat.com)\n\nTopic: Hyperled
  ger Performance and Scalability Working Group\n\nhttps://zoom.us/my/hyperl
  edger.community
 DTEND;TZID=America/New_York:20200908T100000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200908T090000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
 SEQUENCE:0
 SUMMARY:[Hyperledger Performance and Scale WG] Performance and Scalability 
  Working Group
@@ -2807,7 +2807,7 @@ DESCRIPTION:opic: Hyperledger Avalon Developers Forum\n\nContact: Harsha @
  rom 27th Aug 2020\, Time:\n\nPST 08:00 am\n\nEST 11:00 am\n\nIST 08:30 pm\
  n\nChina 11:00 pm\n\nCET 05:00 pm
 DTEND;TZID=America/Los_Angeles:20200827T090000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200827T080000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
@@ -2822,7 +2822,7 @@ DESCRIPTION:A session of the Hyperledger Sweden Study Circle featuring Nath
  Raft Ordering Service. All are welcome.\n\nMore about the event is at: htt
  ps://www.meetup.com/Hyperledger-Sweden/events/trnrvrybclbmc/
 DTEND:20200829T143000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200829T130000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2837,11 +2837,11 @@ DESCRIPTION:A virtual event hosted by the Hyperledger India Chapter focused
  n a group setting.  All are welcome.\n\nMore details are at:\n\nhttps://ww
  w.meetup.com/Hyperledger-Kerala/
 DTEND;TZID=America/Los_Angeles:20200711T030000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200711T013000
 EXDATE;TZID=America/Los_Angeles:20200829T013000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20200901T065959Z
+RRULE:FREQ=WEEKLY;UNTIL=20200901T065959Z;BYDAY=SA
 SEQUENCE:0
 SUMMARY:[Hyperledger Meetups] Hyperledger India Chapter hosts "Asia Pacific
   Online Certification Study Circle"
@@ -2854,7 +2854,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Boston featuring Ken Elb
  entity applications.\n\nMore about the event is at: https://www.meetup.com
  /Hyperledger-Boston/events/272802570/
 DTEND:20200909T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200909T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -2872,7 +2872,7 @@ DESCRIPTION:El próximo *miércoles 01 de Julio 2020 18:00 GMT-4\,* te invita
  n*LINK DE REGISTRO:*\n-------------------\n\nhttps://us02web.zoom.us/webin
  ar/register/WN_QsdCLPMcQ1el3iuvtBNWrg
 DTEND:20200701T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200701T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_QsdCLPMcQ1el3iuvtBNWrg
 SEQUENCE:0
@@ -2888,7 +2888,7 @@ DESCRIPTION:*C ambiando paradigmas y transformando la banca a través de blo
  elerar la adopción\, tener apertura completa hacia nuevos participantes de
  l ecosistema y promover la inclusión.
 DTEND:20200722T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200722T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_UpaujjTBSaayMIJ9F28OLg
 SEQUENCE:0
@@ -2899,7 +2899,7 @@ UID:1346696i-1kKU.1593989580376470838.lgId@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20201007T150000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20201007T140000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Webinars] Hyperledger Webinar Series
@@ -2917,7 +2917,7 @@ DESCRIPTION:This webinar showcases Umbra\, an emulation tool for Hyperledge
   internship projects 2020\, the webinar will explain how Umbra can realize
   network fuzzing features and scale to multiple servers.
 DTEND;VALUE=DATE:20201001
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200930
 LOCATION:Register in advance https://bit.ly/HyperledgerUmbra
 SEQUENCE:0
@@ -2928,7 +2928,7 @@ UID:1346696i-7xWW.1595002280866147870.JrwY@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20200618T000000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200617T220000Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Community Latinoamerica Chapter] Lanzamiento capitulo 
@@ -2947,7 +2947,7 @@ DESCRIPTION:Únete al evento en el que revisaremos los casos de uso de Hyper
   de aprobación y notificación.\n\n• Presentador: Erick Poppe Yañez - Profe
  sional de Investigación en Gestión de Datos e Información
 DTEND:20200819T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200819T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_cPEK7YWiTs-NBGq_RhvHLg
 SEQUENCE:0
@@ -2962,10 +2962,10 @@ DESCRIPTION:Reunión de seguimiento capítulo Hyperldeger Latinoamérica\n\nEn
  a planeación de los siguientes eventos\n\nLa reunión es abierta y todo los
   interesados pueden asistir para sumarse a al capítulo Latinoamericano
 DTEND;TZID=America/Bogota:20200818T193000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Bogota:20200818T183000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Community Latinoamerica Chapter] Reunión de seguimient
  o capítulo Hyperldeger Latinoamérica
@@ -2974,11 +2974,11 @@ UID:1346696i-GIsv.1591923966998838550.IdI5@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Bogota:20200822T120000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Bogota:20200822T100000
 LOCATION:https://us02web.zoom.us/j/83944607895?pwd=RCtoZjZhaDhhK1hhUVROTWM2
  bUFqUT09
-RRULE:FREQ=WEEKLY;UNTIL=20200920T065959Z;BYDAY=SA
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20200920T065959Z
 SEQUENCE:0
 SUMMARY:[Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger 
  Fabric para desarrolladores
@@ -2991,7 +2991,7 @@ DESCRIPTION:Transformando el Agro con Foodchain\n\nPlataforma de Comerciali
  a y Europa.\n\n• Presentadores: David Proenza- CEO y Fabian Chiera- CTO Fo
  odchain
 DTEND:20200805T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200805T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_ZteR3Ag1QraewT23GBuR9Q
 SEQUENCE:0
@@ -3008,13 +3008,13 @@ DESCRIPTION:Join us for a monthly webinar series! Hear from our members\, p
  n\nAfter registering\, you will receive a confirmation email containing in
  formation about joining the webinar.
 DTEND;TZID=Europe/London:20200520T160000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200520T150000
 EXDATE;TZID=Europe/London:20200729T150000
 EXDATE;TZID=Europe/London:20200826T150000
 LOCATION:Register in advance for this webinar: https://zoom.us/webinar/regi
  ster/WN_1hGQB116T4a6jYHk3vK5DA
-RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2;UNTIL=20200909T215959Z
+RRULE:FREQ=WEEKLY;UNTIL=20200909T215959Z;BYDAY=WE;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Webinars] Hyperledger Webinar Series
 TRANSP:OPAQUE
@@ -3037,7 +3037,7 @@ DESCRIPTION:Delivering the Tel Aviv Stock Exchange Securities Lending Platf
   work pioneering the use of Java enterprise technologies in Financial Serv
  ices he was nominated for a Computerworld Smithsonian Award.
 DTEND:20200520T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200520T150000Z
 LOCATION:Register in advance for this webinar: https://zoom.us/webinar/regi
  ster/WN_1hGQB116T4a6jYHk3vK5DA
@@ -3063,7 +3063,7 @@ DESCRIPTION:Hear from Chainyard on " Supplier Digital Passport using Trust
  you will receive a confirmation email containing information about joining
   the webinar.
 DTEND:20200603T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200603T150000Z
 LOCATION:Register in advance for this webinar: https://zoom.us/webinar/regi
  ster/WN_1hGQB116T4a6jYHk3vK5DA
@@ -3091,7 +3091,7 @@ DESCRIPTION:Hear from Matt Milligan at Milligan Partners on Blockchain as E
  6CCTlWQCgVsw1j_sw\n\nAfter registering\, you will receive a confirmation e
  mail containing information about joining the webinar.
 DTEND:20200617T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200617T150000Z
 LOCATION:Register in advance for this webinar: https://zoom.us/webinar/regi
  ster/WN_Eh_XJ6CCTlWQCgVsw1j_sw
@@ -3123,7 +3123,7 @@ DESCRIPTION:Ben Taylor from LedgerDomain will introduce the topic of Blockc
  r registering\, you will receive a confirmation email containing informati
  on about joining the webinar.
 DTEND:20200701T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200701T150000Z
 LOCATION:Register in advance for this webinar: Registration URL https://zoo
  m.us/webinar/register/WN_d_O5Zp74Sb65oMSEnJZatw
@@ -3147,7 +3147,7 @@ DESCRIPTION:Hyperledger Fabric provides some of the most widely used tools
  r\, FIS Worldpay\, Google\, IBM\, Magazineluiza\, Nomura\, Swirlds\, Swiss
  com Blockchain\, Tata Communications\, and Wipro.
 DTEND:20200715T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200715T150000Z
 LOCATION:Register in advance for this webinar: https://bit.ly/HaderaWebinar
 RECURRENCE-ID;TZID=Europe/London:20200715T150000
@@ -3170,7 +3170,7 @@ DESCRIPTION:El próximo *miércoles 08 de Julio 2020 18:00 GMT-4* \, únete al
  ain.\n\n*LINK DE REGISTRO:*\n-------------------\n\nhttps://us02web.zoom.u
  s/webinar/register/WN_K1F_eJfVS8ONsvfmxX_-OA
 DTEND:20200708T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200708T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_K1F_eJfVS8ONsvfmxX_-OA
 SEQUENCE:0
@@ -3187,7 +3187,7 @@ DESCRIPTION:Abrimos este espacio de interacción con la audiencia para defin
  ozcamos el aprendizaje\, la capacitación y la aplicación de Blockchain en 
  este amplio territorio común
 DTEND:20200729T230000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200729T220000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_xSGQFRfITLaFWkg8ZG2GOA
 SEQUENCE:0
@@ -3202,7 +3202,7 @@ DESCRIPTION:Join us for a monthly webinar series! Hear from our members\, p
  Stay tuned for more information on the lineup!\n\nRegistration details wil
  l be announced soon.
 DTEND;TZID=Europe/London:20200617T160000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200617T150000
 LOCATION:Register in advance - link will follow
 RRULE:FREQ=MONTHLY;BYDAY=3WE
@@ -3228,7 +3228,7 @@ DESCRIPTION:You are invited to a Zoom webinar.\n\nTopic: Hyperledger Webina
  ve Partners\, KBC Securities\, and Cashforce\, with a particular focus on 
  research and technology.
 DTEND:20200415T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200415T150000Z
 LOCATION:https://zoom.us/j/253529357
 RECURRENCE-ID;TZID=Europe/London:20200415T150000
@@ -3253,7 +3253,7 @@ DESCRIPTION:Hear from Ricardo Garcia at ScanTrust on Topic End-to-end Pork
  QB116T4a6jYHk3vK5DA\n\nAfter registering\, you will receive a confirmation
   email containing information about joining the webinar.
 DTEND:20200506T150000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200506T140000Z
 LOCATION:Register in advance at https://zoom.us/webinar/register/WN_1hGQB11
  6T4a6jYHk3vK5DA
@@ -3281,7 +3281,7 @@ DESCRIPTION:Join us for a monthly webinar series! This time Hyperledger Mem
  \, Swisscom Blockchain\, Tata Communications\, and Wipro.\n\nPlease regist
  er in advance: https://tinyurl.com/y7aax28r
 DTEND:20200819T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200819T150000Z
 LOCATION:Register in advance - https://tinyurl.com/y7aax28r
 RECURRENCE-ID;TZID=Europe/London:20200819T150000
@@ -3292,7 +3292,7 @@ UID:1346696i-tXwv.1585584141714893442.L3i4@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20200916T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200916T150000Z
 LOCATION:Register in advance - https://bit.ly/CelloWebinar
 RECURRENCE-ID;TZID=Europe/London:20200916T150000
@@ -3325,7 +3325,7 @@ DESCRIPTION:Title of presentation: Unsolicited Commercial Communication (UC
  d caller ID spoofing are key pain areas that can be addressed by our solut
  ion.
 DTEND:20201021T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20201021T150000Z
 LOCATION:Register in advance - https://bit.ly/TechMachindraWebinar
 RECURRENCE-ID;TZID=Europe/London:20201021T150000
@@ -3342,7 +3342,7 @@ DESCRIPTION:Join us for a monthly webinar series! Hear from our members\, p
  n\nAfter registering\, you will receive a confirmation email containing in
  formation about joining the webinar.
 DTEND;TZID=Europe/London:20200805T160000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200805T150000
 LOCATION:Register in advance for this webinar: https://zoom.us/webinar/regi
  ster/WN_1hGQB116T4a6jYHk3vK5DA
@@ -3360,7 +3360,7 @@ DESCRIPTION:The Latest with Hyperledger Besu with Grace Hartley and PegaSys
  ou will receive a confirmation email containing information about joining 
  the webinar.
 DTEND:20200805T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200805T150000Z
 LOCATION:Register in advance for this webinar: https://tinyurl.com/yar7pcd2
 RECURRENCE-ID;TZID=Europe/London:20200805T150000
@@ -3377,7 +3377,7 @@ DESCRIPTION:Join us for a monthly webinar series!\nThis time you will hear
  nar:\nhttps://tinyurl.com/y7u4832a\n\nAfter registering\, you will receive
   a confirmation email containing information about joining the webinar.
 DTEND:20200902T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200902T150000Z
 LOCATION:Register in advance for this webinar: https://tinyurl.com/y7u4832a
 RECURRENCE-ID;TZID=Europe/London:20200902T150000
@@ -3397,7 +3397,7 @@ DESCRIPTION:This presentation will show how supplier assessment and onboard
  ansport data and their customers can easily validate and trust the authent
  icity of it.
 DTEND:20201014T150000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20201014T140000Z
 LOCATION:Register in advance for this webinar
 RECURRENCE-ID;TZID=Europe/London:20201007T150000
@@ -3409,11 +3409,11 @@ UID:1346696i-uZhE.1588008425894183709.q8Av@lists.hyperledger.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Bogota:20200820T200000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Bogota:20200820T180000
 LOCATION:https://us02web.zoom.us/j/83944607895?pwd=RCtoZjZhaDhhK1hhUVROTWM2
  bUFqUT09
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20200925T065959Z
+RRULE:FREQ=WEEKLY;UNTIL=20200925T065959Z;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger 
  Fabric para desarrolladores
@@ -3433,10 +3433,10 @@ DESCRIPTION:Review & organization of roadmap and sprint activities\nhttps:/
  u/bAaJoyznp ( https://www.google.com/url?q=https%3A%2F%2Fzoom.us%2Fu%2FbAa
  Joyznp&sa=D&ust=1551316581747000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2Esg )
 DTEND;TZID=America/Chicago:20200831T080000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200831T070000
 LOCATION:https://zoom.us/my/hyperledger.community.3
-RRULE:FREQ=WEEKLY;BYDAY=MO;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO
 SEQUENCE:0
 SUMMARY:[Hyperledger Labs] Blockchain Automation Framework Contributors #bl
  ockchain-automation-framework
@@ -3460,7 +3460,7 @@ DESCRIPTION:BAF contributors will demonstrate progress from recently comple
  2FbAaJoyznp&sa=D&ust=1551316581747000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2E
  sg )
 DTEND;TZID=America/Chicago:20200827T113000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200827T103000
 RRULE:FREQ=WEEKLY;INTERVAL=6;BYDAY=TH
 SEQUENCE:0
@@ -3486,7 +3486,7 @@ DESCRIPTION:BAF contributors will demonstrate progress from recently comple
  2FbAaJoyznp&sa=D&ust=1551316581747000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2E
  sg )
 DTEND:20200611T160000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200611T150000Z
 RECURRENCE-ID;TZID=America/Chicago:20200604T103000
 SEQUENCE:0
@@ -3512,7 +3512,7 @@ DESCRIPTION:BAF contributors will demonstrate progress from recently comple
  2FbAaJoyznp&sa=D&ust=1551316581747000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2E
  sg )
 DTEND:20200903T163000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200903T153000Z
 RECURRENCE-ID;TZID=America/Chicago:20200827T103000
 SEQUENCE:0
@@ -3534,7 +3534,7 @@ DESCRIPTION:Review & organization of roadmap and sprint activities\nhttps:/
  u/bAaJoyznp ( https://www.google.com/url?q=https%3A%2F%2Fzoom.us%2Fu%2FbAa
  Joyznp&sa=D&ust=1551316581747000&usg=AFQjCNE9hC6OqcDkOKStcjC1E2KuEW2Esg )
 DTEND;TZID=America/Chicago:20200817T093000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200817T083000
 LOCATION:https://zoom.us/my/hyperledger.community.3
 RRULE:FREQ=WEEKLY;UNTIL=20200819T065959Z;BYDAY=MO;INTERVAL=2
@@ -3561,7 +3561,7 @@ DESCRIPTION:Únete al evento en el que revisaremos los casos de uso de Hyper
  fijas y otros productos en los próximos meses\n\n• Presentadores:\nCecilia
   Jimenez García\nAngel García Pujalte
 DTEND:20200902T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200902T163000Z
 LOCATION:https://us02web.zoom.us/webinar/register/WN_rccGdLjrQBagG7rXdaW__g
 SEQUENCE:0
@@ -3582,7 +3582,7 @@ DESCRIPTION:Contact: Vipin Bharathan\nTopic: Hyperledger Identity WG\n\nJoi
  n(If you copy the meeting to your calendar\, you should confirm that the a
  ppointment repetition is correct.)
 DTEND;TZID=America/New_York:20200805T130000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200805T120000
 EXDATE;TZID=America/New_York:20200902T120000
 LOCATION:https://zoom.us/my/hyperledger.community
@@ -3599,7 +3599,7 @@ DESCRIPTION:A peer programming session for people interested in collaborati
  iki.hyperledger.org/display/CASIG/Carbon+Accounting+and+Certification+Work
  ing+Group
 DTEND:20200914T173000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200914T160000Z
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 SEQUENCE:0
@@ -3619,7 +3619,7 @@ DESCRIPTION:Contact: Marco Carvalho\n\nhttps://zoom.us/my/hyperledger.commu
  26 US Toll-free\nMeeting ID: 518 494 7650\nFind your local number: https:/
  /zoom.us/u/ac5Ucp2nJy
 DTEND;TZID=America/New_York:20200820T130000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200820T120000
 EXDATE;TZID=America/New_York:20200903T120000
 LOCATION:https://zoom.us/my/hyperledger.community.3
@@ -3636,7 +3636,7 @@ DESCRIPTION:Tomisin from SecureKey will present 'The Future of Digital Iden
  y improve user experience.  More about the event is at:\n\nhttps://www.mee
  tup.com/Hyperledger-Toronto/events/272860707/
 DTEND:20200925T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200925T220000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -3651,7 +3651,7 @@ DESCRIPTION:• Welcome\, Introductions\, and General Updates (5 min)\n• Perf
   Xilinx)\n• Discussion and Debate (20-30 min)\n\nMore about the event is a
  t: https://www.meetup.com/Hyperledger-SF/events/267518835/
 DTEND:20200914T183000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200914T170000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -3675,7 +3675,7 @@ DESCRIPTION:Business Track\n\n1. Blockchain for Business (September 18th 5:
   powered Use Case & MVP Presentation ( October 9th 5:30 PM IST/8:00 AM EDT
  )
 DTEND:20200918T133000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200918T120000Z
 LOCATION:https://www.meetup.com/Hyperledger-Pune/events/272975275/
 SEQUENCE:0
@@ -3693,7 +3693,7 @@ DESCRIPTION:As a follow up to our last meetup where we did the initial mode
  ore development can start.\n\nMore about the event is at: https://www.meet
  up.com/Hyperledger-Nairobi/events/272965146/
 DTEND:20200912T140000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200912T120000Z
 LOCATION:https://zoom.us/my/hyperledger.community.3
 SEQUENCE:0
@@ -3712,10 +3712,10 @@ DESCRIPTION:https://zoom.us/my/hyperledger.community\n\n- helping the world
  hear from the developers on new features\, or work in progress\n- see samp
  les/demos in action
 DTEND;TZID=Europe/London:20200917T170000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200917T160000
 LOCATION:https://zoom.us/my/hyperledger.community
-RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
 SEQUENCE:0
 SUMMARY:[Hyperledger Fabric] Hyperledger Fabric Application Developer Commu
  nity Call
@@ -3727,7 +3727,7 @@ DESCRIPTION:https://zoom.us/my/hyperledger.community.backup\nDocumentation
  workgroup call.\nAgenda\, minutes and recordings :https://wiki.hyperledger
  .org/display/fabric/Documentation+Working+Group
 DTEND;TZID=Europe/London:20200807T170000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200807T160000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -3741,7 +3741,7 @@ BEGIN:VEVENT
 DESCRIPTION:Fortnightly open forum for Cactus Contributors at Western Hemis
  phere friendly time.
 DTEND;TZID=America/Chicago:20200625T113000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Chicago:20200625T103000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
@@ -3755,7 +3755,7 @@ DESCRIPTION:https://zoom.us/my/hyperledger.community.backup\nDocumentation
  workgroup call.\nAgenda\, minutes and recordings: https://wiki.hyperledger
  .org/display/fabric/Documentation+Working+Group
 DTEND;TZID=Europe/London:20200807T070000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Europe/London:20200807T060000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -3771,7 +3771,7 @@ DESCRIPTION:https://zoom.us/my/hyperledger.community.backup\nProject: https
  g/display/fabric/Hyperledger+Fabric+SDK+Py ( https://wiki.hyperledger.org/
  display/fabric/Hyperledger+Fabric+SDK+Py?src=contextnavpagetreemode )
 DTEND;TZID=America/Los_Angeles:20200806T220000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/Los_Angeles:20200806T210000
 LOCATION:https://zoom.us/my/hyperledger.community.backup
 RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=2
@@ -3785,7 +3785,7 @@ DESCRIPTION:This is an invite for the Hyperledger Sawtooth Contributors Con
  nect series (scheduled once every four-week).\nJoin using the zoom https:/
  /us02web.zoom.us/j/89262216179
 DTEND;TZID=Asia/Kolkata:20200904T223000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Kolkata:20200904T203000
 LOCATION:https://us02web.zoom.us/j/89262216179
 RRULE:FREQ=WEEKLY;INTERVAL=4;BYDAY=FR
@@ -3807,7 +3807,7 @@ DESCRIPTION:Contact Bobbi Muscara\, Ledger Academy\n\nTopic: Hyperledger Le
  licy ( https://docs.google.com/presentation/d/1KGMALektapBdfUPcPR0jBhoKrzm
  ToNE28n-Xs-1zMY0/edit?usp=sharing ).
 DTEND;TZID=America/New_York:20200824T140000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=America/New_York:20200824T130000
 EXDATE;TZID=America/New_York:20200907T130000
 LOCATION:https://zoom.us/my/hyperledger.community﻿
@@ -3822,7 +3822,7 @@ BEGIN:VEVENT
 DESCRIPTION:A conversation with meetup organizers in French speaking countr
  ies about possible collaboration.
 DTEND;VALUE=DATE:20200916
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;VALUE=DATE:20200915
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -3840,7 +3840,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Eugene.  In our first Zo
  about the event is at: https://www.meetup.com/Hyperledger-Eugene/events/27
  3116884/
 DTEND:20200925T023000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200925T010000Z
 LOCATION:https://zoom.us/my/hyperledger.community
 SEQUENCE:0
@@ -3865,7 +3865,7 @@ DESCRIPTION:Hyperledger India Chapter hosts a developer forum to get expert
  www.google.com/url?q=https://zoom.us/u/bAaJoyznp&sa=D&ust=1575934785645000
  &usg=AOvVaw0BiTWrjxxWd_w8P3qXBwzl )
 DTEND;TZID=Asia/Kolkata:20200917T160000
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART;TZID=Asia/Kolkata:20200917T150000
 LOCATION:https://zoom.us/my/hyperledger.community
 RRULE:FREQ=WEEKLY;BYDAY=TH
@@ -3881,7 +3881,7 @@ DESCRIPTION:A virtual meetup hosted by Hyperledger Austin featuring Gerard
  bout the event is at: https://www.meetup.com/Hyperledger-Austin/events/267
  193570/
 DTEND:20200916T233000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200916T220000Z
 LOCATION:https://www.meetup.com/Hyperledger-Austin/events/267193570/
 SEQUENCE:0
@@ -3908,7 +3908,7 @@ DESCRIPTION:*¿A quién va dirigido?*\n\n* Desarrolladores senior\, arquitect
  .\n* Conocimientos de la consola de comandos de linux (Indispensable)\n* C
  onexión de red con acceso a Internet\n* IDE de desarrollo  VScode
 DTEND:20200821T010000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200820T230000Z
 LOCATION:https://wiki.hyperledger.org/display/CP/Curso++Hyperledger+Fabric
 SEQUENCE:0
@@ -3925,10 +3925,10 @@ DESCRIPTION:Join from PC\, Mac\, Linux\, iOS or Android: https://zoom.us/s/
  +1 646 876 9923 or +1 669 900 6833 \n    Meeting ID: 377 506 344\n    Inte
  rnational numbers available: https://zoom.us/u/cbrUAzE3W
 DTEND:20200916T170000Z
-DTSTAMP:20200911T232802Z
+DTSTAMP:20200912T072802Z
 DTSTART:20200916T160000Z
 LOCATION:https://zoom.us/s/377506344
-RRULE:FREQ=WEEKLY;BYDAY=WE;INTERVAL=2;UNTIL=20201002T065959Z
+RRULE:FREQ=WEEKLY;UNTIL=20201002T065959Z;BYDAY=WE;INTERVAL=2
 SEQUENCE:0
 SUMMARY:[Hyperledger Quilt] Interledger Community Call
 TRANSP:OPAQUE

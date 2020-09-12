@@ -1,4 +1,3 @@
-2020-09-12 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-09-12 10:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-12 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Nairobi hosts Hyperledger Africa Blockchain Modelling Session:: Part II
 2020-09-14 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
