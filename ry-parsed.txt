@@ -1,6 +1,4 @@
-2020-09-14 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-15 00:00:00+00:00 - [Hyperledger Meetups] Discussion with meetup organizers in French speaking countries
-2020-09-15 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-09-15 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-15 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-09-15 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
@@ -74,6 +72,7 @@
 2020-09-28 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-09-28 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-09-28 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-09-28 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-09-28 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-29 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
@@ -147,6 +146,7 @@
 2020-10-12 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-10-12 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-10-12 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-10-12 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-10-12 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-10-13 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-10-13 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -212,6 +212,7 @@
 2020-10-26 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-10-26 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-10-26 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-10-26 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-10-26 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-10-27 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-10-27 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
@@ -275,6 +276,7 @@
 2020-11-09 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-11-09 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-11-09 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-11-09 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-11-09 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-10 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-11-10 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -339,6 +341,7 @@
 2020-11-23 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-11-23 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-11-23 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-11-23 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-11-23 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-11-24 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-11-24 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
@@ -403,6 +406,7 @@
 2020-12-07 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-12-07 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-12-07 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2020-12-07 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-12-07 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-12-08 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
 2020-12-08 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
@@ -441,3 +445,5 @@
 2020-12-15 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-12-15 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-12-15 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
+2020-12-16 00:00:00+00:00 - [Hyperledger SIG Chairs] Biannual SIG reports are due on the 15th
+2020-12-16 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
