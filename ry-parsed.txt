@@ -1,11 +1,3 @@
-2020-09-16 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
-2020-09-16 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
-2020-09-16 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
-2020-09-16 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-16 15:00:00+00:00 - [Hyperledger Webinars] Hyperledger Project Webinar: HYPERLEDGER CELLO - Introduction to Fabric Kubernetes Operator
-2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
 2020-09-16 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Austin hosts: The Impact of Cryptocurrency Adoption on Government
 2020-09-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-17 06:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer Contributors Meeting
@@ -454,4 +446,5 @@
 2020-12-17 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-12-17 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-12-17 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
+2020-12-17 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-12-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
