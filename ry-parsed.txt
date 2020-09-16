@@ -1,12 +1,8 @@
-2020-09-16 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
-2020-09-16 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
 2020-09-16 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
 2020-09-16 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
 2020-09-16 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
 2020-09-16 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-16 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-16 15:00:00+00:00 - [Hyperledger Webinars] Hyperledger Project Webinar: HYPERLEDGER CELLO - Introduction to Fabric Kubernetes Operator
-2020-09-16 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-16 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-09-16 16:00:00+00:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
@@ -454,3 +450,8 @@
 2020-12-16 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-16 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-12-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-12-17 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
+2020-12-17 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
+2020-12-17 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
+2020-12-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
