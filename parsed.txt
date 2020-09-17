@@ -1,12 +1,9 @@
-2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
-2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-09-17 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-09-17 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-09-17 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
-2020-09-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
-2020-09-17 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-09-17 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
+2020-09-17 20:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer Contributors Meeting
 2020-09-17 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-09-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-18 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
@@ -453,3 +450,6 @@
 2020-12-17 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-12-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2020-12-18 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
+2020-12-18 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
+2020-12-18 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
