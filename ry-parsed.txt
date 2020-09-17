@@ -1,6 +1,3 @@
-2020-09-16 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Austin hosts: The Impact of Cryptocurrency Adoption on Government
-2020-09-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
-2020-09-17 06:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer Contributors Meeting
 2020-09-17 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-09-17 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-09-17 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
@@ -448,3 +445,4 @@
 2020-12-17 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-12-17 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-12-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-12-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
