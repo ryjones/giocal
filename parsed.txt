@@ -12,6 +12,8 @@
 2020-09-23 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-23 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-09-23 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2020-09-23 22:00:00+00:00 - [Hyperledger Community Latinoamerica Chapter] Blockchain y Legaltech
+2020-09-23 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts Blockchain y Legaltech
 2020-09-24 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-24 00:00:00+00:00 - [Hyperledger Caliper] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-09-24 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
@@ -24,7 +26,9 @@
 2020-09-24 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-25 01:00:00+00:00 - [Hyperledger Meetups] Hyperledger Eugene hosts: Hyperledger Fabric, Java and Performance
 2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2020-09-25 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Pune hosts Blockchain Hype to Production Networks : Global perspective -Local experience
 2020-09-25 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
+2020-09-25 14:00:00+00:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-09-25 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
 2020-09-25 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-09-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
@@ -447,3 +451,10 @@
 2020-12-21 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-12-21 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-12-21 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
+2020-12-22 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2020-12-22 08:30:00+01:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
+2020-12-22 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
+2020-12-22 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
+2020-12-22 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
+2020-12-22 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
+2020-12-22 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG webinar
