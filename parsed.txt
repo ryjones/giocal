@@ -1,10 +1,8 @@
-2020-09-21 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-09-21 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-22 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2020-09-22 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-22 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-09-22 10:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
-2020-09-22 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Can The Public Sector Benefit From Blockchain?
 2020-09-23 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-09-23 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2020-09-23 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
@@ -73,6 +71,7 @@
 2020-10-02 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-10-02 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-10-02 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
+2020-10-02 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Can The Public Sector Benefit From Blockchain?
 2020-10-02 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-10-03 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-10-04 00:00:00+00:00 - [Hyperledger Election] TSC Election Voting via Condorcet
