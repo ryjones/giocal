@@ -449,4 +449,9 @@
 2020-12-22 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperldeger Latinoamérica
 2020-12-23 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
 2020-12-23 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2020-12-23 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
+2020-12-23 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
+2020-12-23 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
+2020-12-23 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-12-23 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2020-12-23 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
