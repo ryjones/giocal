@@ -1,9 +1,5 @@
-2020-09-23 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-09-23 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-09-23 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-09-23 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-23 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
-2020-09-23 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-09-23 22:00:00+00:00 - [Hyperledger Community Latinoamerica Chapter] Blockchain y Legaltech
 2020-09-23 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Latinoamerica hosts Blockchain y Legaltech
 2020-09-24 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -26,6 +22,7 @@
 2020-09-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-09-25 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Toronto hosts: The Future of Digital Identities : Hyperledger Aries
 2020-09-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-09-26 10:00:00+00:00 - [Hyperledger Meetups] Blockchain كيفية تحديد الحاجة إلى شبكة البلوك شين
 2020-09-28 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-28 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-09-28 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
@@ -462,3 +459,6 @@
 2020-12-23 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
 2020-12-24 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-12-24 00:00:00+00:00 - [Hyperledger Caliper] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-24 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
+2020-12-24 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2020-12-24 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
