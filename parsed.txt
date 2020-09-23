@@ -1,6 +1,5 @@
 2020-09-23 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-09-23 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-09-23 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-09-23 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-09-23 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-09-23 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
@@ -461,3 +460,5 @@
 2020-12-23 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-12-23 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-23 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
+2020-12-24 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
+2020-12-24 00:00:00+00:00 - [Hyperledger Caliper] Hyperledger Project Quarterly Update Due #tsc-project-update
