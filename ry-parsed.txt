@@ -1,10 +1,4 @@
-2020-09-24 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
-2020-09-24 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-09-24 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-09-24 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
-2020-09-24 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
 2020-09-24 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2020-09-24 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-09-24 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-25 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Pune hosts Blockchain Hype to Production Networks : Global perspective -Local experience
@@ -455,3 +449,7 @@
 2020-12-24 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-12-24 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-12-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2020-12-25 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2020-12-25 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
+2020-12-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
+2020-12-25 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
