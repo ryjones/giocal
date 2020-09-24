@@ -1,5 +1,3 @@
-2020-09-24 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2020-09-24 18:00:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Curso de Hyperledger Fabric para desarrolladores
 2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-25 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Pune hosts Blockchain Hype to Production Networks : Global perspective -Local experience
 2020-09-25 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
