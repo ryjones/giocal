@@ -1,4 +1,3 @@
-2020-09-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-09-25 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Pune hosts Blockchain Hype to Production Networks : Global perspective -Local experience
 2020-09-25 13:00:00-04:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-09-25 14:00:00+00:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
@@ -125,6 +124,7 @@
 2020-10-17 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-10-19 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-10-19 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
+2020-10-19 22:00:00+00:00 - [Hyperledger Community Latinoamerica Chapter] Casos de Uso Empresariales con Hyperledger: IBM
 2020-10-20 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2020-10-20 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-10-20 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
@@ -445,3 +445,4 @@
 2020-12-25 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-12-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting (Weekly)
 2020-12-25 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
+2020-12-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
