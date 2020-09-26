@@ -1,6 +1,3 @@
-2020-09-25 22:00:00+00:00 - [Hyperledger Meetups] Hyperledger Toronto hosts: The Future of Digital Identities : Hyperledger Aries
-2020-09-26 01:00:00+00:00 - [Hyperledger Meetups] Hyperledger Eugene hosts: Hyperledger Fabric, Java and Performance
-2020-09-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-09-26 10:00:00+00:00 - [Hyperledger Meetups] Blockchain كيفية تحديد الحاجة إلى شبكة البلوك شين
 2020-09-28 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-28 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
