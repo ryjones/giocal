@@ -1,4 +1,3 @@
-2020-09-26 10:00:00+00:00 - [Hyperledger Meetups] Blockchain كيفية تحديد الحاجة إلى شبكة البلوك شين
 2020-09-28 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
 2020-09-28 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-09-28 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
