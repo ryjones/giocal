@@ -429,3 +429,4 @@
 2020-12-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-12-25 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-12-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-12-28 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
