@@ -1,11 +1,8 @@
-2020-09-28 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
-2020-09-28 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
-2020-09-28 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-09-28 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-09-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-09-29 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-09-29 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
+2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
 2020-09-29 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-09-29 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-09-30 00:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Hyperledger Umbra
@@ -69,10 +66,11 @@
 2020-10-09 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-10-09 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-10-10 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2020-10-10 12:00:00+00:00 - [Hyperledger Meetups] Hyperledger Senegal hosts a meetup in French: ASK US anything about Blockchains
 2020-10-11 00:00:00+00:00 - [Hyperledger Election] New TSC Elects Chairperson
 2020-10-11 00:00:00+00:00 - [Hyperledger Election] Publish TSC Election Results
 2020-10-12 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-10-12 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-10-12 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-10-12 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-10-12 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-10-12 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -138,7 +136,7 @@
 2020-10-23 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-10-24 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-10-26 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-10-26 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-10-26 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-10-26 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-10-26 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-10-26 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -146,7 +144,7 @@
 2020-10-27 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-10-27 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-10-27 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-10-27 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
+2020-10-27 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
 2020-10-27 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-10-27 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-10-28 00:00:00+00:00 - [Hyperledger Indy] Hyperledger Project Quarterly Update Due #tsc-project-update
@@ -201,7 +199,7 @@
 2020-11-06 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-11-07 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-11-09 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-11-09 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-11-09 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-11-09 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-11-09 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-11-09 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -265,7 +263,7 @@
 2020-11-20 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-11-21 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-11-23 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-11-23 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-11-23 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-11-23 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-11-23 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-11-23 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -273,7 +271,7 @@
 2020-11-24 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-11-24 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-11-24 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
+2020-11-24 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
 2020-11-24 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-11-24 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-11-25 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -329,7 +327,7 @@
 2020-12-04 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-12-05 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-12-07 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-12-07 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-12-07 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-12-07 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-12-07 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-12-07 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -393,7 +391,7 @@
 2020-12-18 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-12-19 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-12-21 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-12-21 08:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2020-12-21 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
 2020-12-21 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-12-21 09:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
 2020-12-21 14:30:00-07:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
@@ -401,7 +399,7 @@
 2020-12-22 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-12-22 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
 2020-12-22 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-12-22 15:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call EMEA/AMER
+2020-12-22 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
 2020-12-22 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-12-22 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-12-23 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
