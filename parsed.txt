@@ -1,8 +1,3 @@
-2020-09-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-09-29 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-09-29 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-09-29 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
-2020-09-29 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-09-29 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-09-30 00:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Hyperledger Umbra
 2020-09-30 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -429,4 +424,9 @@
 2020-12-29 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2020-12-29 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2020-12-29 09:00:00-04:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
+2020-12-30 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
+2020-12-30 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-12-30 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
+2020-12-30 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
+2020-12-30 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
+2020-12-30 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
