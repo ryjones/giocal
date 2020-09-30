@@ -1,10 +1,4 @@
 2020-09-30 00:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Hyperledger Umbra
-2020-09-30 09:00:00-07:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
-2020-09-30 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
-2020-09-30 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
-2020-09-30 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
-2020-09-30 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
-2020-09-30 22:00:00+00:00 - [Hyperledger Community Latinoamerica Chapter] Blockchain en el Cambio Climático y el Mercado de Energía
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
 2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-01 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -432,4 +426,6 @@
 2020-12-31 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-12-31 08:00:00-07:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-12-31 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
+2020-12-31 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
+2020-12-31 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
 2020-12-31 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
