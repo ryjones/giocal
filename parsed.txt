@@ -1,4 +1,3 @@
-2020-09-30 00:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series - Hyperledger Umbra
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
 2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
 2020-10-01 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -429,3 +428,4 @@
 2020-12-31 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
 2020-12-31 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
 2020-12-31 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2021-01-01 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
