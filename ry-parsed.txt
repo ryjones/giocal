@@ -1,19 +1,15 @@
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
-2020-10-01 07:00:00-07:00 - [Hyperledger Election] TSC Meeting Election Announcement/Update
-2020-10-01 07:00:00-07:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-10-01 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-10-01 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-10-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
-2020-10-01 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
-2020-10-01 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Application Developer Community Call
 2020-10-01 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-10-02 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-10-02 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2020-10-02 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-10-02 12:30:00+00:00 - [Hyperledger Meetups] Hyperledger Pune hosts: Blockchain Hype to Production Networks : Technology Track
 2020-10-02 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-10-02 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-10-02 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Denver hosts: Can The Public Sector Benefit From Blockchain?
-2020-10-02 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-10-03 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-10-04 00:00:00+00:00 - [Hyperledger Election] TSC Election Voting via Condorcet
 2020-10-05 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
@@ -28,6 +24,7 @@
 2020-10-07 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2020-10-07 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-10-07 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
+2020-10-07 11:00:00+00:00 - [Hyperledger Explorer] Hyperledger Explorer maintainer meeting #zoom
 2020-10-07 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-10-07 14:00:00+00:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-10-07 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
@@ -148,9 +145,9 @@
 2020-10-29 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-10-30 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-10-30 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2020-10-30 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-10-30 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-10-30 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
-2020-10-30 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-10-31 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-11-02 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-11-02 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
@@ -275,9 +272,9 @@
 2020-11-26 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-11-27 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-11-27 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2020-11-27 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-11-27 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-11-27 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
-2020-11-27 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-11-28 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-11-30 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-11-30 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
@@ -404,9 +401,9 @@
 2020-12-24 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-12-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-12-25 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2020-12-25 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-12-25 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-12-25 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
-2020-12-25 20:30:00+05:30 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2020-12-26 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-12-28 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
 2020-12-28 21:00:00-05:00 - [Hyperledger Cactus] Cactus Maintainers
@@ -429,3 +426,6 @@
 2020-12-31 10:30:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Program Increment Demo #blockchain-automation-framework
 2020-12-31 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-01-01 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2021-01-01 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
+2021-01-01 16:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
+2021-01-01 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
