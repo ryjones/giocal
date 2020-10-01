@@ -1,7 +1,4 @@
 2020-10-01 00:00:00+00:00 - [Hyperledger Election] Announce TSC Election Candidates
-2020-10-01 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
-2020-10-01 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-10-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-10-01 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-10-02 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-10-02 08:00:00-06:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
