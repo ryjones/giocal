@@ -1,12 +1,5 @@
-2020-12-03 18:00:00+00:00 - [Hyperledger Meetups] Hyperledger Cactus: Un framework de integración para plataformas DLT
-2020-12-03 20:30:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
-2020-12-04 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
-2020-12-04 06:00:00-08:00 - [Hyperledger Meetups] Hyperledger Tech Study Circles
 2020-12-04 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
-2020-12-04 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2020-12-04 15:00:00+00:00 - [Hyperledger Meetups] Hyperledger Boston hosts: Rationale for CBDCs, design choices, challenges
-2020-12-04 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
-2020-12-04 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-12-05 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-12-05 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Seattle hosts: Comprehensive review of 21 use cases of Hyperledger
 2020-12-07 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
@@ -441,3 +434,4 @@
 2021-03-05 10:00:00-05:00 - [Hyperledger Grid] Grid Community Meeting
 2021-03-05 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2021-03-05 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
+2021-03-06 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
