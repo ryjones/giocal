@@ -1,7 +1,3 @@
-2020-12-07 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-12-07 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-12-07 07:00:00-08:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
-2020-12-07 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
 2020-12-07 18:30:00-03:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-12-07 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-12-08 01:00:00+00:00 - [Hyperledger Besu] Besu Contrubutor Call APAC/AMER
@@ -26,7 +22,6 @@
 2020-12-10 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-12-10 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-12-10 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-12-10 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-12-10 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-10 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Fabric para Administradores VS Developers - Certificaciones
 2020-12-10 18:00:00+00:00 - [Hyperledger Meetups] Hyperledger Fabric for System Administrators vs Developers
@@ -94,7 +89,6 @@
 2020-12-24 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2020-12-24 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2020-12-24 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2020-12-24 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2020-12-24 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-24 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2020-12-25 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -157,7 +151,6 @@
 2021-01-07 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-01-07 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-01-07 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-01-07 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-01-07 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-01-07 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-01-08 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -220,7 +213,6 @@
 2021-01-21 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-01-21 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-01-21 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-01-21 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-01-21 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-01-21 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-01-22 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -285,7 +277,6 @@
 2021-02-04 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-02-04 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-02-04 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-02-04 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-02-04 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-02-04 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-02-05 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -350,7 +341,6 @@
 2021-02-18 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-02-18 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-02-18 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-02-18 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-02-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-02-18 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-02-19 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -415,7 +405,6 @@
 2021-03-04 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-03-04 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-03-04 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-03-04 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-03-04 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-03-04 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-03-05 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
@@ -424,3 +413,9 @@
 2021-03-05 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2021-03-05 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2021-03-06 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2021-03-08 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
+2021-03-08 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
+2021-03-09 07:00:00-08:00 - [Hyperledger Indy] Drafting the Indy DID Method Specification
+2021-03-09 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
+2021-03-09 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2021-03-09 09:00:00-05:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
