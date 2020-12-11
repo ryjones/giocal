@@ -1,10 +1,4 @@
-2020-12-10 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
-2020-12-11 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
-2020-12-11 08:30:00+00:00 - [Hyperledger Meetups] Hyperledger Kochi hosts: Consensus and the Consortia & Hyperledger Iroha For Digital Assets Use Cases
 2020-12-11 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
-2020-12-11 10:00:00-05:00 - [Hyperledger Grid] Grid Community Meeting
-2020-12-11 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
-2020-12-11 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2020-12-12 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
 2020-12-12 08:30:00+00:00 - [Hyperledger Meetups] Hyperledger Kochi hosts: Besu - An Ethereum Client by Hyperledger
 2020-12-14 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
@@ -33,6 +27,7 @@
 2020-12-17 16:30:00+00:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-12-17 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Madrid hosts: Hyperledger Besu - Construyendo la nueva blockchain de Alastria
 2020-12-17 20:30:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
+2020-12-18 05:00:00+00:00 - [Hyperledger India Chapter] Hyperledger's 5th Anniversary Celebration! Open Networking Event
 2020-12-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-12-18 06:00:00-08:00 - [Hyperledger Meetups] Hyperledger Tech Study Circles
 2020-12-18 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
@@ -421,3 +416,4 @@
 2021-03-12 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
 2021-03-12 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
 2021-03-12 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
+2021-03-13 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
