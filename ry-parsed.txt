@@ -415,3 +415,7 @@
 2021-03-12 15:00:00+01:00 - [Hyperledger Public Sector SIG] Public Sector SIG
 2021-03-12 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2021-03-13 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2021-03-15 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
+2021-03-15 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
+2021-03-15 07:00:00-08:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
+2021-03-15 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
