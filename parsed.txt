@@ -1,18 +1,13 @@
-2020-12-14 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
-2020-12-15 07:00:00-08:00 - [Hyperledger Indy] Drafting the Indy DID Method Specification
-2020-12-15 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
-2020-12-15 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-12-15 09:00:00-05:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
 2020-12-16 00:00:00+00:00 - [Hyperledger SIG Chairs] Biannual SIG reports are due on the 15th
 2020-12-16 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-12-16 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-12-16 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-12-16 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-12-16 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-12-16 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-12-16 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
 2020-12-16 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
 2020-12-16 16:00:00+00:00 - [Hyperledger Meetups] Hyperledger Riyadh hosts: Interoperability of Blockchain Networks and Enterprise Systems
+2020-12-16 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-12-16 21:30:00+00:00 - [Hyperledger Community Brazil Chapter] Hyperledger Chapter Brasil Meeting - Dez 2020 - Xmas Celebration
 2020-12-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2020-12-17 04:00:00+00:00 - [Hyperledger Meetups] Hyperledger Tokyo hosts: Let's Celebrate 5 Years of Hyperledger with Brian Behlendorf
@@ -79,10 +74,10 @@
 2020-12-30 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2020-12-30 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2020-12-30 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2020-12-30 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-12-30 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2020-12-30 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2020-12-30 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2020-12-30 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2020-12-31 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2020-12-31 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
 2020-12-31 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
@@ -144,10 +139,10 @@
 2021-01-13 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2021-01-13 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2021-01-13 09:00:00-08:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
-2021-01-13 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-01-13 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2021-01-13 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2021-01-13 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-01-13 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-01-14 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-01-14 00:00:00+00:00 - [Hyperledger Fabric] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-01-14 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -208,10 +203,10 @@
 2021-01-27 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2021-01-27 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2021-01-27 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2021-01-27 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-01-27 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2021-01-27 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2021-01-27 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-01-27 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-01-28 00:00:00+00:00 - [Hyperledger Iroha] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-01-28 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2021-01-28 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
@@ -273,10 +268,10 @@
 2021-02-10 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2021-02-10 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2021-02-10 09:00:00-08:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
-2021-02-10 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-02-10 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2021-02-10 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2021-02-10 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-02-10 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-02-11 00:00:00+00:00 - [Hyperledger Transact] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-02-11 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2021-02-11 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
@@ -337,10 +332,10 @@
 2021-02-24 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
 2021-02-24 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2021-02-24 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
-2021-02-24 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-02-24 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2021-02-24 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2021-02-24 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-02-24 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-02-25 00:00:00+00:00 - [Hyperledger Explorer] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-02-25 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2021-02-25 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
@@ -403,10 +398,10 @@
 2021-03-10 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
 2021-03-10 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
 2021-03-10 09:00:00-08:00 - [Hyperledger TSC] Marketing Committee - Developer Relations sync
-2021-03-10 10:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-03-10 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
 2021-03-10 13:00:00-06:00 - [Hyperledger Aries] Aries WG B Call
 2021-03-10 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-03-10 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
 2021-03-11 00:00:00+00:00 - [Hyperledger Aries] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-03-11 00:00:00+00:00 - [Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-03-11 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
@@ -435,3 +430,10 @@
 2021-03-16 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
 2021-03-16 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2021-03-16 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
+2021-03-17 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
+2021-03-17 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
+2021-03-17 09:00:00-04:00 - [Hyperledger Fabric] Fabric Contributor Meeting
+2021-03-17 11:00:00-07:00 - [Hyperledger Aries] ACA-Pug Meetings
+2021-03-17 12:00:00-04:00 - [Hyperledger Identity WG] Hyperledger Identity WG
+2021-03-17 15:00:00+01:00 - [Hyperledger Webinars] Hyperledger Webinar Series
+2021-03-17 16:00:00+00:00 - [Hyperledger Quilt] Interledger Community Call
