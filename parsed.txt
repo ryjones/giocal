@@ -434,6 +434,7 @@
 2021-03-18 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
 2021-03-18 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
 2021-03-18 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
+2021-03-18 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-03-18 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2021-03-18 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-03-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
