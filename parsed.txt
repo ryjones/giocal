@@ -1,11 +1,3 @@
-2020-12-16 21:30:00+00:00 - [Hyperledger Community Brazil Chapter] Hyperledger Chapter Brasil Meeting - Dez 2020 - Xmas Celebration
-2020-12-17 00:00:00+00:00 - [Hyperledger Avalon] Hyperledger Project Quarterly Update Due #tsc-project-update
-2020-12-17 04:00:00+00:00 - [Hyperledger Meetups] Hyperledger Tokyo hosts: Let's Celebrate 5 Years of Hyperledger with Brian Behlendorf
-2020-12-17 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2020-12-17 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2020-12-17 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
-2020-12-17 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2020-12-17 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2020-12-17 16:30:00+00:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2020-12-17 17:00:00+00:00 - [Hyperledger Meetups] Hyperledger Madrid hosts: Hyperledger Besu - Construyendo la nueva blockchain de Alastria
 2020-12-17 20:30:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
@@ -436,3 +428,8 @@
 2021-03-18 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
 2021-03-18 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-03-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2021-03-18 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
+2021-03-19 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
+2021-03-19 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
+2021-03-19 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
+2021-03-19 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
