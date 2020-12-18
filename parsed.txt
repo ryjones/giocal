@@ -1,6 +1,5 @@
 2020-12-17 20:30:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2020-12-18 05:00:00+00:00 - [Hyperledger India Chapter] Hyperledger's 5th Anniversary Celebration! Open Networking Event
-2020-12-18 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2020-12-18 06:00:00-08:00 - [Hyperledger Meetups] Hyperledger Tech Study Circles
 2020-12-18 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2020-12-18 14:30:00+03:00 - [Hyperledger Iroha] HL Iroha Bi-Weekly Community Meeting
@@ -432,3 +431,4 @@
 2021-03-19 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
 2021-03-19 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2021-03-19 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
+2021-03-20 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
