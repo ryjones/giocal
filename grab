@@ -3,9 +3,9 @@ set -ex
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
 cd /Users/ry/W/giocal
 wget -q -O feed.ics https://lists.hyperledger.org/ics/1902217/3131022486068381536/feed.ics
-wget -q -O ry-feed.ics https://user.fm/calendar/v1-d81bf855d24721c6975d8c053f09c6a1/feed.ics
+# wget -q -O ry-feed.ics https://user.fm/calendar/v1-d81bf855d24721c6975d8c053f09c6a1/feed.ics
 python3 main.py | sort > parsed.txt
-python3 m.py | sort > ry-parsed.txt
+# python3 m.py | sort > ry-parsed.txt
 
 
 RC=`git diff HEAD parsed.txt | wc -l | awk '{print $1}'`
