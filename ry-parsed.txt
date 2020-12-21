@@ -1,8 +1,3 @@
-2020-12-21 07:00:00-05:00 - [Hyperledger Labs] Blockchain Automation Framework Contributors #blockchain-automation-framework
-2020-12-21 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG (HC-SIG) Patient Subgroup Meeting
-2020-12-21 07:00:00-08:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare Interoperability Subgroup
-2020-12-21 09:00:00-07:00 - [Hyperledger Climate SIG] Peer Programming Session for Carbon Accounting and Certification Working Group
-2020-12-21 15:00:00+00:00 - [Hyperledger Meetups] Hyperledger Budapest hosts: Tips for running Hyperledger Fabric on Kubernetes
 2020-12-21 18:30:00-03:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
 2020-12-21 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
 2020-12-22 07:00:00-08:00 - [Hyperledger Indy] Drafting the Indy DID Method Specification
@@ -415,3 +410,9 @@
 2021-03-19 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
 2021-03-19 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
 2021-03-20 02:00:00+00:00 - [Hyperledger Cello] Hyperledger Cello Weekly Meeting
+2021-03-22 13:00:00-04:00 - [Hyperledger Learning Materials Development WG] [Hyperledger Learning Materials Development WG] LMDWG Bi-weekly Call
+2021-03-22 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
+2021-03-23 07:00:00-08:00 - [Hyperledger Indy] Drafting the Indy DID Method Specification
+2021-03-23 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
+2021-03-23 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
+2021-03-23 09:00:00-05:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
