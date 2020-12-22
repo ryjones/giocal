@@ -1,11 +1,3 @@
-2020-12-21 18:30:00-03:00 - [Hyperledger Community Brazil Chapter] Hyperledger Brazil Chapter Meeting
-2020-12-21 20:00:00-06:00 - [Hyperledger Cactus] Cactus Maintainers
-2020-12-22 07:00:00-08:00 - [Hyperledger Indy] Drafting the Indy DID Method Specification
-2020-12-22 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
-2020-12-22 09:00:00-06:00 - [Hyperledger Indy] Indy Contributors Call
-2020-12-22 10:00:00-04:00 - [Hyperledger Social Impact SIG] Hyperledger Social Impact SIG
-2020-12-22 15:00:00+00:00 - [Hyperledger Besu] Besu Contributor Call EMEA/AMER
-2020-12-22 15:30:00+08:00 - [Hyperledger Trade Finance SIG] Trade Finance SIG
 2020-12-22 18:30:00-05:00 - [Hyperledger Community Latinoamerica Chapter] Reunión de seguimiento capítulo Hyperledger Latinoamérica
 2020-12-23 07:00:00-07:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG
 2020-12-23 07:00:00-07:00 - [Hyperledger Ursa] Hyperledger Ursa Biweekly Meeting
@@ -423,3 +415,9 @@
 2021-03-23 08:00:00-07:00 - [Hyperledger Climate SIG] Climate Action and Accounting SIG meetings
 2021-03-23 08:00:00-07:00 - [Hyperledger Fabric] Private Chaincode Lab
 2021-03-23 09:00:00-05:00 - [Hyperledger Performance and Scale WG] Performance and Scalability Working Group
+2021-03-24 08:00:00-06:00 - [Hyperledger Aries] Aries WG A Call
+2021-03-24 09:00:00-04:00 - [Hyperledger Fabric] Hyperledger Fabric samples workgroup
+2021-03-24 09:00:00-07:00 - [Hyperledger Architecture WG] Architecture WG Biweekly Meeting
+2021-03-24 10:00:00-04:00 - [Hyperledger Capital Markets SIG] Capital Markets SIG - Hyperledger
+2021-03-24 15:00:00+00:00 - [Hyperledger Caliper] Hyperledger Caliper Contributors Meeting
+2021-03-24 20:00:00+08:00 - [Hyperledger Technical WG China] Hyperledger Technical WG China Meeting
