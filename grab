@@ -1,6 +1,6 @@
 #!/bin/bash
 set -ex
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$PATH
 cd /Users/ry/W/giocal
 wget -q -O feed.ics https://lists.hyperledger.org/ics/1902217/3131022486068381536/feed.ics
 wget -q -O ry-feed.ics https://user.fm/calendar/v1-ed6b298fe31d41e47eeff58a3f84f2d9/Hyperledger%20Public%20Calendar.ics
