@@ -1,10 +1,3 @@
-2021-01-14 00:00:00+00:00 - [Hyperledger Cactus] Hyperledger Project Quarterly Update Due #tsc-project-update
-2021-01-14 07:00:00-08:00 - [Hyperledger TSC] Technical Steering Committee (TSC)
-2021-01-14 08:00:00+00:00 - [Hyperledger Cactus] Cactus Contributors Eastern Hemisphere
-2021-01-14 09:00:00-06:00 - [Hyperledger Identity WG] Identity WG Implementers Call
-2021-01-14 09:00:00-07:00 - [Hyperledger Telecom SIG] Telecom SIG main meeting
-2021-01-14 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
-2021-01-14 17:30:00+00:00 - [Hyperledger Meetups] Hyperledger Italian Chapter hosts: Hyperledger Cactus meetup
 2021-01-14 20:30:00-11:00 - [Hyperledger Avalon] Hyperledger Avalon Developers Forum
 2021-01-15 06:00:00+01:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Eastern hemisphere
 2021-01-15 06:00:00-08:00 - [Hyperledger Meetups] Hyperledger Tech Study Circles
@@ -40,7 +33,6 @@
 2021-01-21 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-01-21 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-01-21 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-01-21 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-01-21 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-01-21 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-01-22 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -107,7 +99,6 @@
 2021-02-04 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-02-04 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-02-04 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-02-04 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-02-04 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-02-04 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-02-05 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -169,7 +160,6 @@
 2021-02-18 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-02-18 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-02-18 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-02-18 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-02-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-02-18 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-02-19 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -233,7 +223,6 @@
 2021-03-04 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-03-04 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-03-04 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-03-04 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-03-04 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-03-04 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-03-05 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -295,7 +284,6 @@
 2021-03-18 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-03-18 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-03-18 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-03-18 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-03-18 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-03-18 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-03-19 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -355,7 +343,6 @@
 2021-04-01 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-04-01 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-04-01 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-04-01 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-04-01 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
 2021-04-01 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
 2021-04-02 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
@@ -419,5 +406,9 @@
 2021-04-15 09:00:00-05:00 - [Hyperledger Healthcare SIG] Hyperledger Healthcare SIG: Payer Subgroup #payer-subgroup
 2021-04-15 09:30:00-07:00 - [Hyperledger Meetups] Hyperledger Meetup Improvement Work Group
 2021-04-15 10:30:00-05:00 - [Hyperledger Cactus] Cactus Contributors Western Hemisphere
-2021-04-15 12:00:00-04:00 - [Hyperledger Supply Chain SIG] Supply Chain SIG
 2021-04-15 15:00:00+05:30 - [Hyperledger India Chapter] Hyperledger India Chapter - Weekly Meeting
+2021-04-15 21:00:00-07:00 - [Hyperledger Fabric] Fabric SDK Python Meeting
+2021-04-16 09:00:00-08:00 - [Hyperledger DCI WG] Hyperledger DCI Working Group call
+2021-04-16 10:00:00-05:00 - [Hyperledger Sawtooth] Hyperledger Sawtooth Contributors Meeting
+2021-04-16 11:00:00-05:00 - [Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup call - Western hemisphere
+2021-04-16 16:00:00+05:30 - [Hyperledger Aries] Aries JavaScript Meeting
