@@ -1,20 +1,17 @@
 #!/bin/bash
 set -ex
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$PATH
-export RYCAL="https://user.fm/calendar/v1-ed6b298fe31d41e47eeff58a3f84f2d9/Hyperledger%20Public%20Calendar.ics"
 export LISTCAL="https://lists.hyperledger.org/ics/1902217/3131022486068381536/feed.ics"
 cd /Users/ry/W/giocal
 wget -q -O feed.ics $LISTCAL
-wget -q -O ry-feed.ics $RYCAL
 python3 main.py | sort > parsed.txt
-python3 m.py | sort > ry-parsed.txt
 
 RC=`git diff HEAD parsed.txt | wc -l | awk '{print $1}'`
 if [ "$RC" != "0" ]
 then
-  git add ry-parsed.txt ry-feed.ics feed.ics parsed.txt
+  git add feed.ics parsed.txt
   git diff --compact-summary HEAD~ | git commit -a -s -F - 
-  git push origin default
+  git push origin main
 else
   echo No Updates.
 fi
