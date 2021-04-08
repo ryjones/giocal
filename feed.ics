@@ -4,56 +4,12 @@ PRODID:-//Groups.io Inc//Hyperledger Calendar//EN
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
-TZID:Asia/Kolkata
+TZID:Asia/Kuala_Lumpur
 LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
-X-LIC-LOCATION:Asia/Kolkata
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kuala_Lumpur
+X-LIC-LOCATION:Asia/Kuala_Lumpur
 BEGIN:STANDARD
-TZNAME:IST
-TZOFFSETFROM:+0530
-TZOFFSETTO:+0530
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:America/Chicago
-LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
-X-LIC-LOCATION:America/Chicago
-BEGIN:DAYLIGHT
-TZNAME:CDT
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZNAME:CST
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Europe/Moscow
-LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Moscow
-X-LIC-LOCATION:Europe/Moscow
-BEGIN:STANDARD
-TZNAME:MSK
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0300
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Asia/Shanghai
-LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Shanghai
-X-LIC-LOCATION:Asia/Shanghai
-BEGIN:STANDARD
-TZNAME:CST
+TZNAME:+08
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
@@ -77,6 +33,30 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZNAME:-05
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -140,35 +120,23 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:Europe/London
+TZID:America/Chicago
 LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
-X-LIC-LOCATION:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
 BEGIN:DAYLIGHT
-TZNAME:BST
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0100
-DTSTART:19700329T010000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZNAME:CDT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
 END:DAYLIGHT
 BEGIN:STANDARD
-TZNAME:GMT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0000
-DTSTART:19701025T020000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:America/Bogota
-LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/America/Bogota
-X-LIC-LOCATION:America/Bogota
-BEGIN:STANDARD
-TZNAME:-05
+TZNAME:CST
 TZOFFSETFROM:-0500
-TZOFFSETTO:-0500
-DTSTART:19700101T000000
+TZOFFSETTO:-0600
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -192,6 +160,38 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+BEGIN:STANDARD
+TZNAME:MSK
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:America/Sao_Paulo
 LAST-MODIFIED:20201011T015911Z
 TZURL:http://tzurl.org/zoneinfo-outlook/America/Sao_Paulo
@@ -204,12 +204,12 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:Asia/Kuala_Lumpur
+TZID:Asia/Shanghai
 LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kuala_Lumpur
-X-LIC-LOCATION:Asia/Kuala_Lumpur
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
 BEGIN:STANDARD
-TZNAME:+08
+TZNAME:CST
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 DTSTART:19700101T000000
@@ -218,7 +218,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23850
 UID:wA5f.1578956888615526337.EYeU@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Community Architects:mailto:community-architects@hyperledger
  .org
 DTSTART:20210318
@@ -234,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:35080
 UID:PjI2.1612546974740110335.4c8l@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:peter.somogyvari@accenture.com
 DTSTART;TZID=America/Los_Angeles:20210322T080000
 DTEND;TZID=America/Los_Angeles:20210322T090000
@@ -259,35 +259,9 @@ LOCATION:https://teams.microsoft.com/_#/l/meetup-join/19:meeting_MmEzZDcz
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:15871
-UID:I7oC.1580078587226210341.aO35@groups.io
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=Mark Wagner:mailto:mwagner@redhat.com
-DTSTART;TZID=America/New_York:20210323T090000
-DTEND;TZID=America/New_York:20210323T100000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
-SUMMARY:[Hyperledger Performance and Scale WG] Performance and Scalabilit
- y Working Group
-DESCRIPTION:Contact: Mark Wagner (mwagner at redhat.com)\n\nTopic: Hyperl
- edger Performance and Scalability Working Group\n\nTime: Sep 22\, 2020 10
- :00 AM Eastern Time (US and Canada)\n        Every 2 weeks on Tue\, until
-  Aug 9\, 2022\, 50 occurrence(s)\nPlease download and import the followin
- g iCalendar (.ics) files to your calendar system.\nWeekly: https://zoom.u
- s/meeting/tJ0odumoqDgqG9LlH_0O5Faaj-_9NSL-9VDt/ics?icsToken=98tyKuChqzoqG
- tKWsBiBRox5GYj4c_TwpnZfjfpxkDfaUw8GRAL3PK99a5xMPJWJ\n\nJoin Zoom Meeting\
- nhttps://zoom.us/j/99510063016?pwd=aXNvdm10NDd3dlRmMzY3WU5wSVp5Zz09\n\nMe
- eting ID: 995 1006 3016\nPasscode: 244020\nOne tap mobile\n+12532158782\,
- \,99510063016# US (Tacoma)\n+13462487799\,\,99510063016# US (Houston)\n\n
- Meeting ID: 995 1006 3016\nFind your local number: https://zoom.us/u/aepA
- wSPOeu
-LOCATION:https://zoom.us/j/99510063016?pwd=aXNvdm10NDd3dlRmMzY3WU5wSVp5Zz
- 09
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:32661
 UID:ZEec.1604008454816791225.tlW4@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Stephen Curran:mailto:swcurran@cloudcompass.ca`
 DTSTART;TZID=America/Los_Angeles:20210323T070000
 DTEND;TZID=America/Los_Angeles:20210323T080000
@@ -304,66 +278,9 @@ LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:22096
-UID:rUeS.1575933571835475884.Jb77@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=Marcus Brandenburger:mailto:bur@zurich.ibm.com
-DTSTART;TZID=America/Los_Angeles:20210323T080000
-DTEND;TZID=America/Los_Angeles:20210323T090000
-RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU
-SUMMARY:[Hyperledger Fabric] Private Chaincode Lab
-DESCRIPTION:Two of the Hyperleger Labs projects (private data objects and
-  private chain code) are collaborating to develop a "private smart contra
- cts" capability.\n\nJoin Zoom Meeting https://zoom.us/j/5184947650?pwd=UE
- 90WHhEaHRqOGEyMkV3cldKa2d2dz09 Meeting ID: 518 494 7650 Passcode: 475869
-LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
- kV3cldKa2d2dz09
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-X-GIOIDS:Repeat:24572
-UID:7gPv.1580414229276543888.uXqT@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
- ists.hyperledger.org
-DTSTART;TZID=America/Los_Angeles:20210323T080000
-DTEND;TZID=America/Los_Angeles:20210323T093000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
-SUMMARY:[Hyperledger Climate SIG] Climate Action and Accounting SIG meeti
- ngs
-DESCRIPTION:The Climate Action and Accounting SIG calls are open to every
- one.  To find out more about the group and find meeting agenda\, notes a
- nd recordings\, visit:\n\nhttps://wiki.hyperledger.org/display/CASIG/Meet
- ings\n\nJoin Zoom Meeting\nhttps://zoom.us/j/4034983298?pwd=STZQd0xMZU9xR
- VVOVnpQM3JNQ2dqZz09\n\nMeeting ID: 403 498 3298\nPasscode: 475869
-LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
- QM3JNQ2dqZz09
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-X-GIOIDS:Repeat:28759
-UID:GIsv.1591923966998838550.IdI5@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
- mailto:community-latinoamerica-chapter@lists.hyperledger.org
-DTSTART;TZID=America/Bogota:20210323T183000
-DTEND;TZID=America/Bogota:20210323T193000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
-SUMMARY:[Hyperledger Community Latinoamerica Chapter] Reunión de seguimi
- ento capítulo Hyperledger Latinoamérica
-DESCRIPTION:Reunión de seguimiento capítulo Hyperldeger Latinoamérica\
- n\nEn esta reunión el equipo los avances de las tareas asignadas y se re
- aliza la planeación de los siguientes eventos\n\nLa reunión es abierta 
- y todo los interesados pueden asistir para sumarse a al capítulo Latinoa
- mericano
-LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
- QM3JNQ2dqZz09
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:35053
 UID:EnzB.1612466306522888429.wGxb@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=media-entertainment-sig@lists.hyperledger.org Group:mailto:m
  edia-entertainment-sig@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210323T190000
@@ -383,9 +300,30 @@ LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:21923
+UID:ASP1.1575574716020039265.ckuN@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Richard Esplin:mailto:richard.esplin@evernym.com
+DTSTART;TZID=America/Denver:20210324T080000
+DTEND;TZID=America/Denver:20210324T090000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
+SUMMARY:[Hyperledger Aries] Aries WG A Call
+DESCRIPTION:Please join us for a rousing conversation about all things Ar
+ ies. This call is scheduled for contributors in Europe and the US\, and c
+ ompliments the other Aries WG calls that are scheduled for other timezone
+ s.\n\nMeeting Agenda and Notes: https://wiki.hyperledger.org/display/ARIE
+ S/Aries+Working+Group\n\nThis meeting repeats every other week.\n(If you 
+ copy the meeting to your calendar\, you should confirm that the appointme
+ nt repetition is correct.)\n\nhttps://zoom.us/j/5184947650?pwd=UE90WHhEaH
+ RqOGEyMkV3cldKa2d2dz09\n\nMeeting ID: 518 494 7650\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
+ kV3cldKa2d2dz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:17332
 UID:0ziO.1580078662143876700.F9Ce@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Vipin Bharathan:mailto:vip@dlt.nyc
 DTSTART;TZID=America/New_York:20210324T100000
 DTEND;TZID=America/New_York:20210324T110000
@@ -405,32 +343,12 @@ LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
  ZEdKR1JYdW40R2pDUT09
 SEQUENCE:0
 EXDATE:20210324T140000Z
-END:VEVENT
-BEGIN:VEVENT
-X-GIOIDS:Repeat:21923
-UID:ASP1.1575574716020039265.ckuN@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=Richard Esplin:mailto:richard.esplin@evernym.com
-DTSTART;TZID=America/Denver:20210324T080000
-DTEND;TZID=America/Denver:20210324T090000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
-SUMMARY:[Hyperledger Aries] Aries WG A Call
-DESCRIPTION:Please join us for a rousing conversation about all things Ar
- ies. This call is scheduled for contributors in Europe and the US\, and c
- ompliments the other Aries WG calls that are scheduled for other timezone
- s.\n\nMeeting Agenda and Notes: https://wiki.hyperledger.org/display/ARIE
- S/Aries+Working+Group\n\nThis meeting repeats every other week.\n(If you 
- copy the meeting to your calendar\, you should confirm that the appointme
- nt repetition is correct.)\n\nhttps://zoom.us/j/5184947650?pwd=UE90WHhEaH
- RqOGEyMkV3cldKa2d2dz09\n\nMeeting ID: 518 494 7650\nPasscode: 475869
-LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
- kV3cldKa2d2dz09
-SEQUENCE:0
+EXDATE:20210407T140000Z
 END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:15870
 UID:kNp2.1580078587103437529.azjr@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Attila Klenik:mailto:caliper@lists.hyperledger.org
 DTSTART:20210324T150000Z
 DTEND:20210324T160000Z
@@ -446,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:20923
 UID:6yQF.1574181517770819510.yWZ7@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Ram Jagadeesan:mailto:ram.jagadeesan@gmail.com
 DTSTART;TZID=America/Los_Angeles:20210324T090000
 DTEND;TZID=America/Los_Angeles:20210324T100000
@@ -462,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:35315
 UID:7bRx.1613439328250835209.lFh2@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=aries@lists.hyperledger.org Group:mailto:aries@lists.hyperle
  dger.org
 DTSTART;TZID=America/Denver:20210324T120000
@@ -477,7 +395,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:21922
 UID:Sjxz.1575574554510497267.JX9w@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Sam Curren:mailto:telegramsam@gmail.com
 DTSTART;TZID=America/Denver:20210324T130000
 DTEND;TZID=America/Denver:20210324T143000
@@ -499,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:29073
 UID:oWMq.1592964184800346443.HC5Q@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Shingo Fujimoto:mailto:cactus@lists.hyperledger.org
 DTSTART:20210325T080000Z
 DTEND:20210325T090000Z
@@ -516,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:24860
 UID:VdHv.1581017176054300961.uc4N@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger India Chapter Community:mailto:community-india-c
  hapter@lists.hyperledger.org
 DTSTART;TZID=Asia/Kolkata:20210325T150000
@@ -537,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:35824
 UID:tWbW.1615127958657197699.Mazm@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Jakub Kočí:mailto:jakub.koci@gmail.com
 DTSTART:20210325T140000Z
 DTEND:20210325T150000Z
@@ -556,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:21924
 UID:S9P9.1575576037820555792.eHMF@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Steve McCown:mailto:smccown@anonyome.com
 DTSTART;TZID=America/Denver:20210325T090000
 DTEND;TZID=America/Denver:20210325T100000
@@ -576,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:21932
 UID:y6UG.1575582487141500421.EOR0@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=telecom-sig@lists.hyperledger.org Group:mailto:telecom-sig@l
  ists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210325T090000
@@ -592,25 +510,9 @@ LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:23883
-UID:IWyk.1578959965775592409.Lw9l@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
- @hyperledger.org
-DTSTART:20210325
-DTEND:20210326
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
-SUMMARY:[Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-
- project-update
-DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
- s://wiki.hyperledger.org/display/TSC/2021+Project+Updates\n\nhttps://wiki
- .hyperledger.org/display/TSC/2021+TSC+Project+Update+Calendar
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:23876
 UID:v8gm.1578959597461822542.EKhM@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=caliper@lists.hyperledger.org Group:mailto:community-archite
  cts@hyperledger.org
 DTSTART:20210325
@@ -624,14 +526,30 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:23883
+UID:IWyk.1578959965775592409.Lw9l@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:community-architects
+ @hyperledger.org
+DTSTART:20210325
+DTEND:20210326
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
+SUMMARY:[Hyperledger Besu] Hyperledger Project Quarterly Update Due #tsc-
+ project-update
+DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
+ s://wiki.hyperledger.org/display/TSC/2021+Project+Updates\n\nhttps://wiki
+ .hyperledger.org/display/TSC/2021+TSC+Project+Update+Calendar
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:33207
 UID:0PEY.1606752652127445210.gWGm@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART;TZID=America/Los_Angeles:20210326T060000
 DTEND;TZID=America/Los_Angeles:20210326T070000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR;UNTIL=20210409T125959Z
 SUMMARY:[Hyperledger Meetups] Hyperledger Tech Study Circles
 DESCRIPTION:A bi-weekly virtual meetup hosted by Hyperledger Sweden where
   a group of community members interested in learning more about Hyperledg
@@ -643,27 +561,9 @@ LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:21946
-UID:4Eor.1575655334541130099.K6bY@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=Pam Andrejko:mailto:pama@ibm.com
-DTSTART;TZID=America/New_York:20210326T110000
-DTEND;TZID=America/New_York:20210326T120000
-RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR
-SUMMARY:[Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup c
- all - Western hemisphere
-DESCRIPTION:Documentation workgroup call.\nAgenda\, minutes and recording
- s :https://wiki.hyperledger.org/display/fabric/Documentation+Working+Grou
- p\n\nJoin Zoom Meeting\nhttps://zoom.us/j/6223336701?pwd=dkJKdHRlc3dNZEdK
- R1JYdW40R2pDUT09\n\nMeeting ID: 622 333 6701\nPasscode: 475869
-LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
- ZEdKR1JYdW40R2pDUT09
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:22050
 UID:as8q.1575900429623016481.8JJp@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Public Sector SIG:mailto:public-sector-sig@lists.hyperledger
  .org
 DTSTART;TZID=Europe/London:20210326T150000
@@ -679,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:31086
 UID:VW2y.1598454872011842260.zFp5@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
 DTSTART;TZID=America/Chicago:20210329T070000
 DTEND;TZID=America/Chicago:20210329T080000
@@ -698,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:22047
 UID:Xl7I.1575896655511218450.t3Kc@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Steven Elliott:mailto:steven.elliott@interactivetec.com
 DTSTART;TZID=America/Los_Angeles:20210329T070000
 DTEND;TZID=America/Los_Angeles:20210329T080000
@@ -732,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:32482
 UID:s3rr.1603338972296633573.0KGM@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Jonathan Hamilton:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210329T080000
 DTEND;TZID=America/Los_Angeles:20210329T090000
@@ -749,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:26456
 UID:dlkd.1585324827780949208.BaFS@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Deniz Coskun:mailto:denizcoskun.mail@gmail.com
 DTSTART;TZID=America/Los_Angeles:20210329T080000
 DTEND;TZID=America/Los_Angeles:20210329T090000
@@ -787,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:31581
 UID:ZHle.1600116864913176134.nLxk@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
  ists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210329T090000
@@ -809,7 +709,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:32328
 UID:QSNc.1602684693477605771.qlMo@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Renato Teixeira:mailto:renato@renatoteixeira.com
 DTSTART;TZID=America/Sao_Paulo:20210329T183000
 DTEND;TZID=America/Sao_Paulo:20210329T193000
@@ -825,7 +725,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:22224
 UID:cEaF.1576184756480570128.Gr8a@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:besu@lists.hyperledg
  er.org
 DTSTART:20210330T010000Z
@@ -845,7 +745,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:14443
 UID:ZOkO.1580078541871612237.UIqv@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:social-impact-sig@list
  s.hyperledger.org
 DTSTART;TZID=America/New_York:20210330T100000
@@ -859,9 +759,26 @@ LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:22096
+UID:rUeS.1575933571835475884.Jb77@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Marcus Brandenburger:mailto:bur@zurich.ibm.com
+DTSTART;TZID=America/Los_Angeles:20210330T080000
+DTEND;TZID=America/Los_Angeles:20210330T090000
+RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU
+SUMMARY:[Hyperledger Fabric] Private Chaincode Lab
+DESCRIPTION:Two of the Hyperleger Labs projects (private data objects and
+  private chain code) are collaborating to develop a "private smart contra
+ cts" capability.\n\nJoin Zoom Meeting https://zoom.us/j/5184947650?pwd=UE
+ 90WHhEaHRqOGEyMkV3cldKa2d2dz09 Meeting ID: 518 494 7650 Passcode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
+ kV3cldKa2d2dz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:13838
 UID:FHpc.1580078528700220562.IR3A@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Stephen Curran:mailto:swcurran@cloudcompass.ca
 DTSTART;TZID=America/Denver:20210330T090000
 DTEND;TZID=America/Denver:20210330T100000
@@ -882,7 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:24800
 UID:ip9L.1580848371576570462.eJxS@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Dave Enyeart:mailto:enyeart@us.ibm.com
 DTSTART;TZID=America/New_York:20210331T090000
 DTEND;TZID=America/New_York:20210331T100000
@@ -899,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:13095
 UID:W9DC.1580078192020489285.VvfF@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Mike McCoy:mailto:mike.mccoy@consensyshealth.com
 DTSTART;TZID=America/Los_Angeles:20210331T070000
 DTEND;TZID=America/Los_Angeles:20210331T080000
@@ -923,7 +840,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:22155
 UID:Q79r.1576076955904633818.IZkJ@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hart Montgomery:mailto:hmontgomery@us.fujitsu.com
 DTSTART;TZID=America/Los_Angeles:20210331T070000
 DTEND;TZID=America/Los_Angeles:20210331T080000
@@ -939,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:24176
 UID:20200122@interledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Adrian Hope-Bailie:mailto:adrian@hopebailie.com
 DTSTART:20210331T160000Z
 DTEND:20210331T170000Z
@@ -957,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:14521
 UID:OQpW.1580078543204559586.srHe@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Vipin Bharathan:mailto:identity-wg@lists.hyperledger.org
 DTSTART;TZID=America/New_York:20210331T120000
 DTEND;TZID=America/New_York:20210331T130000
@@ -975,7 +892,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23839
 UID:2Mlm.1578956356692884030.lTpw@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Stephen Curran:mailto:swcurran@cloudcompass.ca
 DTSTART;TZID=America/Los_Angeles:20210331T110000
 DTEND;TZID=America/Los_Angeles:20210331T120000
@@ -995,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:32226
 UID:ulR6.1602175450496383515.i0MB@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=TSC:mailto:community-architects@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210401T070000
 DTEND;TZID=America/Los_Angeles:20210401T080000
@@ -1011,11 +928,12 @@ DESCRIPTION:Please see the agenda: https://wiki.hyperledger.org/display/T
 LOCATION:https://zoom.us/j/93304666234?pwd=OEswSmpjS2oxeWE2NmZId2hBanBnQT
  09
 SEQUENCE:0
+EXDATE:20210401T140000Z
 END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:29072
 UID:RoYJ.1592963988972068414.8uf5@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:cactus@lists.hyperledger.org
 DTSTART;TZID=America/Chicago:20210401T103000
 DTEND;TZID=America/Chicago:20210401T113000
@@ -1032,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:35764
 UID:Ujdc.1614278364514431223.Xo9B@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Marco Carvalho:mailto:Marco.Carvalho@rsmus.com
 DTSTART;TZID=America/New_York:20210401T120000
 DTEND;TZID=America/New_York:20210401T130000
@@ -1044,11 +962,12 @@ DESCRIPTION:Contact: Marco Carvalho\n\nJoin Zoom Meeting\nhttps://zoom.us
 LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
  kV3cldKa2d2dz09
 SEQUENCE:0
+EXDATE:20210401T160000Z
 END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:28327
 UID:dzcR.1590702111516775918.5Rng@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=David Boswell:mailto:meetups@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210401T093000
 DTEND;TZID=America/Los_Angeles:20210401T103000
@@ -1065,7 +984,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23592
 UID:uFTd.1578604760869553562.36ND@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Fabric SDK Python Team:mailto:fabric@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210401T210000
 DTEND;TZID=America/Los_Angeles:20210401T220000
@@ -1097,7 +1016,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:30800
 UID:Fr3R.1597679112238618040.qZki@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Shawn Amundson:mailto:amundson@bitwise.io
 DTSTART;TZID=America/Chicago:20210402T100000
 DTEND;TZID=America/Chicago:20210402T110000
@@ -1110,7 +1029,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23593
 UID:RXmy.1578605983532526989.KZak@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Lindsay Nuon:mailto:lnuon@google.com
 DTSTART;TZID=America/Los_Angeles:20210402T090000
 DTEND;TZID=America/Los_Angeles:20210402T100000
@@ -1128,7 +1047,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:20636
 UID:OMOc.1573765382008895961.4zff@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Baohua Yang:mailto:yangbaohua@gmail.com
 DTSTART:20210403T010000Z
 DTEND:20210403T020000Z
@@ -1155,7 +1074,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:15872
 UID:QvgW.1580078587524305325.wWGU@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Raveesh Dewen:mailto:rdewan@joget.com
 DTSTART;TZID=America/New_York:20210405T100000
 DTEND;TZID=America/New_York:20210405T110000
@@ -1174,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:22577
 UID:pU0I.1576725691036786702.Qx1Q@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger:mailto:bobbi@ledgeracademy.com
 DTSTART;TZID=America/New_York:20210405T130000
 DTEND;TZID=America/New_York:20210405T140000
@@ -1196,11 +1115,12 @@ DESCRIPTION:*Contact Bobbi Muscara\, Ledger Academy*\n\nTopic: Hyperledge
 LOCATION:https://zoom.us/j/95064677643?pwd=SERqMU5GcllBdHg3NWIyZzJVcVVOZz
  09
 SEQUENCE:0
+EXDATE:20210405T170000Z
 END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:36251
 UID:EVEz.1616726536280521457.EoAZ@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210405T160000
 DTEND;TZID=America/Los_Angeles:20210405T170000
@@ -1215,9 +1135,77 @@ LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:15871
+UID:I7oC.1580078587226210341.aO35@groups.io
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Mark Wagner:mailto:mwagner@redhat.com
+DTSTART;TZID=America/New_York:20210406T090000
+DTEND;TZID=America/New_York:20210406T100000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+SUMMARY:[Hyperledger Performance and Scale WG] Performance and Scalabilit
+ y Working Group
+DESCRIPTION:Contact: Mark Wagner (mwagner at redhat.com)\n\nTopic: Hyperl
+ edger Performance and Scalability Working Group\n\nTime: Sep 22\, 2020 10
+ :00 AM Eastern Time (US and Canada)\n        Every 2 weeks on Tue\, until
+  Aug 9\, 2022\, 50 occurrence(s)\nPlease download and import the followin
+ g iCalendar (.ics) files to your calendar system.\nWeekly: https://zoom.u
+ s/meeting/tJ0odumoqDgqG9LlH_0O5Faaj-_9NSL-9VDt/ics?icsToken=98tyKuChqzoqG
+ tKWsBiBRox5GYj4c_TwpnZfjfpxkDfaUw8GRAL3PK99a5xMPJWJ\n\nJoin Zoom Meeting\
+ nhttps://zoom.us/j/99510063016?pwd=aXNvdm10NDd3dlRmMzY3WU5wSVp5Zz09\n\nMe
+ eting ID: 995 1006 3016\nPasscode: 244020\nOne tap mobile\n+12532158782\,
+ \,99510063016# US (Tacoma)\n+13462487799\,\,99510063016# US (Houston)\n\n
+ Meeting ID: 995 1006 3016\nFind your local number: https://zoom.us/u/aepA
+ wSPOeu
+LOCATION:https://zoom.us/j/99510063016?pwd=aXNvdm10NDd3dlRmMzY3WU5wSVp5Zz
+ 09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Repeat:24572
+UID:7gPv.1580414229276543888.uXqT@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=climate-sig@lists.hyperledger.org Group:mailto:climate-sig@l
+ ists.hyperledger.org
+DTSTART;TZID=America/Los_Angeles:20210406T080000
+DTEND;TZID=America/Los_Angeles:20210406T093000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+SUMMARY:[Hyperledger Climate SIG] Climate Action and Accounting SIG meeti
+ ngs
+DESCRIPTION:The Climate Action and Accounting SIG calls are open to every
+ one.  To find out more about the group and find meeting agenda\, notes a
+ nd recordings\, visit:\n\nhttps://wiki.hyperledger.org/display/CASIG/Meet
+ ings\n\nJoin Zoom Meeting\nhttps://zoom.us/j/4034983298?pwd=STZQd0xMZU9xR
+ VVOVnpQM3JNQ2dqZz09\n\nMeeting ID: 403 498 3298\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
+ QM3JNQ2dqZz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Repeat:21422
+UID:mUmr.1574918943934223893.8skU@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=David Fuelling:mailto:quilt@lists.hyperledger.org
+DTSTART;TZID=America/Denver:20210406T100000
+DTEND;TZID=America/Denver:20210406T110000
+RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=1TU
+SUMMARY:[Hyperledger Quilt] Hyperledger Quilt Community Call
+DESCRIPTION:Let's sync-up to discuss Hyperledger Quilt\, the Java ILP imp
+ lementation of Interledger. The agenda is below\, but feel free to sugges
+ t other topics by posting a message in the Quilt mailing list https://lis
+ ts.hyperledger.org/g/quilt/topics) ( https://lists.hyperledger.org/g/quil
+ t/topics )\n\nAgenda\n\n* Introductions\n* Discuss open Quilt issues ( ht
+ tps://github.com/hyperledger/quilt/issues ) \; PRs ( https://github.com/h
+ yperledger/quilt/pulls )\n* Q&A\, misc issues\n\nJoin Zoom Meeting:\n\nht
+ tps://zoom.us/j/6223336701?pwd=dkJKdHRlc3dNZEdKR1JYdW40R2pDUT09\n\nMeetin
+ g ID: 622 333 6701\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.backup
+SEQUENCE:0
+EXDATE:20210406T160000Z
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:34743
 UID:DxL8.1611686457466017948.r9B9@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=media-entertainment-sig@lists.hyperledger.org Group:mailto:m
  edia-entertainment-sig@lists.hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210406T090000
@@ -1237,30 +1225,29 @@ LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:21422
-UID:mUmr.1574918943934223893.8skU@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=David Fuelling:mailto:quilt@lists.hyperledger.org
-DTSTART;TZID=America/Denver:20210406T100000
-DTEND;TZID=America/Denver:20210406T110000
-RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=1TU
-SUMMARY:[Hyperledger Quilt] Hyperledger Quilt Community Call
-DESCRIPTION:Let's sync-up to discuss Hyperledger Quilt\, the Java ILP imp
- lementation of Interledger. The agenda is below\, but feel free to sugges
- t other topics by posting a message in the Quilt mailing list https://lis
- ts.hyperledger.org/g/quilt/topics) ( https://lists.hyperledger.org/g/quil
- t/topics )\n\nAgenda\n\n* Introductions\n* Discuss open Quilt issues ( ht
- tps://github.com/hyperledger/quilt/issues ) \; PRs ( https://github.com/h
- yperledger/quilt/pulls )\n* Q&A\, misc issues\n\nJoin Zoom Meeting:\n\nht
- tps://zoom.us/j/6223336701?pwd=dkJKdHRlc3dNZEdKR1JYdW40R2pDUT09\n\nMeetin
- g ID: 622 333 6701\nPasscode: 475869
-LOCATION:https://zoom.us/my/hyperledger.community.backup
+X-GIOIDS:Repeat:28759
+UID:GIsv.1591923966998838550.IdI5@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=community-latinoamerica-chapter@lists.hyperledger.org Group:
+ mailto:community-latinoamerica-chapter@lists.hyperledger.org
+DTSTART;TZID=America/Bogota:20210406T183000
+DTEND;TZID=America/Bogota:20210406T193000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TU
+SUMMARY:[Hyperledger Community Latinoamerica Chapter] Reunión de seguimi
+ ento capítulo Hyperledger Latinoamérica
+DESCRIPTION:Reunión de seguimiento capítulo Hyperldeger Latinoamérica\
+ n\nEn esta reunión el equipo los avances de las tareas asignadas y se re
+ aliza la planeación de los siguientes eventos\n\nLa reunión es abierta 
+ y todo los interesados pueden asistir para sumarse a al capítulo Latinoa
+ mericano
+LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
+ QM3JNQ2dqZz09
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:25673
 UID:2mcU.1583042806162070515.UFp2@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=TWGC commitee:mailto:david-khala@hotmail.com
 DTSTART;TZID=Asia/Shanghai:20210407T200000
 DTEND;TZID=Asia/Shanghai:20210407T210000
@@ -1283,7 +1270,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:27343
 UID:uZhE.1588008425894183709.q8Av@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART;TZID=Europe/London:20210407T190000
 DTEND;TZID=Europe/London:20210407T200000
@@ -1306,7 +1293,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:33387
 UID:RyUT.1607405890812060789.wrOV@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=cactus@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20210408
@@ -1322,7 +1309,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:36106
 UID:Z8Rv.1616079540505474486.UINI@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Harsha:mailto:mysore.subbakrishna.sriharsha@intel.com
 DTSTART;TZID=America/Los_Angeles:20210408T080000
 DTEND;TZID=America/Los_Angeles:20210408T090000
@@ -1341,7 +1328,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:33280
 UID:gnCE.1580078586891988355.ToOG@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger Community Meetings:mailto:iroha@lists.hyperledge
  r.org
 DTSTART;TZID=Europe/Moscow:20210409T140000
@@ -1355,9 +1342,54 @@ LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:21946
+UID:4Eor.1575655334541130099.K6bY@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Pam Andrejko:mailto:pama@ibm.com
+DTSTART;TZID=America/New_York:20210409T110000
+DTEND;TZID=America/New_York:20210409T120000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=FR
+SUMMARY:[Hyperledger Fabric] Hyperledger Fabric Documentation Workgroup c
+ all - Western hemisphere
+DESCRIPTION:Documentation workgroup call.\nAgenda\, minutes and recording
+ s :https://wiki.hyperledger.org/display/fabric/Documentation+Working+Grou
+ p\n\nJoin Zoom Meeting\nhttps://zoom.us/j/6223336701?pwd=dkJKdHRlc3dNZEdK
+ R1JYdW40R2pDUT09\n\nMeeting ID: 622 333 6701\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
+ ZEdKR1JYdW40R2pDUT09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Repeat:36541
+UID:Xe0T.1617737154142782547.HxL9@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Peter Somogyvari:mailto:peter.somogyvari@accenture.com
+DTSTART;TZID=America/Los_Angeles:20210412T230000
+DTEND;TZID=America/Los_Angeles:20210413T234500
+RRULE:FREQ=WEEKLY;INTERVAL=3;BYDAY=MO
+SUMMARY:[Hyperledger Cactus] Hyperledger Cactus - Drop-in Pair Programmin
+ g - Eastern Hemisphere
+DESCRIPTION:Hyperledger Cactus Drop-in Pair Programming Session\n\n------
+ --------------------------------------------------------------------\n\nF
+ eel free to drop by anytime and ask code related questions from maintaine
+ rs/contributors.\n\nQuestions can be ranging anywhere from starting a con
+ tribution/initial setup questions to finalizing complex PR reviews.\n\nIt
+ 's an informal setting where no issue is too small to be brought up: If y
+ ou show up\, share your screen and we figure out that a semicolon was mis
+ sing and that's why it wasn't working\, that's a great outcome and the me
+ eting will have worked as intended.\n\nThere's no pressure or barrier to 
+ entry as long as it's related to Cactus\, we'll be glad to discuss it on 
+ the call in a first come first serve ad-hoc basis.
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDRhODQ3Z
+ jUtYjNiOC00NTNmLWE1ODYtN2Y1Njk4MGYyNzU3%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%22e0793d39-0939-496d-b129-198edd916feb%22%2c%22Oid%22%3a%22fd8f43bf-
+ ad38-4f23-8e67-60cef973bca6%22%7d
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:36252
 UID:rgEH.1616726668164538614.EI8Q@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210413T000000
 DTEND;TZID=America/Los_Angeles:20210413T010000
@@ -1375,7 +1407,7 @@ BEGIN:VEVENT
 X-GIOIDS:Repeat:30453
 UID:040000008200E00074C5B7101A82E00800000000A2B287C1431CD6010000000000000
  00010000000574FD4FBC10D1D4BB8C30292AF2C34CB
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Andrea Frostini & Atul Patel:mailto:atulp@dlt.sg
 DTSTART;TZID=Asia/Kuala_Lumpur:20210413T153000
 DTEND;TZID=Asia/Kuala_Lumpur:20210413T163000
@@ -1391,7 +1423,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:22223
 UID:qgig.1576184568657056893.t1Vq@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=besu@lists.hyperledger.org Group:mailto:besu@lists.hyperledg
  er.org
 DTSTART:20210413T150000Z
@@ -1411,7 +1443,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:26090
 UID:adbr.1584549097249112229.AFof@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Marketing Committee:mailto:marketing@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210414T090000
 DTEND;TZID=America/Los_Angeles:20210414T100000
@@ -1435,7 +1467,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23819
 UID:hydQ.1578947274987795928.2Q7W@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=fabric@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20210415
@@ -1451,7 +1483,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:31304
 UID:6q4j.1599149716711850255.iNJj@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger Sawtooth Maintainers:mailto:sawtooth@lists.hyper
  ledger.org
 DTSTART;TZID=America/Chicago:20210416T100000
@@ -1468,7 +1500,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:36253
 UID:ZqFx.1616726783298781758.4dka@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210419T080000
 DTEND;TZID=America/Los_Angeles:20210419T090000
@@ -1485,7 +1517,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:26548
 UID:tXwv.1585584141714893442.L3i4@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger:mailto:membership@hyperledger.org
 DTSTART;TZID=Europe/London:20210421T100000
 DTEND;TZID=Europe/London:20210421T110000
@@ -1504,28 +1536,9 @@ LOCATION:Register for the event on: hyperledger.org/events﻿
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:33542
-UID:6S7F.1608064713558095731.pNSn@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=SIG-Chairs@lists.hyperledger.org Group:mailto:SIG-Chairs@lis
- ts.hyperledger.org
-DTSTART;TZID=America/Los_Angeles:20210421T100000
-DTEND;TZID=America/Los_Angeles:20210421T110000
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=3WE
-SUMMARY:[Hyperledger SIG Chairs] Quarterly Hyperledger SIG Chair Call
-DESCRIPTION:This meeting is to share best practices and tips for running 
- effective SIGs and to give you an opportunity to ask questions of the gro
- up.\n\nAgenda: https://docs.google.com/document/d/1ac-TCa5AwwchClQ1Cc0J69
- qNJ9G-gwfAclJX-z_xNII/edit ( https://www.google.com/url?q=https://docs.go
- ogle.com/document/d/1ac-TCa5AwwchClQ1Cc0J69qNJ9G-gwfAclJX-z_xNII/edit&sa=
- D&source=calendar&ust=1608477485514000&usg=AOvVaw0oRdmL_O5-CyQ0OZoPp6cJ )
-LOCATION:https://zoom.us/j/4336690939
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:23830
 UID:wsby.1578955535625233912.tQqh@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=sawtooth@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20210422
@@ -1541,7 +1554,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:34536
 UID:zrJX.1611146450108430224.eAie@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Blockchain Automation Framework:mailto:labs@lists.hyperledge
  r.org
 DTSTART;TZID=Asia/Kolkata:20210426T173000
@@ -1562,7 +1575,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:36254
 UID:EcyC.1616726879834336743.kqMN@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210426T160000
 DTEND;TZID=America/Los_Angeles:20210426T170000
@@ -1579,7 +1592,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:36255
 UID:ngtb.1616727015482990999.zz4T@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:ca-notices@hyperledger.org
 DTSTART;TZID=America/Los_Angeles:20210504T000000
 DTEND;TZID=America/Los_Angeles:20210504T010000
@@ -1596,7 +1609,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23837
 UID:uumg.1578956219148288557.ON8a@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=indy@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20210506
@@ -1612,7 +1625,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:34062
 UID:hWkf.1609790705374702795.zsIE@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=aries@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20210506
@@ -1628,7 +1641,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23834
 UID:Mmna.1578956024846181707.BllG@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=iroha@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20210513
@@ -1644,7 +1657,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23841
 UID:lehp.1578956417347249295.ng3V@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=burrow@lists.hyperledger.org Group:mailto:community-architec
  ts@hyperledger.org
 DTSTART:20210520
@@ -1658,25 +1671,9 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-X-GIOIDS:Repeat:23846
-UID:iWZG.1578956685668453070.9AtI@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
-ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
- ects@hyperledger.org
-DTSTART:20210527
-DTEND:20210528
-RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
-SUMMARY:[Hyperledger Transact] Hyperledger Project Quarterly Update Due #
- tsc-project-update
-DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
- s://wiki.hyperledger.org/display/TSC/2021+Project+Updates\n\nhttps://wiki
- .hyperledger.org/display/TSC/2021+TSC+Project+Update+Calendar
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 X-GIOIDS:Repeat:23871
 UID:d4IX.1578958535619448257.rjAu@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=grid@lists.hyperledger.org Group:mailto:community-architects
  @hyperledger.org
 DTSTART:20210527
@@ -1690,9 +1687,25 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:23846
+UID:iWZG.1578956685668453070.9AtI@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=transact@lists.hyperledger.org Group:mailto:community-archit
+ ects@hyperledger.org
+DTSTART:20210527
+DTEND:20210528
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH
+SUMMARY:[Hyperledger Transact] Hyperledger Project Quarterly Update Due #
+ tsc-project-update
+DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
+ s://wiki.hyperledger.org/display/TSC/2021+Project+Updates\n\nhttps://wiki
+ .hyperledger.org/display/TSC/2021+TSC+Project+Update+Calendar
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Repeat:23859
 UID:R0ux.1578957632324970963.KP6l@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=quilt@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20210603
@@ -1708,7 +1721,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23854
 UID:wmpK.1578957373593628980.dUL3@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=cello@lists.hyperledger.org Group:mailto:community-architect
  s@hyperledger.org
 DTSTART:20210603
@@ -1724,7 +1737,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:23867
 UID:hjLB.1578958160202936268.sgnw@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=explorer@lists.hyperledger.org Group:mailto:community-archit
  ects@hyperledger.org
 DTSTART:20210610
@@ -1740,7 +1753,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:12807
 UID:KN0A.1580078298431629019.GIwv@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=SIG-Chairs@lists.hyperledger.org Group:mailto:SIG-Chairs@lis
  ts.hyperledger.org
 DTSTART:20210616
@@ -1773,7 +1786,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Repeat:30518
 UID:nQ5x.1596674736178054146.bxbD@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Community Architects:mailto:community-architects@hyperledger
  .org
 DTSTART:20210617
@@ -1787,9 +1800,28 @@ DESCRIPTION:Please file a project status report for the TSC here:\n\nhttp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Repeat:33542
+UID:6S7F.1608064713558095731.pNSn@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=SIG-Chairs@lists.hyperledger.org Group:mailto:SIG-Chairs@lis
+ ts.hyperledger.org
+DTSTART;TZID=America/Los_Angeles:20210705T100000
+DTEND;TZID=America/Los_Angeles:20210705T110000
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1MO
+SUMMARY:[Hyperledger SIG Chairs] Quarterly Hyperledger SIG Chair Call
+DESCRIPTION:This meeting is to share best practices and tips for running 
+ effective SIGs and to give you an opportunity to ask questions of the gro
+ up.\n\nAgenda: https://docs.google.com/document/d/1ac-TCa5AwwchClQ1Cc0J69
+ qNJ9G-gwfAclJX-z_xNII/edit ( https://www.google.com/url?q=https://docs.go
+ ogle.com/document/d/1ac-TCa5AwwchClQ1Cc0J69qNJ9G-gwfAclJX-z_xNII/edit&sa=
+ D&source=calendar&ust=1608477485514000&usg=AOvVaw0oRdmL_O5-CyQ0OZoPp6cJ )
+LOCATION:https://zoom.us/j/4336690939
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Event:1024397 
 UID:1024397.0ziO.1580078662143876700.F9Ce@groups.io
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Vipin Bharathan:mailto:vip@dlt.nyc
 DTSTART:20210324T160000Z
 DTEND:20210324T170000Z
@@ -1810,20 +1842,41 @@ RECURRENCE-ID:20210324T140000Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Event:1110188 
+UID:1110188.VW2y.1598454872011842260.zFp5@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Jonathan Hamilton:mailto:labs@lists.hyperledger.org
+DTSTART:20210330T120000Z
+DTEND:20210330T130000Z
+SUMMARY:[Hyperledger Labs] Blockchain Automation Framework Contributors #
+ blockchain-automation-framework
+DESCRIPTION:Review & organization of roadmap and sprint activities\nhttps
+ ://chat.hyperledger.org/channel/blockchain-automation-framework\n\nhttps:
+ //github.com/hyperledger-labs/blockchain-automation-framework/issues\n\nJ
+ oin Zoom Meeting\n\nhttps://zoom.us/j/5184947650?pwd=UE90WHhEaHRqOGEyMkV3
+ cldKa2d2dz09\n\nMeeting ID: 518 494 7650\n\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
+ kV3cldKa2d2dz09
+RECURRENCE-ID:20210329T120000Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Event:1024384 
 UID:1024384.040000008200E00074C5B7101A82E00800000000A2B287C1431CD60100000
  0000000000010000000574FD4FBC10D1D4BB8C30292AF2C34CB
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Andrea Frostini & Eugenio Reggianini:mailto:tradefin101@gmai
  l.com
 DTSTART:20210330T160000Z
 DTEND:20210330T170000Z
 SUMMARY:[Hyperledger Trade Finance SIG] Trade Finance SIG
-DESCRIPTION:Trade Finance SIG meeting: The DNI Initiative by ITFA and the
-  ETR (A discussion with André Casterman\, Joel Schrevens\, Gunnar Collin
-  and Jacco de Jong)\n\nJoin Zoom Meeting\nhttps://zoom.us/j/6223336701?pw
- d=dkJKdHRlc3dNZEdKR1JYdW40R2pDUT09\n\nMeeting ID: 622 333 6701\nPasscode:
-  475869
+DESCRIPTION:Hyperledger Trade Finance Meeting - End of Q1 2021: recap on 
+ activities\n\n"GLOBAL TRADE: trade finance and logistics intertwined\n\nH
+ ow to create an inclusive eecosystem through digital twin\, creating inno
+ vative servies through DLTs and other realted technologies.\nA picture of
+  the ongoing projects in the Netherlands and Northern Europe."\n\nJoin Zo
+ om Meeting\nhttps://zoom.us/j/6223336701?pwd=dkJKdHRlc3dNZEdKR1JYdW40R2pD
+ UT09\n\nMeeting ID: 622 333 6701\nPasscode: 475869
 LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
  ZEdKR1JYdW40R2pDUT09
 RECURRENCE-ID:20210316T073000Z
@@ -1832,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1101899 
 UID:zlVV.1616095644540311182.h4Ql@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Andrea Frostini:mailto:tradefin101@gmail.com
 DTSTART:20210324T160000Z
 DTEND:20210324T170000Z
@@ -1858,7 +1911,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1107404 
 UID:CILF.1616487341291191902.nwRI@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Peter Somogyvari:mailto:peter.somogyvari@accenture.com
 DTSTART:20210325T060000Z
 DTEND:20210325T070000Z
@@ -1874,7 +1927,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1058415 
 UID:fK2V.1612474767027279238.zr8b@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210325T173000Z
@@ -1897,7 +1950,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1108608 
 UID:jB1h.1616605240013929906.6cQ5@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger India Chapter Student Society:mailto:community-i
  ndia-chapter@lists.hyperledger.org
 DTSTART:20210327T103000Z
@@ -1927,7 +1980,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1086353 
 UID:g7zg.1614789162831277683.8BNe@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210331T150000Z
@@ -1960,7 +2013,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1098701 
 UID:LDQ8.1615825431541267646.2WRk@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210331T170000Z
@@ -1985,7 +2038,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1109196 
 UID:k4wX.1616683450893512491.fQlo@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210331T190000Z
@@ -2006,7 +2059,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1109150 
 UID:x2Ma.1616679355081036517.XBDJ@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=Hyperledger Latinoamerica:mailto:community-latinoamerica-cha
  pter@lists.hyperledger.org
 DTSTART:20210331T190000Z
@@ -2038,7 +2091,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1110297 
 UID:1Ksl.1616786239334401388.glPi@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210401T150000Z
@@ -2065,7 +2118,7 @@ END:VEVENT
 BEGIN:VEVENT
 X-GIOIDS:Event:1108456 
 UID:hrrt.1616598373507917175.65bl@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210401T220000Z
@@ -2086,9 +2139,149 @@ LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+X-GIOIDS:Event:1114305 
+UID:czXn.1617211498673613134.z4WQ@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
+ erledger.org
+DTSTART:20210410T120000Z
+DTEND:20210410T133000Z
+SUMMARY:[Hyperledger Meetups] Hyperledger Riyadh hosts: 21 use cases of b
+ lockchain solution with Hyperledger - For Entrepreneurs
+DESCRIPTION:In this short webinar\, we briefly review the Hyperledger fam
+ ily and Hyperledger Fabric\, and 21 industry use cases for Hyperledger pl
+ atform. By surveying the most common business use cases of Hyperledger\, 
+ we provide entrepreneurs with practical insights for starting their next 
+ entrepreneurial endeavor using Hyperledger. This webinar is a must for cu
+ rrent professionals and entrepreneurs who like to explore blockchain oppo
+ rtunities for their next career move.\n\nMore about the meetup is at: htt
+ ps://www.meetup.com/Hyperledger-Riyadh/events/277280261/
+LOCATION:https://us02web.zoom.us/j/88411823472?pwd=QmJGQWxVT1A2VHN2S3VoMT
+ c3OW1Edz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1116192 
+UID:auz1.1617374862192543458.jLHq@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
+ erledger.org
+DTSTART:20210415T160000Z
+DTEND:20210415T173000Z
+SUMMARY:[Hyperledger Meetups] Hyperledger Toronto hosts "Scaling Hyperled
+ ger Fabric networks"
+DESCRIPTION:Join us for this Online lunch & learn session for the East-co
+ ast\, morning breakfast for the West-coast and after business for our Eur
+ opean fans and everyone else too.\n\nThe discussion will be about an ever
+ green topic\, scaling Hyperledger Fabric networks.\n\nScalability is an i
+ mportant property of any software system including blockchain networks.\n
+ \nWe will talk about scaling permissioned blockchain networks based on Hy
+ perledger Fabric. Having the right design when building and operating a n
+ etwork is essential for many use cases (i.e. supply chain) that depend on
+  proper scaling and transaction throughput. We will discuss the heterogen
+ eous nature of the networks and why cross-cloud deployments are essential
+ .\n\nMore about the meetup is at: https://www.meetup.com/Hyperledger-Toro
+ nto/events/277310163/
+LOCATION:https://zoom.us/my/hyperledger.community?pwd=STZQd0xMZU9xRVVOVnp
+ QM3JNQ2dqZz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1119746 
+UID:gtA2.1617715512286926913.reWu@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=Andrea Frosinini:mailto:tradefin101@gmail.com
+DTSTART:20210420T160000Z
+DTEND:20210420T170000Z
+SUMMARY:[Hyperledger Trade Finance SIG] Hyperledger TF-SIG Special Meetin
+ g
+DESCRIPTION:Trade Finance SIG\n\nJoin Zoom Meeting\nhttps://zoom.us/j/622
+ 3336701?pwd=dkJKdHRlc3dNZEdKR1JYdW40R2pDUT09 ( https://www.google.com/url
+ ?q=https://zoom.us/j/6223336701?pwd%3DdkJKdHRlc3dNZEdKR1JYdW40R2pDUT09&sa
+ =D&source=calendar&usd=2&usg=AOvVaw2fBxGFG4_VtpEFwcbTd4Ge )\n\nMeeting ID
+ : 622 333 6701\nPasscode: 475869
+LOCATION:https://zoom.us/my/hyperledger.community.backup?pwd=dkJKdHRlc3dN
+ ZEdKR1JYdW40R2pDUT09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1112580 
+UID:HaCJ.1617030562509131134.pNQ6@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
+ erledger.org
+DTSTART:20210423T110000Z
+DTEND:20210423T130000Z
+SUMMARY:[Hyperledger Meetups] Hyperledger China hosts: 区块链自动化
+ 框架（BAF）简介
+DESCRIPTION:Blockchain Automation Framework (BAF) 提供了一个自动
+ 化框架，用于快速并统一地将生产级的DLT平台部署到云
+ 基础架构上。\nBAF利用Ansible，Helm和Kubernetes部署生产级DL
+ T网络。具体来说，它利用了Ansible进行DevOps工程师对网
+ 络的配置。然后用Helm Chart引导将必要组件部署到Kubernete
+ s。选择Kubernetes是为了允许BAF将DLT网络部署到支持Kubernet
+ es的任何云中。\n\nBAF目前支持Hyperledger Fabric\, Hyperledger I
+ ndy\, Hyperledger Besu\, Corda\, Corda 企业版\, and Quorum. 。\n\nhtt
+ ps://www.meetup.com/Hyperledger-Mainland-China/events/276966719/
+LOCATION:https://zoom.us/webinar/register/3316169991950/WN_AsTqrULUQkm2YW
+ 1UE0UdQg
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1120061 
+UID:p3Ar.1617748141150939385.XIfz@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
+ erledger.org
+DTSTART:20210423T160000Z
+DTEND:20210423T173000Z
+SUMMARY:[Hyperledger Meetups] Hyperledger Poland hosts: Fabrica\, czyli j
+ ak łatwo zacząć swoją przygodę z Hyperledgerem
+DESCRIPTION:Tematem Hyperledger Meetup Poland #3 będzie Fabrica\, czyli 
+ wewnętrzny projekt firmy SoftwareMill\, który w końcu stał się open 
+ sourcem.\n\nPodczas wydarzenia prelegent zaprezentuje\, jak w 15 min stwo
+ rzyć sieć Hyperledger Fabric z działającym chaincodem.\n\nDodatkowo o
+ powie:\n- skąd zrodziła się potrzeba stworzenia 'Fabrici'\n- jak upras
+ zcza ona start i rozwój każdego nowego projektu\n- jakie są alternatyw
+ ne rozwiązania problemu\n- jakie są dalsze plany na rozwój projektu\n\
+ nBędzie to świetna okazja do zapoznania się z nowym rozwiązaniem oraz
+  wyrażenia opinii na jego temat. Zachęcamy do aktywnego udziału w wyda
+ rzeniu.\n\nhttps://www.meetup.com/Hyperledger-Warsaw/events/277344338/
+LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
+ kV3cldKa2d2dz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+X-GIOIDS:Event:1121871 
+UID:54O3.1617893615224127526.rild@lists.hyperledger.org
+DTSTAMP:20210408T195324Z
+ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
+ erledger.org
+DTSTART:20210428T160000Z
+DTEND:20210428T173000Z
+SUMMARY:[Hyperledger Meetups] Hyperledger Vilnius hosts: Supplier Digital
+  Passport Using Trust Your Supplier
+DESCRIPTION:Trust Your Supplier is a production Hyperledger Fabric blockc
+ hain network\, running on the IBM Blockchain Platform\, that provides sup
+ pliers with a trusted digital passport to streamline on-boarding with the
+ ir customers. This presentation will provide an overview of the network\,
+  discuss the business value to the participants\, and highlight why block
+ chain and the selected governance approach makes this solution better for
+  all the participants (buyers\, suppliers\, third party validators\, and 
+ business networks). The network is developed and operated by Chainyard. P
+ lease get more details from https://www.trustyoursupplier.com/\n\nThe web
+ inar will start at 18:00 CEST (GMT+2)\nIndicated time on event page 7pm (
+ 19:00) is the same just another time zone - Lithuanian GMT+3\n\nMore abou
+ t the meetup is at: https://www.meetup.com/Hyperledger-Vlnius/events/2773
+ 99044/
+LOCATION:https://zoom.us/my/hyperledger.community.3?pwd=UE90WHhEaHRqOGEyM
+ kV3cldKa2d2dz09
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 X-GIOIDS:Event:1107457 
 UID:WB26.1616514829694905261.h9qT@lists.hyperledger.org
-DTSTAMP:20210328T145046Z
+DTSTAMP:20210408T195324Z
 ORGANIZER;CN=meetups@lists.hyperledger.org Group:mailto:meetups@lists.hyp
  erledger.org
 DTSTART:20210429T150000Z
